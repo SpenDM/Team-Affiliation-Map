@@ -33,7 +33,7 @@ DATA_DIR   = ROOT / "data"
 OUTPUT_DIR = ROOT / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-SCORES_CSV    = OUTPUT_DIR / "scores_unbalanced.csv"
+SCORES_CSV    = OUTPUT_DIR / "scores_balanced.csv"
 MAP_GEOJSON   = OUTPUT_DIR / "map.geojson"
 
 # Cached boundary file paths (so re-runs don't re-download)

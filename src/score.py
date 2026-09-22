@@ -41,7 +41,8 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 TEAMS_CSV         = DATA_DIR / "teams.csv"
 US_CROSSWALK      = DATA_DIR / "dma_county_crosswalk.csv"
 CA_CROSSWALK      = DATA_DIR / "canada_division_market.csv"
-SCORES_OUTPUT     = OUTPUT_DIR / "scores_unbalanced.csv"
+SCORES_OUTPUT          = OUTPUT_DIR / "scores_unbalanced.csv"
+SCORES_BALANCED_OUTPUT = OUTPUT_DIR / "scores_balanced.csv"
 
 ANCHOR_ID = "T009"  # Dallas Cowboys
 
@@ -114,6 +115,50 @@ def normalize_balanced(
         "Balanced scoring is a planned variant — implement normalize_balanced() "
         "and call it in main() with a 'balanced' flag."
     )
+
+
+def location_quotient(
+    geo_scores: dict[str, dict[str, float]],
+    min_dmas: int = 5,
+) -> dict[str, dict[str, float]]:
+    """
+    Location-quotient balancing applied to already-aggregated geo_scores.
+
+    Divides each team's DMA score by that team's mean across ALL DMAs:
+        LQ[team, dma] = anchor_relative[team, dma] / mean_over_dmas(anchor_relative[team])
+
+    A value > 1 → more popular here than the team's national average.
+    A value < 1 → less popular here.
+
+    This suppresses teams that are uniformly popular everywhere (Alabama Football
+    has fans in every state, so its raw anchor-relative scores are high everywhere)
+    and amplifies genuine local concentration (the hometown NFL franchise that nobody
+    outside the market searches for).
+
+    Teams present in fewer than `min_dmas` are excluded — their "national average"
+    is too thin to be meaningful.
+    """
+    # Collect all DMA-level scores per team
+    team_all: dict[str, list[float]] = {}
+    for scores in geo_scores.values():
+        for team, score in scores.items():
+            team_all.setdefault(team, []).append(score)
+
+    # National mean per team (require ≥ min_dmas DMAs and non-zero average)
+    national_mean: dict[str, float] = {
+        team: sum(vals) / len(vals)
+        for team, vals in team_all.items()
+        if len(vals) >= min_dmas and sum(vals) > 0
+    }
+
+    return {
+        dma: {
+            team: score / national_mean[team]
+            for team, score in scores.items()
+            if team in national_mean and national_mean[team] > 0
+        }
+        for dma, scores in geo_scores.items()
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -486,6 +531,47 @@ def main() -> None:
         f"Wrote {len(combined)} rows "
         f"({len(us_winners)} US counties, {len(ca_winners)} CA divisions) "
         f"→ {SCORES_OUTPUT.name}"
+    )
+
+    # -----------------------------------------------------------------------
+    # Balanced (location-quotient) scoring
+    # Divide each team's DMA score by its national mean so the winner is the
+    # team most CONCENTRATED here relative to its own nationwide baseline.
+    # -----------------------------------------------------------------------
+    log.info("Computing balanced (location-quotient) scores …")
+    us_geo_lq = location_quotient(us_geo_scores)
+    ca_geo_lq = location_quotient(ca_geo_scores)
+
+    log.info("Expanding balanced US scores to county level …")
+    us_long_bal = expand_to_geography(
+        us_geo_lq, us_crosswalk,
+        geo_col="dma_name", id_col="county_fips", name_col="county_name",
+    )
+    log.info("Expanding balanced CA scores to division level …")
+    ca_long_bal = expand_to_geography(
+        ca_geo_lq, ca_crosswalk,
+        geo_col="province", id_col="division_id", name_col="division_name",
+    )
+
+    log.info("Picking balanced winners …")
+    us_winners_bal = pick_winners(us_long_bal, "county_fips", "county_name", team_lookup)
+    ca_winners_bal = pick_winners(ca_long_bal, "division_id", "division_name", team_lookup)
+
+    ca_winners_bal = ca_winners_bal.rename(columns={
+        "division_id":   "county_fips_or_division_id",
+        "division_name": "county_name",
+    })
+    us_winners_bal = us_winners_bal.rename(columns={
+        "county_fips": "county_fips_or_division_id",
+    })
+
+    combined_bal = pd.concat([us_winners_bal, ca_winners_bal], ignore_index=True)
+    combined_bal[out_cols].to_csv(SCORES_BALANCED_OUTPUT, index=False)
+
+    log.info(
+        f"Wrote {len(combined_bal)} rows "
+        f"({len(us_winners_bal)} US counties, {len(ca_winners_bal)} CA divisions) "
+        f"→ {SCORES_BALANCED_OUTPUT.name}"
     )
 
 
