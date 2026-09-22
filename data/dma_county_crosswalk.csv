@@ -1,0 +1,3142 @@
+state,dma_code,county_fips,county_name,dma_name
+AL,698,01001,Autauga,Montgomery
+AL,686,01003,Baldwin,Mobile-Pensacola
+AL,522,01005,Barbour,"Columbus, Ga"
+AL,630,01007,Bibb,Birmingham
+AL,630,01009,Blount,Birmingham
+AL,698,01011,Bullock,Montgomery
+AL,698,01013,Butler,Montgomery
+AL,630,01015,Calhoun,Birmingham
+AL,522,01017,Chambers,"Columbus, Ga"
+AL,630,01019,Cherokee,Birmingham
+AL,630,01021,Chilton,Birmingham
+AL,711,01023,Choctaw,Meridian
+AL,686,01025,Clarke,Mobile-Pensacola
+AL,630,01027,Clay,Birmingham
+AL,524,01029,Cleburne,Atlanta
+AL,606,01031,Coffee,Dothan
+AL,691,01033,Colbert,Huntsville-Decatur-Florence
+AL,686,01035,Conecuh,Mobile-Pensacola
+AL,630,01037,Coosa,Birmingham
+AL,698,01039,Covington,Montgomery
+AL,698,01041,Crenshaw,Montgomery
+AL,630,01043,Cullman,Birmingham
+AL,606,01045,Dale,Dothan
+AL,698,01047,Dallas,Montgomery
+AL,691,01049,De Kalb,Huntsville-Decatur-Florence
+AL,698,01051,Elmore,Montgomery
+AL,686,01053,Escambia,Mobile-Pensacola
+AL,630,01055,Etowah,Birmingham
+AL,630,01057,Fayette,Birmingham
+AL,691,01059,Franklin,Huntsville-Decatur-Florence
+AL,606,01061,Geneva,Dothan
+AL,630,01063,Greene,Birmingham
+AL,630,01065,Hale,Birmingham
+AL,606,01067,Henry,Dothan
+AL,606,01069,Houston,Dothan
+AL,691,01071,Jackson,Huntsville-Decatur-Florence
+AL,630,01073,Jefferson,Birmingham
+AL,673,01075,Lamar,Columbus-Tupelo-West Point
+AL,691,01077,Lauderdale,Huntsville-Decatur-Florence
+AL,691,01079,Lawrence,Huntsville-Decatur-Florence
+AL,522,01081,Lee,"Columbus, Ga"
+AL,691,01083,Limestone,Huntsville-Decatur-Florence
+AL,698,01085,Lowndes,Montgomery
+AL,698,01087,Macon,Montgomery
+AL,691,01089,Madison,Huntsville-Decatur-Florence
+AL,698,01091,Marengo,Montgomery
+AL,630,01093,Marion,Birmingham
+AL,691,01095,Marshall,Huntsville-Decatur-Florence
+AL,686,01097,Mobile,Mobile-Pensacola
+AL,686,01099,Monroe,Mobile-Pensacola
+AL,698,01101,Montgomery,Montgomery
+AL,691,01103,Morgan,Huntsville-Decatur-Florence
+AL,698,01105,Perry,Montgomery
+AL,630,01107,Pickens,Birmingham
+AL,698,01109,Pike,Montgomery
+AL,524,01111,Randolph,Atlanta
+AL,522,01113,Russell,"Columbus, Ga"
+AL,630,01115,Saint Clair,Birmingham
+AL,630,01117,Shelby,Birmingham
+AL,711,01119,Sumter,Meridian
+AL,630,01121,Talladega,Birmingham
+AL,698,01123,Tallapoosa,Montgomery
+AL,630,01125,Tuscaloosa,Birmingham
+AL,630,01127,Walker,Birmingham
+AL,686,01129,Washington,Mobile-Pensacola
+AL,698,01131,Wilcox,Montgomery
+AL,630,01133,Winston,Birmingham
+AK,0,02013,Aleutians East,(Non-Dma Counties)
+AK,0,02016,Aleutians West,(Non-Dma Counties)
+AK,743,02020,Anchorage,Anchorage
+AK,0,02050,Bethel,(Non-Dma Counties)
+AK,0,02060,Bristol Bay,(Non-Dma Counties)
+AK,0,02068,Denali,(Non-Dma Counties)
+AK,0,02070,Dillingham,(Non-Dma Counties)
+AK,745,02090,Fairbanks North Star,Fairbanks
+AK,0,02100,Haines,(Non-Dma Counties)
+AK,747,02110,Juneau,Juneau
+AK,743,02122,Kenai Peninsula,Anchorage
+AK,0,02130,Ketchikan Gateway,(Non-Dma Counties)
+AK,0,02150,Kodiak Island,(Non-Dma Counties)
+AK,0,02164,Lake and Peninsula,(Non-Dma Counties)
+AK,743,02170,Matanuska Susitna,Anchorage
+AK,0,02180,Nome,(Non-Dma Counties)
+AK,0,02185,North Slope,(Non-Dma Counties)
+AK,0,02188,Northwest Arctic,(Non-Dma Counties)
+AK,0,02201,Prince Wales Ketchikan,(Non-Dma Counties)
+AK,0,02220,Sitka,(Non-Dma Counties)
+AK,0,02232,Skagway Hoonah Angoon,(Non-Dma Counties)
+AK,0,02240,Southeast Fairbanks,(Non-Dma Counties)
+AK,0,02261,Valdez Cordova,(Non-Dma Counties)
+AK,0,02270,Wade Hampton,(Non-Dma Counties)
+AK,0,02280,Wrangell Petersburg,(Non-Dma Counties)
+AK,0,02282,Yakutat,(Non-Dma Counties)
+AK,0,02290,Yukon Koyukuk,(Non-Dma Counties)
+AZ,790,04001,Apache,Albuquerque-Santa Fe
+AZ,789,04003,Cochise,Tucson-Sierra Vista
+AZ,753,04005,Coconino,Phoenix
+AZ,753,04007,Gila,Phoenix
+AZ,753,04009,Graham,Phoenix
+AZ,753,04011,Greenlee,Phoenix
+AZ,753,04012,La Paz,Phoenix
+AZ,753,04013,Maricopa,Phoenix
+AZ,753,04015,Mohave,Phoenix
+AZ,753,04017,Navajo,Phoenix
+AZ,789,04019,Pima,Tucson-Sierra Vista
+AZ,753,04021,Pinal,Phoenix
+AZ,789,04023,Santa Cruz,Tucson-Sierra Vista
+AZ,753,04025,Yavapai,Phoenix
+AZ,771,04027,Yuma,Yuma-El Centro
+AR,693,05001,Arkansas,Little Rock-Pine Bluff
+AR,628,05003,Ashley,Monroe-El Dorado
+AR,619,05005,Baxter,"Springfield, Mo"
+AR,670,05007,Benton,Fort Smith-Fay-Sprngdl
+AR,619,05009,Boone,"Springfield, Mo"
+AR,693,05011,Bradley,Little Rock-Pine Bluff
+AR,693,05013,Calhoun,Little Rock-Pine Bluff
+AR,619,05015,Carroll,"Springfield, Mo"
+AR,647,05017,Chicot,Greenwood-Greenville
+AR,693,05019,Clark,Little Rock-Pine Bluff
+AR,734,05021,Clay,Jonesboro
+AR,693,05023,Cleburne,Little Rock-Pine Bluff
+AR,693,05025,Cleveland,Little Rock-Pine Bluff
+AR,612,05027,Columbia,Shreveport
+AR,693,05029,Conway,Little Rock-Pine Bluff
+AR,734,05031,Craighead,Jonesboro
+AR,670,05033,Crawford,Fort Smith-Fay-Sprngdl
+AR,640,05035,Crittenden,Memphis
+AR,640,05037,Cross,Memphis
+AR,693,05039,Dallas,Little Rock-Pine Bluff
+AR,693,05041,Desha,Little Rock-Pine Bluff
+AR,693,05043,Drew,Little Rock-Pine Bluff
+AR,693,05045,Faulkner,Little Rock-Pine Bluff
+AR,670,05047,Franklin,Fort Smith-Fay-Sprngdl
+AR,619,05049,Fulton,"Springfield, Mo"
+AR,693,05051,Garland,Little Rock-Pine Bluff
+AR,693,05053,Grant,Little Rock-Pine Bluff
+AR,734,05055,Greene,Jonesboro
+AR,612,05057,Hempstead,Shreveport
+AR,693,05059,Hot Spring,Little Rock-Pine Bluff
+AR,612,05061,Howard,Shreveport
+AR,693,05063,Independence,Little Rock-Pine Bluff
+AR,693,05065,Izard,Little Rock-Pine Bluff
+AR,693,05067,Jackson,Little Rock-Pine Bluff
+AR,693,05069,Jefferson,Little Rock-Pine Bluff
+AR,670,05071,Johnson,Fort Smith-Fay-Sprngdl
+AR,612,05073,Lafayette,Shreveport
+AR,734,05075,Lawrence,Jonesboro
+AR,640,05077,Lee,Memphis
+AR,693,05079,Lincoln,Little Rock-Pine Bluff
+AR,612,05081,Little River,Shreveport
+AR,670,05083,Logan,Fort Smith-Fay-Sprngdl
+AR,693,05085,Lonoke,Little Rock-Pine Bluff
+AR,670,05087,Madison,Fort Smith-Fay-Sprngdl
+AR,619,05089,Marion,"Springfield, Mo"
+AR,612,05091,Miller,Shreveport
+AR,640,05093,Mississippi,Memphis
+AR,693,05095,Monroe,Little Rock-Pine Bluff
+AR,693,05097,Montgomery,Little Rock-Pine Bluff
+AR,693,05099,Nevada,Little Rock-Pine Bluff
+AR,619,05101,Newton,"Springfield, Mo"
+AR,693,05103,Ouachita,Little Rock-Pine Bluff
+AR,693,05105,Perry,Little Rock-Pine Bluff
+AR,640,05107,Phillips,Memphis
+AR,693,05109,Pike,Little Rock-Pine Bluff
+AR,640,05111,Poinsett,Memphis
+AR,693,05113,Polk,Little Rock-Pine Bluff
+AR,693,05115,Pope,Little Rock-Pine Bluff
+AR,693,05117,Prairie,Little Rock-Pine Bluff
+AR,693,05119,Pulaski,Little Rock-Pine Bluff
+AR,734,05121,Randolph,Jonesboro
+AR,640,05123,Saint Francis,Memphis
+AR,693,05125,Saline,Little Rock-Pine Bluff
+AR,670,05127,Scott,Fort Smith-Fay-Sprngdl
+AR,693,05129,Searcy,Little Rock-Pine Bluff
+AR,670,05131,Sebastian,Fort Smith-Fay-Sprngdl
+AR,612,05133,Sevier,Shreveport
+AR,734,05135,Sharp,Jonesboro
+AR,693,05137,Stone,Little Rock-Pine Bluff
+AR,628,05139,Union,Monroe-El Dorado
+AR,693,05141,Van Buren,Little Rock-Pine Bluff
+AR,670,05143,Washington,Fort Smith-Fay-Sprngdl
+AR,693,05145,White,Little Rock-Pine Bluff
+AR,693,05147,Woodruff,Little Rock-Pine Bluff
+AR,693,05149,Yell,Little Rock-Pine Bluff
+CA,807,06001,Alameda,San Francisco-Oakland-San Jose
+CA,811,06003,Alpine,Reno
+CA,862,06005,Amador,Sacramento-Stockton-Modesto
+CA,868,06007,Butte,Chico-Redding
+CA,862,06009,Calaveras,Sacramento-Stockton-Modesto
+CA,862,06011,Colusa,Sacramento-Stockton-Modesto
+CA,807,06013,Contra Costa,San Francisco-Oakland-San Jose
+CA,802,06015,Del Norte,Eureka
+CA,862,06017,El Dorado,Sacramento-Stockton-Modesto
+CA,866,06019,Fresno,Fresno-Visalia
+CA,868,06021,Glenn,Chico-Redding
+CA,802,06023,Humboldt,Eureka
+CA,771,06025,Imperial,Yuma-El Centro
+CA,803,06027,Inyo,Los Angeles
+CA,800,06029,Kern,Bakersfield
+CA,866,06031,Kings,Fresno-Visalia
+CA,807,06033,Lake,San Francisco-Oakland-San Jose
+CA,811,06035,Lassen,Reno
+CA,803,06037,Los Angeles,Los Angeles
+CA,866,06039,Madera,Fresno-Visalia
+CA,807,06041,Marin,San Francisco-Oakland-San Jose
+CA,866,06043,Mariposa,Fresno-Visalia
+CA,807,06045,Mendocino,San Francisco-Oakland-San Jose
+CA,866,06047,Merced,Fresno-Visalia
+CA,868,06049,Modoc,Chico-Redding
+CA,811,06051,Mono,Reno
+CA,828,06053,Monterey,Monterey-Salinas
+CA,807,06055,Napa,San Francisco-Oakland-San Jose
+CA,862,06057,Nevada,Sacramento-Stockton-Modesto
+CA,803,06059,Orange,Los Angeles
+CA,862,06061,Placer,Sacramento-Stockton-Modesto
+CA,862,06063,Plumas,Sacramento-Stockton-Modesto
+CA,803,06065,Riverside,Los Angeles
+CA,862,06067,Sacramento,Sacramento-Stockton-Modesto
+CA,828,06069,San Benito,Monterey-Salinas
+CA,803,06071,San Bernardino,Los Angeles
+CA,825,06073,San Diego,San Diego
+CA,807,06075,San Francisco,San Francisco-Oakland-San Jose
+CA,862,06077,San Joaquin,Sacramento-Stockton-Modesto
+CA,855,06079,San Luis Obispo,Santa Barbara-San Mar-San Luis Obispo
+CA,807,06081,San Mateo,San Francisco-Oakland-San Jose
+CA,855,06083,Santa Barbara,Santa Barbara-San Mar-San Luis Obispo
+CA,807,06085,Santa Clara,San Francisco-Oakland-San Jose
+CA,828,06087,Santa Cruz,Monterey-Salinas
+CA,868,06089,Shasta,Chico-Redding
+CA,862,06091,Sierra,Sacramento-Stockton-Modesto
+CA,813,06093,Siskiyou,Medford-Klamath Falls
+CA,862,06095,Solano,Sacramento-Stockton-Modesto
+CA,807,06097,Sonoma,San Francisco-Oakland-San Jose
+CA,862,06099,Stanislaus,Sacramento-Stockton-Modesto
+CA,862,06101,Sutter,Sacramento-Stockton-Modesto
+CA,868,06103,Tehama,Chico-Redding
+CA,868,06105,Trinity,Chico-Redding
+CA,866,06107,Tulare,Fresno-Visalia
+CA,862,06109,Tuolumne,Sacramento-Stockton-Modesto
+CA,803,06111,Ventura,Los Angeles
+CA,862,06113,Yolo,Sacramento-Stockton-Modesto
+CA,862,06115,Yuba,Sacramento-Stockton-Modesto
+CO,751,08001,Adams,Denver
+CO,751,08003,Alamosa,Denver
+CO,751,08005,Arapahoe,Denver
+CO,751,08007,Archuleta,Denver
+CO,752,08009,Baca,Colorado Springs-Pueblo
+CO,752,08011,Bent,Colorado Springs-Pueblo
+CO,751,08013,Boulder,Denver
+CO,751,08014,Broomfield,Denver
+CO,751,08015,Chaffee,Denver
+CO,751,08017,Cheyenne,Denver
+CO,751,08019,Clear Creek,Denver
+CO,751,08021,Conejos,Denver
+CO,751,08023,Costilla,Denver
+CO,752,08025,Crowley,Colorado Springs-Pueblo
+CO,752,08027,Custer,Colorado Springs-Pueblo
+CO,751,08029,Delta,Denver
+CO,751,08031,Denver,Denver
+CO,751,08033,Dolores,Denver
+CO,751,08035,Douglas,Denver
+CO,751,08037,Eagle,Denver
+CO,751,08039,Elbert,Denver
+CO,752,08041,El Paso,Colorado Springs-Pueblo
+CO,752,08043,Fremont,Colorado Springs-Pueblo
+CO,751,08045,Garfield,Denver
+CO,751,08047,Gilpin,Denver
+CO,751,08049,Grand,Denver
+CO,751,08051,Gunnison,Denver
+CO,751,08053,Hinsdale,Denver
+CO,752,08055,Huerfano,Colorado Springs-Pueblo
+CO,751,08057,Jackson,Denver
+CO,751,08059,Jefferson,Denver
+CO,752,08061,Kiowa,Colorado Springs-Pueblo
+CO,751,08063,Kit Carson,Denver
+CO,751,08065,Lake,Denver
+CO,790,08067,La Plata,Albuquerque-Santa Fe
+CO,751,08069,Larimer,Denver
+CO,752,08071,Las Animas,Colorado Springs-Pueblo
+CO,751,08073,Lincoln,Denver
+CO,751,08075,Logan,Denver
+CO,773,08077,Mesa,Grand Junction-Montrose
+CO,751,08079,Mineral,Denver
+CO,751,08081,Moffat,Denver
+CO,790,08083,Montezuma,Albuquerque-Santa Fe
+CO,773,08085,Montrose,Grand Junction-Montrose
+CO,751,08087,Morgan,Denver
+CO,752,08089,Otero,Colorado Springs-Pueblo
+CO,751,08091,Ouray,Denver
+CO,751,08093,Park,Denver
+CO,751,08095,Phillips,Denver
+CO,751,08097,Pitkin,Denver
+CO,751,08099,Prowers,Denver
+CO,752,08101,Pueblo,Colorado Springs-Pueblo
+CO,751,08103,Rio Blanco,Denver
+CO,751,08105,Rio Grande,Denver
+CO,751,08107,Routt,Denver
+CO,751,08109,Saguache,Denver
+CO,751,08111,San Juan,Denver
+CO,751,08113,San Miguel,Denver
+CO,751,08115,Sedgwick,Denver
+CO,751,08117,Summit,Denver
+CO,752,08119,Teller,Colorado Springs-Pueblo
+CO,751,08121,Washington,Denver
+CO,751,08123,Weld,Denver
+CO,751,08125,Yuma,Denver
+CT,501,09001,Fairfield,New York
+CT,533,09003,Hartford,Hartford-New Haven
+CT,533,09005,Litchfield,Hartford-New Haven
+CT,533,09007,Middlesex,Hartford-New Haven
+CT,533,09009,New Haven,Hartford-New Haven
+CT,533,09011,New London,Hartford-New Haven
+CT,533,09013,Tolland,Hartford-New Haven
+CT,533,09015,Windham,Hartford-New Haven
+DE,504,10001,Kent,Philadelphia
+DE,504,10003,New Castle,Philadelphia
+DE,576,10005,Sussex,Salisbury
+DC,511,11001,District of Columbia,"Washington, Dc-Hagrstwn"
+FL,592,12001,Alachua,Gainesville
+FL,561,12003,Baker,Jacksonville
+FL,656,12005,Bay,Panama City
+FL,561,12007,Bradford,Jacksonville
+FL,534,12009,Brevard,Orlando-Daytona Beach-Melbourne
+FL,528,12011,Broward,Miami-Fort Lauderdale
+FL,656,12013,Calhoun,Panama City
+FL,571,12015,Charlotte,Fort Myers-Naples
+FL,539,12017,Citrus,Tampa-St Petersburg-Sarasota
+FL,561,12019,Clay,Jacksonville
+FL,571,12021,Collier,Fort Myers-Naples
+FL,561,12023,Columbia,Jacksonville
+FL,571,12027,De Soto,Fort Myers-Naples
+FL,592,12029,Dixie,Gainesville
+FL,561,12031,Duval,Jacksonville
+FL,686,12033,Escambia,Mobile-Pensacola
+FL,534,12035,Flagler,Orlando-Daytona Beach-Melbourne
+FL,656,12037,Franklin,Panama City
+FL,530,12039,Gadsden,Tallahassee-Thomasville
+FL,592,12041,Gilchrist,Gainesville
+FL,571,12043,Glades,Fort Myers-Naples
+FL,656,12045,Gulf,Panama City
+FL,530,12047,Hamilton,Tallahassee-Thomasville
+FL,539,12049,Hardee,Tampa-St Petersburg-Sarasota
+FL,571,12051,Hendry,Fort Myers-Naples
+FL,539,12053,Hernando,Tampa-St Petersburg-Sarasota
+FL,539,12055,Highlands,Tampa-St Petersburg-Sarasota
+FL,539,12057,Hillsborough,Tampa-St Petersburg-Sarasota
+FL,656,12059,Holmes,Panama City
+FL,548,12061,Indian River,West Palm Beach-Ft Pierce
+FL,656,12063,Jackson,Panama City
+FL,530,12065,Jefferson,Tallahassee-Thomasville
+FL,530,12067,Lafayette,Tallahassee-Thomasville
+FL,534,12069,Lake,Orlando-Daytona Beach-Melbourne
+FL,571,12071,Lee,Fort Myers-Naples
+FL,530,12073,Leon,Tallahassee-Thomasville
+FL,592,12075,Levy,Gainesville
+FL,656,12077,Liberty,Panama City
+FL,530,12079,Madison,Tallahassee-Thomasville
+FL,539,12081,Manatee,Tampa-St Petersburg-Sarasota
+FL,534,12083,Marion,Orlando-Daytona Beach-Melbourne
+FL,548,12085,Martin,West Palm Beach-Ft Pierce
+FL,528,12086,Miami-Dade,Miami-Fort Lauderdale
+FL,528,12087,Monroe,Miami-Fort Lauderdale
+FL,561,12089,Nassau,Jacksonville
+FL,686,12091,Okaloosa,Mobile-Pensacola
+FL,548,12093,Okeechobee,West Palm Beach-Ft Pierce
+FL,534,12095,Orange,Orlando-Daytona Beach-Melbourne
+FL,534,12097,Osceola,Orlando-Daytona Beach-Melbourne
+FL,548,12099,Palm Beach,West Palm Beach-Ft Pierce
+FL,539,12101,Pasco,Tampa-St Petersburg-Sarasota
+FL,539,12103,Pinellas,Tampa-St Petersburg-Sarasota
+FL,539,12105,Polk,Tampa-St Petersburg-Sarasota
+FL,561,12107,Putnam,Jacksonville
+FL,561,12109,Saint Johns,Jacksonville
+FL,548,12111,Saint Lucie,West Palm Beach-Ft Pierce
+FL,686,12113,Santa Rosa,Mobile-Pensacola
+FL,539,12115,Sarasota,Tampa-St Petersburg-Sarasota
+FL,534,12117,Seminole,Orlando-Daytona Beach-Melbourne
+FL,534,12119,Sumter,Orlando-Daytona Beach-Melbourne
+FL,530,12121,Suwannee,Tallahassee-Thomasville
+FL,530,12123,Taylor,Tallahassee-Thomasville
+FL,561,12125,Union,Jacksonville
+FL,534,12127,Volusia,Orlando-Daytona Beach-Melbourne
+FL,530,12129,Wakulla,Tallahassee-Thomasville
+FL,656,12131,Walton,Panama City
+FL,656,12133,Washington,Panama City
+GA,507,13001,Appling,Savannah
+GA,525,13003,Atkinson,"Albany, Ga"
+GA,507,13005,Bacon,Savannah
+GA,525,13007,Baker,"Albany, Ga"
+GA,503,13009,Baldwin,Macon
+GA,524,13011,Banks,Atlanta
+GA,524,13013,Barrow,Atlanta
+GA,524,13015,Bartow,Atlanta
+GA,525,13017,Ben Hill,"Albany, Ga"
+GA,525,13019,Berrien,"Albany, Ga"
+GA,503,13021,Bibb,Macon
+GA,503,13023,Bleckley,Macon
+GA,561,13025,Brantley,Jacksonville
+GA,530,13027,Brooks,Tallahassee-Thomasville
+GA,507,13029,Bryan,Savannah
+GA,507,13031,Bulloch,Savannah
+GA,520,13033,Burke,Augusta
+GA,524,13035,Butts,Atlanta
+GA,525,13037,Calhoun,"Albany, Ga"
+GA,561,13039,Camden,Jacksonville
+GA,507,13043,Candler,Savannah
+GA,524,13045,Carroll,Atlanta
+GA,575,13047,Catoosa,Chattanooga
+GA,561,13049,Charlton,Jacksonville
+GA,507,13051,Chatham,Savannah
+GA,522,13053,Chattahoochee,"Columbus, Ga"
+GA,524,13055,Chattooga,Atlanta
+GA,524,13057,Cherokee,Atlanta
+GA,524,13059,Clarke,Atlanta
+GA,522,13061,Clay,"Columbus, Ga"
+GA,524,13063,Clayton,Atlanta
+GA,530,13065,Clinch,Tallahassee-Thomasville
+GA,524,13067,Cobb,Atlanta
+GA,525,13069,Coffee,"Albany, Ga"
+GA,525,13071,Colquitt,"Albany, Ga"
+GA,520,13073,Columbia,Augusta
+GA,525,13075,Cook,"Albany, Ga"
+GA,524,13077,Coweta,Atlanta
+GA,503,13079,Crawford,Macon
+GA,525,13081,Crisp,"Albany, Ga"
+GA,575,13083,Dade,Chattanooga
+GA,524,13085,Dawson,Atlanta
+GA,530,13087,Decatur,Tallahassee-Thomasville
+GA,524,13089,Dekalb,Atlanta
+GA,503,13091,Dodge,Macon
+GA,503,13093,Dooly,Macon
+GA,525,13095,Dougherty,"Albany, Ga"
+GA,524,13097,Douglas,Atlanta
+GA,606,13099,Early,Dothan
+GA,530,13101,Echols,Tallahassee-Thomasville
+GA,507,13103,Effingham,Savannah
+GA,567,13105,Elbert,Greenville-Spartanburg-Asheville
+GA,520,13107,Emanuel,Augusta
+GA,507,13109,Evans,Savannah
+GA,524,13111,Fannin,Atlanta
+GA,524,13113,Fayette,Atlanta
+GA,524,13115,Floyd,Atlanta
+GA,524,13117,Forsyth,Atlanta
+GA,567,13119,Franklin,Greenville-Spartanburg-Asheville
+GA,524,13121,Fulton,Atlanta
+GA,524,13123,Gilmer,Atlanta
+GA,520,13125,Glascock,Augusta
+GA,561,13127,Glynn,Jacksonville
+GA,524,13129,Gordon,Atlanta
+GA,530,13131,Grady,Tallahassee-Thomasville
+GA,524,13133,Greene,Atlanta
+GA,524,13135,Gwinnett,Atlanta
+GA,524,13137,Habersham,Atlanta
+GA,524,13139,Hall,Atlanta
+GA,503,13141,Hancock,Macon
+GA,524,13143,Haralson,Atlanta
+GA,522,13145,Harris,"Columbus, Ga"
+GA,567,13147,Hart,Greenville-Spartanburg-Asheville
+GA,524,13149,Heard,Atlanta
+GA,524,13151,Henry,Atlanta
+GA,503,13153,Houston,Macon
+GA,525,13155,Irwin,"Albany, Ga"
+GA,524,13157,Jackson,Atlanta
+GA,524,13159,Jasper,Atlanta
+GA,507,13161,Jeff Davis,Savannah
+GA,520,13163,Jefferson,Augusta
+GA,520,13165,Jenkins,Augusta
+GA,503,13167,Johnson,Macon
+GA,503,13169,Jones,Macon
+GA,524,13171,Lamar,Atlanta
+GA,530,13173,Lanier,Tallahassee-Thomasville
+GA,503,13175,Laurens,Macon
+GA,525,13177,Lee,"Albany, Ga"
+GA,507,13179,Liberty,Savannah
+GA,520,13181,Lincoln,Augusta
+GA,507,13183,Long,Savannah
+GA,530,13185,Lowndes,Tallahassee-Thomasville
+GA,524,13187,Lumpkin,Atlanta
+GA,520,13189,McDuffie,Augusta
+GA,507,13191,McIntosh,Savannah
+GA,503,13193,Macon,Macon
+GA,524,13195,Madison,Atlanta
+GA,522,13197,Marion,"Columbus, Ga"
+GA,524,13199,Meriwether,Atlanta
+GA,530,13201,Miller,Tallahassee-Thomasville
+GA,525,13205,Mitchell,"Albany, Ga"
+GA,503,13207,Monroe,Macon
+GA,507,13209,Montgomery,Savannah
+GA,524,13211,Morgan,Atlanta
+GA,575,13213,Murray,Chattanooga
+GA,522,13215,Muscogee,"Columbus, Ga"
+GA,524,13217,Newton,Atlanta
+GA,524,13219,Oconee,Atlanta
+GA,524,13221,Oglethorpe,Atlanta
+GA,524,13223,Paulding,Atlanta
+GA,503,13225,Peach,Macon
+GA,524,13227,Pickens,Atlanta
+GA,561,13229,Pierce,Jacksonville
+GA,524,13231,Pike,Atlanta
+GA,524,13233,Polk,Atlanta
+GA,503,13235,Pulaski,Macon
+GA,524,13237,Putnam,Atlanta
+GA,522,13239,Quitman,"Columbus, Ga"
+GA,524,13241,Rabun,Atlanta
+GA,522,13243,Randolph,"Columbus, Ga"
+GA,520,13245,Richmond,Augusta
+GA,524,13247,Rockdale,Atlanta
+GA,522,13249,Schley,"Columbus, Ga"
+GA,507,13251,Screven,Savannah
+GA,530,13253,Seminole,Tallahassee-Thomasville
+GA,524,13255,Spalding,Atlanta
+GA,567,13257,Stephens,Greenville-Spartanburg-Asheville
+GA,522,13259,Stewart,"Columbus, Ga"
+GA,522,13261,Sumter,"Columbus, Ga"
+GA,522,13263,Talbot,"Columbus, Ga"
+GA,520,13265,Taliaferro,Augusta
+GA,507,13267,Tattnall,Savannah
+GA,503,13269,Taylor,Macon
+GA,503,13271,Telfair,Macon
+GA,525,13273,Terrell,"Albany, Ga"
+GA,530,13275,Thomas,Tallahassee-Thomasville
+GA,525,13277,Tift,"Albany, Ga"
+GA,507,13279,Toombs,Savannah
+GA,524,13281,Towns,Atlanta
+GA,503,13283,Treutlen,Macon
+GA,524,13285,Troup,Atlanta
+GA,525,13287,Turner,"Albany, Ga"
+GA,503,13289,Twiggs,Macon
+GA,524,13291,Union,Atlanta
+GA,524,13293,Upson,Atlanta
+GA,575,13295,Walker,Chattanooga
+GA,524,13297,Walton,Atlanta
+GA,561,13299,Ware,Jacksonville
+GA,520,13301,Warren,Augusta
+GA,503,13303,Washington,Macon
+GA,507,13305,Wayne,Savannah
+GA,522,13307,Webster,"Columbus, Ga"
+GA,503,13309,Wheeler,Macon
+GA,524,13311,White,Atlanta
+GA,575,13313,Whitfield,Chattanooga
+GA,503,13315,Wilcox,Macon
+GA,520,13317,Wilkes,Augusta
+GA,503,13319,Wilkinson,Macon
+GA,525,13321,Worth,"Albany, Ga"
+HI,744,15001,Hawaii,Honolulu
+HI,744,15003,Honolulu,Honolulu
+HI,744,15005,Kalawao,Honolulu
+HI,744,15007,Kauai,Honolulu
+HI,744,15009,Maui,Honolulu
+ID,757,16001,Ada,Boise
+ID,757,16003,Adams,Boise
+ID,758,16005,Bannock,Idaho Falls-Pocatello
+ID,770,16007,Bear Lake,Salt Lake City
+ID,881,16009,Benewah,Spokane
+ID,758,16011,Bingham,Idaho Falls-Pocatello
+ID,760,16013,Blaine,Twin Falls
+ID,757,16015,Boise,Boise
+ID,881,16017,Bonner,Spokane
+ID,758,16019,Bonneville,Idaho Falls-Pocatello
+ID,881,16021,Boundary,Spokane
+ID,758,16023,Butte,Idaho Falls-Pocatello
+ID,757,16025,Camas,Boise
+ID,757,16027,Canyon,Boise
+ID,758,16029,Caribou,Idaho Falls-Pocatello
+ID,760,16031,Cassia,Twin Falls
+ID,758,16033,Clark,Idaho Falls-Pocatello
+ID,881,16035,Clearwater,Spokane
+ID,758,16037,Custer,Idaho Falls-Pocatello
+ID,757,16039,Elmore,Boise
+ID,770,16041,Franklin,Salt Lake City
+ID,758,16043,Fremont,Idaho Falls-Pocatello
+ID,757,16045,Gem,Boise
+ID,760,16047,Gooding,Twin Falls
+ID,881,16049,Idaho,Spokane
+ID,758,16051,Jefferson,Idaho Falls-Pocatello
+ID,760,16053,Jerome,Twin Falls
+ID,881,16055,Kootenai,Spokane
+ID,881,16057,Latah,Spokane
+ID,758,16059,Lemhi,Idaho Falls-Pocatello
+ID,881,16061,Lewis,Spokane
+ID,760,16063,Lincoln,Twin Falls
+ID,758,16065,Madison,Idaho Falls-Pocatello
+ID,760,16067,Minidoka,Twin Falls
+ID,881,16069,Nez Perce,Spokane
+ID,770,16071,Oneida,Salt Lake City
+ID,757,16073,Owyhee,Boise
+ID,757,16075,Payette,Boise
+ID,758,16077,Power,Idaho Falls-Pocatello
+ID,881,16079,Shoshone,Spokane
+ID,758,16081,Teton,Idaho Falls-Pocatello
+ID,760,16083,Twin Falls,Twin Falls
+ID,757,16085,Valley,Boise
+ID,757,16087,Washington,Boise
+IL,717,17001,Adams,Quincy-Hannibal-Keokuk
+IL,632,17003,Alexander,Paducah-Cape Girardeau-Harrisburg
+IL,609,17005,Bond,Saint Louis
+IL,610,17007,Boone,Rockford
+IL,717,17009,Brown,Quincy-Hannibal-Keokuk
+IL,682,17011,Bureau,Davenport-Rock Island-Moline
+IL,609,17013,Calhoun,Saint Louis
+IL,682,17015,Carroll,Davenport-Rock Island-Moline
+IL,648,17017,Cass,Champaign-Springfield-Decatur
+IL,648,17019,Champaign,Champaign-Springfield-Decatur
+IL,648,17021,Christian,Champaign-Springfield-Decatur
+IL,581,17023,Clark,Terre Haute
+IL,609,17025,Clay,Saint Louis
+IL,609,17027,Clinton,Saint Louis
+IL,648,17029,Coles,Champaign-Springfield-Decatur
+IL,602,17031,Cook,Chicago
+IL,581,17033,Crawford,Terre Haute
+IL,648,17035,Cumberland,Champaign-Springfield-Decatur
+IL,602,17037,DeKalb,Chicago
+IL,648,17039,Dewitt,Champaign-Springfield-Decatur
+IL,648,17041,Douglas,Champaign-Springfield-Decatur
+IL,602,17043,DuPage,Chicago
+IL,648,17045,Edgar,Champaign-Springfield-Decatur
+IL,649,17047,Edwards,Evansville
+IL,648,17049,Effingham,Champaign-Springfield-Decatur
+IL,609,17051,Fayette,Saint Louis
+IL,648,17053,Ford,Champaign-Springfield-Decatur
+IL,632,17055,Franklin,Paducah-Cape Girardeau-Harrisburg
+IL,675,17057,Fulton,Peoria-Bloomington
+IL,632,17059,Gallatin,Paducah-Cape Girardeau-Harrisburg
+IL,609,17061,Greene,Saint Louis
+IL,602,17063,Grundy,Chicago
+IL,632,17065,Hamilton,Paducah-Cape Girardeau-Harrisburg
+IL,717,17067,Hancock,Quincy-Hannibal-Keokuk
+IL,632,17069,Hardin,Paducah-Cape Girardeau-Harrisburg
+IL,682,17071,Henderson,Davenport-Rock Island-Moline
+IL,682,17073,Henry,Davenport-Rock Island-Moline
+IL,648,17075,Iroquois,Champaign-Springfield-Decatur
+IL,632,17077,Jackson,Paducah-Cape Girardeau-Harrisburg
+IL,581,17079,Jasper,Terre Haute
+IL,632,17081,Jefferson,Paducah-Cape Girardeau-Harrisburg
+IL,609,17083,Jersey,Saint Louis
+IL,682,17085,Jo Daviess,Davenport-Rock Island-Moline
+IL,632,17087,Johnson,Paducah-Cape Girardeau-Harrisburg
+IL,602,17089,Kane,Chicago
+IL,602,17091,Kankakee,Chicago
+IL,602,17093,Kendall,Chicago
+IL,682,17095,Knox,Davenport-Rock Island-Moline
+IL,602,17097,Lake,Chicago
+IL,602,17099,La Salle,Chicago
+IL,581,17101,Lawrence,Terre Haute
+IL,610,17103,Lee,Rockford
+IL,675,17105,Livingston,Peoria-Bloomington
+IL,648,17107,Logan,Champaign-Springfield-Decatur
+IL,717,17109,McDonough,Quincy-Hannibal-Keokuk
+IL,602,17111,McHenry,Chicago
+IL,675,17113,McLean,Peoria-Bloomington
+IL,648,17115,Macon,Champaign-Springfield-Decatur
+IL,609,17117,Macoupin,Saint Louis
+IL,609,17119,Madison,Saint Louis
+IL,609,17121,Marion,Saint Louis
+IL,675,17123,Marshall,Peoria-Bloomington
+IL,675,17125,Mason,Peoria-Bloomington
+IL,632,17127,Massac,Paducah-Cape Girardeau-Harrisburg
+IL,648,17129,Menard,Champaign-Springfield-Decatur
+IL,682,17131,Mercer,Davenport-Rock Island-Moline
+IL,609,17133,Monroe,Saint Louis
+IL,609,17135,Montgomery,Saint Louis
+IL,648,17137,Morgan,Champaign-Springfield-Decatur
+IL,648,17139,Moultrie,Champaign-Springfield-Decatur
+IL,610,17141,Ogle,Rockford
+IL,675,17143,Peoria,Peoria-Bloomington
+IL,632,17145,Perry,Paducah-Cape Girardeau-Harrisburg
+IL,648,17147,Piatt,Champaign-Springfield-Decatur
+IL,717,17149,Pike,Quincy-Hannibal-Keokuk
+IL,632,17151,Pope,Paducah-Cape Girardeau-Harrisburg
+IL,632,17153,Pulaski,Paducah-Cape Girardeau-Harrisburg
+IL,675,17155,Putnam,Peoria-Bloomington
+IL,609,17157,Randolph,Saint Louis
+IL,581,17159,Richland,Terre Haute
+IL,682,17161,Rock Island,Davenport-Rock Island-Moline
+IL,609,17163,Saint Clair,Saint Louis
+IL,632,17165,Saline,Paducah-Cape Girardeau-Harrisburg
+IL,648,17167,Sangamon,Champaign-Springfield-Decatur
+IL,717,17169,Schuyler,Quincy-Hannibal-Keokuk
+IL,717,17171,Scott,Quincy-Hannibal-Keokuk
+IL,648,17173,Shelby,Champaign-Springfield-Decatur
+IL,675,17175,Stark,Peoria-Bloomington
+IL,610,17177,Stephenson,Rockford
+IL,675,17179,Tazewell,Peoria-Bloomington
+IL,632,17181,Union,Paducah-Cape Girardeau-Harrisburg
+IL,648,17183,Vermilion,Champaign-Springfield-Decatur
+IL,649,17185,Wabash,Evansville
+IL,682,17187,Warren,Davenport-Rock Island-Moline
+IL,609,17189,Washington,Saint Louis
+IL,649,17191,Wayne,Evansville
+IL,649,17193,White,Evansville
+IL,682,17195,Whiteside,Davenport-Rock Island-Moline
+IL,602,17197,Will,Chicago
+IL,632,17199,Williamson,Paducah-Cape Girardeau-Harrisburg
+IL,610,17201,Winnebago,Rockford
+IL,675,17203,Woodford,Peoria-Bloomington
+IN,509,18001,Adams,Fort Wayne
+IN,509,18003,Allen,Fort Wayne
+IN,527,18005,Bartholomew,Indianapolis
+IN,582,18007,Benton,"Lafayette, In"
+IN,527,18009,Blackford,Indianapolis
+IN,527,18011,Boone,Indianapolis
+IN,527,18013,Brown,Indianapolis
+IN,527,18015,Carroll,Indianapolis
+IN,527,18017,Cass,Indianapolis
+IN,529,18019,Clark,Louisville
+IN,581,18021,Clay,Terre Haute
+IN,527,18023,Clinton,Indianapolis
+IN,529,18025,Crawford,Louisville
+IN,581,18027,Daviess,Terre Haute
+IN,515,18029,Dearborn,Cincinnati
+IN,527,18031,Decatur,Indianapolis
+IN,509,18033,De Kalb,Fort Wayne
+IN,527,18035,Delaware,Indianapolis
+IN,649,18037,Dubois,Evansville
+IN,588,18039,Elkhart,South Bend-Elkhart
+IN,527,18041,Fayette,Indianapolis
+IN,529,18043,Floyd,Louisville
+IN,527,18045,Fountain,Indianapolis
+IN,515,18047,Franklin,Cincinnati
+IN,588,18049,Fulton,South Bend-Elkhart
+IN,649,18051,Gibson,Evansville
+IN,527,18053,Grant,Indianapolis
+IN,581,18055,Greene,Terre Haute
+IN,527,18057,Hamilton,Indianapolis
+IN,527,18059,Hancock,Indianapolis
+IN,529,18061,Harrison,Louisville
+IN,527,18063,Hendricks,Indianapolis
+IN,527,18065,Henry,Indianapolis
+IN,527,18067,Howard,Indianapolis
+IN,509,18069,Huntington,Fort Wayne
+IN,529,18071,Jackson,Louisville
+IN,602,18073,Jasper,Chicago
+IN,509,18075,Jay,Fort Wayne
+IN,529,18077,Jefferson,Louisville
+IN,529,18079,Jennings,Louisville
+IN,527,18081,Johnson,Indianapolis
+IN,581,18083,Knox,Terre Haute
+IN,588,18085,Kosciusko,South Bend-Elkhart
+IN,588,18087,Lagrange,South Bend-Elkhart
+IN,602,18089,Lake,Chicago
+IN,602,18091,La Porte,Chicago
+IN,527,18093,Lawrence,Indianapolis
+IN,527,18095,Madison,Indianapolis
+IN,527,18097,Marion,Indianapolis
+IN,588,18099,Marshall,South Bend-Elkhart
+IN,581,18101,Martin,Terre Haute
+IN,527,18103,Miami,Indianapolis
+IN,527,18105,Monroe,Indianapolis
+IN,527,18107,Montgomery,Indianapolis
+IN,527,18109,Morgan,Indianapolis
+IN,602,18111,Newton,Chicago
+IN,509,18113,Noble,Fort Wayne
+IN,515,18115,Ohio,Cincinnati
+IN,529,18117,Orange,Louisville
+IN,527,18119,Owen,Indianapolis
+IN,581,18121,Parke,Terre Haute
+IN,649,18123,Perry,Evansville
+IN,649,18125,Pike,Evansville
+IN,602,18127,Porter,Chicago
+IN,649,18129,Posey,Evansville
+IN,588,18131,Pulaski,South Bend-Elkhart
+IN,527,18133,Putnam,Indianapolis
+IN,527,18135,Randolph,Indianapolis
+IN,515,18137,Ripley,Cincinnati
+IN,527,18139,Rush,Indianapolis
+IN,588,18141,St Joseph,South Bend-Elkhart
+IN,529,18143,Scott,Louisville
+IN,527,18145,Shelby,Indianapolis
+IN,649,18147,Spencer,Evansville
+IN,588,18149,Starke,South Bend-Elkhart
+IN,509,18151,Steuben,Fort Wayne
+IN,581,18153,Sullivan,Terre Haute
+IN,515,18155,Switzerland,Cincinnati
+IN,582,18157,Tippecanoe,"Lafayette, In"
+IN,527,18159,Tipton,Indianapolis
+IN,515,18161,Union,Cincinnati
+IN,649,18163,Vanderburgh,Evansville
+IN,581,18165,Vermillion,Terre Haute
+IN,581,18167,Vigo,Terre Haute
+IN,509,18169,Wabash,Fort Wayne
+IN,582,18171,Warren,"Lafayette, In"
+IN,649,18173,Warrick,Evansville
+IN,529,18175,Washington,Louisville
+IN,542,18177,Wayne,Dayton
+IN,509,18179,Wells,Fort Wayne
+IN,527,18181,White,Indianapolis
+IN,509,18183,Whitley,Fort Wayne
+IA,679,19001,Adair,Des Moines-Ames
+IA,679,19003,Adams,Des Moines-Ames
+IA,637,19005,Allamakee,Cedar Rapids-Waterloo-Dubuque
+IA,679,19007,Appanoose,Des Moines-Ames
+IA,679,19009,Audubon,Des Moines-Ames
+IA,637,19011,Benton,Cedar Rapids-Waterloo-Dubuque
+IA,637,19013,Black Hawk,Cedar Rapids-Waterloo-Dubuque
+IA,679,19015,Boone,Des Moines-Ames
+IA,637,19017,Bremer,Cedar Rapids-Waterloo-Dubuque
+IA,637,19019,Buchanan,Cedar Rapids-Waterloo-Dubuque
+IA,624,19021,Buena Vista,Sioux City
+IA,637,19023,Butler,Cedar Rapids-Waterloo-Dubuque
+IA,679,19025,Calhoun,Des Moines-Ames
+IA,679,19027,Carroll,Des Moines-Ames
+IA,652,19029,Cass,Omaha
+IA,637,19031,Cedar,Cedar Rapids-Waterloo-Dubuque
+IA,611,19033,Cerro Gordo,Rochester-Mason City-Austin
+IA,624,19035,Cherokee,Sioux City
+IA,637,19037,Chickasaw,Cedar Rapids-Waterloo-Dubuque
+IA,679,19039,Clarke,Des Moines-Ames
+IA,624,19041,Clay,Sioux City
+IA,637,19043,Clayton,Cedar Rapids-Waterloo-Dubuque
+IA,682,19045,Clinton,Davenport-Rock Island-Moline
+IA,652,19047,Crawford,Omaha
+IA,679,19049,Dallas,Des Moines-Ames
+IA,631,19051,Davis,Ottumwa-Kirksville
+IA,679,19053,Decatur,Des Moines-Ames
+IA,637,19055,Delaware,Cedar Rapids-Waterloo-Dubuque
+IA,682,19057,Des Moines,Davenport-Rock Island-Moline
+IA,624,19059,Dickinson,Sioux City
+IA,637,19061,Dubuque,Cedar Rapids-Waterloo-Dubuque
+IA,624,19063,Emmet,Sioux City
+IA,637,19065,Fayette,Cedar Rapids-Waterloo-Dubuque
+IA,611,19067,Floyd,Rochester-Mason City-Austin
+IA,679,19069,Franklin,Des Moines-Ames
+IA,652,19071,Fremont,Omaha
+IA,679,19073,Greene,Des Moines-Ames
+IA,637,19075,Grundy,Cedar Rapids-Waterloo-Dubuque
+IA,679,19077,Guthrie,Des Moines-Ames
+IA,679,19079,Hamilton,Des Moines-Ames
+IA,611,19081,Hancock,Rochester-Mason City-Austin
+IA,679,19083,Hardin,Des Moines-Ames
+IA,652,19085,Harrison,Omaha
+IA,682,19087,Henry,Davenport-Rock Island-Moline
+IA,611,19089,Howard,Rochester-Mason City-Austin
+IA,679,19091,Humboldt,Des Moines-Ames
+IA,624,19093,Ida,Sioux City
+IA,637,19095,Iowa,Cedar Rapids-Waterloo-Dubuque
+IA,682,19097,Jackson,Davenport-Rock Island-Moline
+IA,679,19099,Jasper,Des Moines-Ames
+IA,631,19101,Jefferson,Ottumwa-Kirksville
+IA,637,19103,Johnson,Cedar Rapids-Waterloo-Dubuque
+IA,637,19105,Jones,Cedar Rapids-Waterloo-Dubuque
+IA,637,19107,Keokuk,Cedar Rapids-Waterloo-Dubuque
+IA,679,19109,Kossuth,Des Moines-Ames
+IA,717,19111,Lee,Quincy-Hannibal-Keokuk
+IA,637,19113,Linn,Cedar Rapids-Waterloo-Dubuque
+IA,682,19115,Louisa,Davenport-Rock Island-Moline
+IA,679,19117,Lucas,Des Moines-Ames
+IA,725,19119,Lyon,Sioux Falls (Mitchell)
+IA,679,19121,Madison,Des Moines-Ames
+IA,679,19123,Mahaska,Des Moines-Ames
+IA,679,19125,Marion,Des Moines-Ames
+IA,679,19127,Marshall,Des Moines-Ames
+IA,652,19129,Mills,Omaha
+IA,611,19131,Mitchell,Rochester-Mason City-Austin
+IA,624,19133,Monona,Sioux City
+IA,679,19135,Monroe,Des Moines-Ames
+IA,652,19137,Montgomery,Omaha
+IA,682,19139,Muscatine,Davenport-Rock Island-Moline
+IA,624,19141,Obrien,Sioux City
+IA,725,19143,Osceola,Sioux Falls (Mitchell)
+IA,652,19145,Page,Omaha
+IA,624,19147,Palo Alto,Sioux City
+IA,624,19149,Plymouth,Sioux City
+IA,679,19151,Pocahontas,Des Moines-Ames
+IA,679,19153,Polk,Des Moines-Ames
+IA,652,19155,Pottawattamie,Omaha
+IA,679,19157,Poweshiek,Des Moines-Ames
+IA,679,19159,Ringgold,Des Moines-Ames
+IA,624,19161,Sac,Sioux City
+IA,682,19163,Scott,Davenport-Rock Island-Moline
+IA,652,19165,Shelby,Omaha
+IA,624,19167,Sioux,Sioux City
+IA,679,19169,Story,Des Moines-Ames
+IA,637,19171,Tama,Cedar Rapids-Waterloo-Dubuque
+IA,679,19173,Taylor,Des Moines-Ames
+IA,679,19175,Union,Des Moines-Ames
+IA,631,19177,Van Buren,Ottumwa-Kirksville
+IA,631,19179,Wapello,Ottumwa-Kirksville
+IA,679,19181,Warren,Des Moines-Ames
+IA,637,19183,Washington,Cedar Rapids-Waterloo-Dubuque
+IA,679,19185,Wayne,Des Moines-Ames
+IA,679,19187,Webster,Des Moines-Ames
+IA,611,19189,Winnebago,Rochester-Mason City-Austin
+IA,637,19191,Winneshiek,Cedar Rapids-Waterloo-Dubuque
+IA,624,19193,Woodbury,Sioux City
+IA,611,19195,Worth,Rochester-Mason City-Austin
+IA,679,19197,Wright,Des Moines-Ames
+KS,603,20001,Allen,Joplin-Pittsburg
+KS,616,20003,Anderson,Kansas City
+KS,616,20005,Atchison,Kansas City
+KS,678,20007,Barber,Wichita-Hutchinson Plus
+KS,678,20009,Barton,Wichita-Hutchinson Plus
+KS,603,20011,Bourbon,Joplin-Pittsburg
+KS,605,20013,Brown,Topeka
+KS,678,20015,Butler,Wichita-Hutchinson Plus
+KS,678,20017,Chase,Wichita-Hutchinson Plus
+KS,671,20019,Chautauqua,Tulsa
+KS,603,20021,Cherokee,Joplin-Pittsburg
+KS,678,20023,Cheyenne,Wichita-Hutchinson Plus
+KS,678,20025,Clark,Wichita-Hutchinson Plus
+KS,605,20027,Clay,Topeka
+KS,605,20029,Cloud,Topeka
+KS,605,20031,Coffey,Topeka
+KS,678,20033,Comanche,Wichita-Hutchinson Plus
+KS,678,20035,Cowley,Wichita-Hutchinson Plus
+KS,603,20037,Crawford,Joplin-Pittsburg
+KS,678,20039,Decatur,Wichita-Hutchinson Plus
+KS,678,20041,Dickinson,Wichita-Hutchinson Plus
+KS,638,20043,Doniphan,Saint Joseph
+KS,616,20045,Douglas,Kansas City
+KS,678,20047,Edwards,Wichita-Hutchinson Plus
+KS,678,20049,Elk,Wichita-Hutchinson Plus
+KS,678,20051,Ellis,Wichita-Hutchinson Plus
+KS,678,20053,Ellsworth,Wichita-Hutchinson Plus
+KS,678,20055,Finney,Wichita-Hutchinson Plus
+KS,678,20057,Ford,Wichita-Hutchinson Plus
+KS,616,20059,Franklin,Kansas City
+KS,605,20061,Geary,Topeka
+KS,678,20063,Gove,Wichita-Hutchinson Plus
+KS,678,20065,Graham,Wichita-Hutchinson Plus
+KS,678,20067,Grant,Wichita-Hutchinson Plus
+KS,678,20069,Gray,Wichita-Hutchinson Plus
+KS,678,20071,Greeley,Wichita-Hutchinson Plus
+KS,678,20073,Greenwood,Wichita-Hutchinson Plus
+KS,678,20075,Hamilton,Wichita-Hutchinson Plus
+KS,678,20077,Harper,Wichita-Hutchinson Plus
+KS,678,20079,Harvey,Wichita-Hutchinson Plus
+KS,678,20081,Haskell,Wichita-Hutchinson Plus
+KS,678,20083,Hodgeman,Wichita-Hutchinson Plus
+KS,605,20085,Jackson,Topeka
+KS,605,20087,Jefferson,Topeka
+KS,722,20089,Jewell,Lincoln-Hastings-Kearney Plus
+KS,616,20091,Johnson,Kansas City
+KS,678,20093,Kearny,Wichita-Hutchinson Plus
+KS,678,20095,Kingman,Wichita-Hutchinson Plus
+KS,678,20097,Kiowa,Wichita-Hutchinson Plus
+KS,603,20099,Labette,Joplin-Pittsburg
+KS,678,20101,Lane,Wichita-Hutchinson Plus
+KS,616,20103,Leavenworth,Kansas City
+KS,678,20105,Lincoln,Wichita-Hutchinson Plus
+KS,616,20107,Linn,Kansas City
+KS,678,20109,Logan,Wichita-Hutchinson Plus
+KS,605,20111,Lyon,Topeka
+KS,678,20113,McPherson,Wichita-Hutchinson Plus
+KS,678,20115,Marion,Wichita-Hutchinson Plus
+KS,605,20117,Marshall,Topeka
+KS,678,20119,Meade,Wichita-Hutchinson Plus
+KS,616,20121,Miami,Kansas City
+KS,678,20123,Mitchell,Wichita-Hutchinson Plus
+KS,671,20125,Montgomery,Tulsa
+KS,605,20127,Morris,Topeka
+KS,678,20129,Morton,Wichita-Hutchinson Plus
+KS,605,20131,Nemaha,Topeka
+KS,603,20133,Neosho,Joplin-Pittsburg
+KS,678,20135,Ness,Wichita-Hutchinson Plus
+KS,678,20137,Norton,Wichita-Hutchinson Plus
+KS,605,20139,Osage,Topeka
+KS,678,20141,Osborne,Wichita-Hutchinson Plus
+KS,678,20143,Ottawa,Wichita-Hutchinson Plus
+KS,678,20145,Pawnee,Wichita-Hutchinson Plus
+KS,722,20147,Phillips,Lincoln-Hastings-Kearney Plus
+KS,605,20149,Pottawatomie,Topeka
+KS,678,20151,Pratt,Wichita-Hutchinson Plus
+KS,678,20153,Rawlins,Wichita-Hutchinson Plus
+KS,678,20155,Reno,Wichita-Hutchinson Plus
+KS,722,20157,Republic,Lincoln-Hastings-Kearney Plus
+KS,678,20159,Rice,Wichita-Hutchinson Plus
+KS,605,20161,Riley,Topeka
+KS,678,20163,Rooks,Wichita-Hutchinson Plus
+KS,678,20165,Rush,Wichita-Hutchinson Plus
+KS,678,20167,Russell,Wichita-Hutchinson Plus
+KS,678,20169,Saline,Wichita-Hutchinson Plus
+KS,678,20171,Scott,Wichita-Hutchinson Plus
+KS,678,20173,Sedgwick,Wichita-Hutchinson Plus
+KS,678,20175,Seward,Wichita-Hutchinson Plus
+KS,605,20177,Shawnee,Topeka
+KS,678,20179,Sheridan,Wichita-Hutchinson Plus
+KS,678,20181,Sherman,Wichita-Hutchinson Plus
+KS,722,20183,Smith,Lincoln-Hastings-Kearney Plus
+KS,678,20185,Stafford,Wichita-Hutchinson Plus
+KS,678,20187,Stanton,Wichita-Hutchinson Plus
+KS,678,20189,Stevens,Wichita-Hutchinson Plus
+KS,678,20191,Sumner,Wichita-Hutchinson Plus
+KS,678,20193,Thomas,Wichita-Hutchinson Plus
+KS,678,20195,Trego,Wichita-Hutchinson Plus
+KS,605,20197,Wabaunsee,Topeka
+KS,678,20199,Wallace,Wichita-Hutchinson Plus
+KS,605,20201,Washington,Topeka
+KS,678,20203,Wichita,Wichita-Hutchinson Plus
+KS,603,20205,Wilson,Joplin-Pittsburg
+KS,603,20207,Woodson,Joplin-Pittsburg
+KS,616,20209,Wyandotte,Kansas City
+KY,529,21001,Adair,Louisville
+KY,659,21003,Allen,Nashville
+KY,541,21005,Anderson,Lexington
+KY,632,21007,Ballard,Paducah-Cape Girardeau-Harrisburg
+KY,736,21009,Barren,Bowling Green
+KY,541,21011,Bath,Lexington
+KY,557,21013,Bell,Knoxville
+KY,515,21015,Boone,Cincinnati
+KY,541,21017,Bourbon,Lexington
+KY,564,21019,Boyd,Charleston-Huntington
+KY,541,21021,Boyle,Lexington
+KY,515,21023,Bracken,Cincinnati
+KY,541,21025,Breathitt,Lexington
+KY,529,21027,Breckinridge,Louisville
+KY,529,21029,Bullitt,Louisville
+KY,736,21031,Butler,Bowling Green
+KY,632,21033,Caldwell,Paducah-Cape Girardeau-Harrisburg
+KY,632,21035,Calloway,Paducah-Cape Girardeau-Harrisburg
+KY,515,21037,Campbell,Cincinnati
+KY,632,21039,Carlisle,Paducah-Cape Girardeau-Harrisburg
+KY,529,21041,Carroll,Louisville
+KY,564,21043,Carter,Charleston-Huntington
+KY,541,21045,Casey,Lexington
+KY,659,21047,Christian,Nashville
+KY,541,21049,Clark,Lexington
+KY,541,21051,Clay,Lexington
+KY,659,21053,Clinton,Nashville
+KY,632,21055,Crittenden,Paducah-Cape Girardeau-Harrisburg
+KY,659,21057,Cumberland,Nashville
+KY,649,21059,Daviess,Evansville
+KY,736,21061,Edmonson,Bowling Green
+KY,564,21063,Elliott,Charleston-Huntington
+KY,541,21065,Estill,Lexington
+KY,541,21067,Fayette,Lexington
+KY,541,21069,Fleming,Lexington
+KY,564,21071,Floyd,Charleston-Huntington
+KY,541,21073,Franklin,Lexington
+KY,632,21075,Fulton,Paducah-Cape Girardeau-Harrisburg
+KY,515,21077,Gallatin,Cincinnati
+KY,541,21079,Garrard,Lexington
+KY,515,21081,Grant,Cincinnati
+KY,632,21083,Graves,Paducah-Cape Girardeau-Harrisburg
+KY,529,21085,Grayson,Louisville
+KY,529,21087,Green,Louisville
+KY,564,21089,Greenup,Charleston-Huntington
+KY,649,21091,Hancock,Evansville
+KY,529,21093,Hardin,Louisville
+KY,557,21095,Harlan,Knoxville
+KY,541,21097,Harrison,Lexington
+KY,736,21099,Hart,Bowling Green
+KY,649,21101,Henderson,Evansville
+KY,529,21103,Henry,Louisville
+KY,632,21105,Hickman,Paducah-Cape Girardeau-Harrisburg
+KY,649,21107,Hopkins,Evansville
+KY,541,21109,Jackson,Lexington
+KY,529,21111,Jefferson,Louisville
+KY,541,21113,Jessamine,Lexington
+KY,564,21115,Johnson,Charleston-Huntington
+KY,515,21117,Kenton,Cincinnati
+KY,541,21119,Knott,Lexington
+KY,541,21121,Knox,Lexington
+KY,529,21123,Larue,Louisville
+KY,541,21125,Laurel,Lexington
+KY,564,21127,Lawrence,Charleston-Huntington
+KY,541,21129,Lee,Lexington
+KY,531,21131,Leslie,"Tri-Cities, Tn-Va"
+KY,531,21133,Letcher,"Tri-Cities, Tn-Va"
+KY,564,21135,Lewis,Charleston-Huntington
+KY,541,21137,Lincoln,Lexington
+KY,632,21139,Livingston,Paducah-Cape Girardeau-Harrisburg
+KY,659,21141,Logan,Nashville
+KY,632,21143,Lyon,Paducah-Cape Girardeau-Harrisburg
+KY,632,21145,McCracken,Paducah-Cape Girardeau-Harrisburg
+KY,557,21147,McCreary,Knoxville
+KY,649,21149,McLean,Evansville
+KY,541,21151,Madison,Lexington
+KY,541,21153,Magoffin,Lexington
+KY,529,21155,Marion,Louisville
+KY,632,21157,Marshall,Paducah-Cape Girardeau-Harrisburg
+KY,564,21159,Martin,Charleston-Huntington
+KY,515,21161,Mason,Cincinnati
+KY,529,21163,Meade,Louisville
+KY,541,21165,Menifee,Lexington
+KY,541,21167,Mercer,Lexington
+KY,736,21169,Metcalfe,Bowling Green
+KY,659,21171,Monroe,Nashville
+KY,541,21173,Montgomery,Lexington
+KY,541,21175,Morgan,Lexington
+KY,649,21177,Muhlenberg,Evansville
+KY,529,21179,Nelson,Louisville
+KY,541,21181,Nicholas,Lexington
+KY,649,21183,Ohio,Evansville
+KY,529,21185,Oldham,Louisville
+KY,515,21187,Owen,Cincinnati
+KY,541,21189,Owsley,Lexington
+KY,515,21191,Pendleton,Cincinnati
+KY,541,21193,Perry,Lexington
+KY,564,21195,Pike,Charleston-Huntington
+KY,541,21197,Powell,Lexington
+KY,541,21199,Pulaski,Lexington
+KY,515,21201,Robertson,Cincinnati
+KY,541,21203,Rockcastle,Lexington
+KY,541,21205,Rowan,Lexington
+KY,541,21207,Russell,Lexington
+KY,541,21209,Scott,Lexington
+KY,529,21211,Shelby,Louisville
+KY,659,21213,Simpson,Nashville
+KY,529,21215,Spencer,Louisville
+KY,529,21217,Taylor,Louisville
+KY,659,21219,Todd,Nashville
+KY,659,21221,Trigg,Nashville
+KY,529,21223,Trimble,Louisville
+KY,649,21225,Union,Evansville
+KY,736,21227,Warren,Bowling Green
+KY,529,21229,Washington,Louisville
+KY,541,21231,Wayne,Lexington
+KY,649,21233,Webster,Evansville
+KY,541,21235,Whitley,Lexington
+KY,541,21237,Wolfe,Lexington
+KY,541,21239,Woodford,Lexington
+LA,642,22001,Acadia,"Lafayette, La"
+LA,643,22003,Allen,Lake Charles
+LA,716,22005,Ascension,Baton Rouge
+LA,716,22007,Assumption,Baton Rouge
+LA,644,22009,Avoyelles,"Alexandria, La"
+LA,643,22011,Beauregard,Lake Charles
+LA,612,22013,Bienville,Shreveport
+LA,612,22015,Bossier,Shreveport
+LA,612,22017,Caddo,Shreveport
+LA,643,22019,Calcasieu,Lake Charles
+LA,628,22021,Caldwell,Monroe-El Dorado
+LA,643,22023,Cameron,Lake Charles
+LA,628,22025,Catahoula,Monroe-El Dorado
+LA,612,22027,Claiborne,Shreveport
+LA,628,22029,Concordia,Monroe-El Dorado
+LA,612,22031,De Soto,Shreveport
+LA,716,22033,East Baton Rouge,Baton Rouge
+LA,628,22035,East Carroll,Monroe-El Dorado
+LA,716,22037,East Feliciana,Baton Rouge
+LA,642,22039,Evangeline,"Lafayette, La"
+LA,628,22041,Franklin,Monroe-El Dorado
+LA,644,22043,Grant,"Alexandria, La"
+LA,642,22045,Iberia,"Lafayette, La"
+LA,716,22047,Iberville,Baton Rouge
+LA,628,22049,Jackson,Monroe-El Dorado
+LA,622,22051,Jefferson,New Orleans
+LA,642,22053,Jefferson Davis,"Lafayette, La"
+LA,642,22055,Lafayette,"Lafayette, La"
+LA,622,22057,Lafourche,New Orleans
+LA,628,22059,La Salle,Monroe-El Dorado
+LA,628,22061,Lincoln,Monroe-El Dorado
+LA,716,22063,Livingston,Baton Rouge
+LA,628,22065,Madison,Monroe-El Dorado
+LA,628,22067,Morehouse,Monroe-El Dorado
+LA,612,22069,Natchitoches,Shreveport
+LA,622,22071,Orleans,New Orleans
+LA,628,22073,Ouachita,Monroe-El Dorado
+LA,622,22075,Plaquemines,New Orleans
+LA,716,22077,Pointe Coupee,Baton Rouge
+LA,644,22079,Rapides,"Alexandria, La"
+LA,612,22081,Red River,Shreveport
+LA,628,22083,Richland,Monroe-El Dorado
+LA,612,22085,Sabine,Shreveport
+LA,622,22087,Saint Bernard,New Orleans
+LA,622,22089,Saint Charles,New Orleans
+LA,716,22091,Saint Helena,Baton Rouge
+LA,622,22093,Saint James,New Orleans
+LA,622,22095,St John the Baptist,New Orleans
+LA,642,22097,Saint Landry,"Lafayette, La"
+LA,642,22099,Saint Martin,"Lafayette, La"
+LA,716,22101,Saint Mary,Baton Rouge
+LA,622,22103,Saint Tammany,New Orleans
+LA,622,22105,Tangipahoa,New Orleans
+LA,628,22107,Tensas,Monroe-El Dorado
+LA,622,22109,Terrebonne,New Orleans
+LA,628,22111,Union,Monroe-El Dorado
+LA,642,22113,Vermilion,"Lafayette, La"
+LA,644,22115,Vernon,"Alexandria, La"
+LA,622,22117,Washington,New Orleans
+LA,612,22119,Webster,Shreveport
+LA,716,22121,West Baton Rouge,Baton Rouge
+LA,628,22123,West Carroll,Monroe-El Dorado
+LA,716,22125,West Feliciana,Baton Rouge
+LA,628,22127,Winn,Monroe-El Dorado
+ME,500,23001,Androscoggin,Portland-Auburn
+ME,552,23003,Aroostook,Presque Isle
+ME,500,23005,Cumberland,Portland-Auburn
+ME,500,23007,Franklin,Portland-Auburn
+ME,537,23009,Hancock,Bangor
+ME,500,23011,Kennebec,Portland-Auburn
+ME,500,23013,Knox,Portland-Auburn
+ME,500,23015,Lincoln,Portland-Auburn
+ME,500,23017,Oxford,Portland-Auburn
+ME,537,23019,Penobscot,Bangor
+ME,537,23021,Piscataquis,Bangor
+ME,500,23023,Sagadahoc,Portland-Auburn
+ME,537,23025,Somerset,Bangor
+ME,537,23027,Waldo,Bangor
+ME,537,23029,Washington,Bangor
+ME,500,23031,York,Portland-Auburn
+MD,511,24001,Allegany,"Washington, Dc-Hagrstwn"
+MD,512,24003,Anne Arundel,Baltimore
+MD,512,24005,Baltimore,Baltimore
+MD,511,24009,Calvert,"Washington, Dc-Hagrstwn"
+MD,512,24011,Caroline,Baltimore
+MD,512,24013,Carroll,Baltimore
+MD,512,24015,Cecil,Baltimore
+MD,511,24017,Charles,"Washington, Dc-Hagrstwn"
+MD,576,24019,Dorchester,Salisbury
+MD,511,24021,Frederick,"Washington, Dc-Hagrstwn"
+MD,508,24023,Garrett,Pittsburgh
+MD,512,24025,Harford,Baltimore
+MD,512,24027,Howard,Baltimore
+MD,512,24029,Kent,Baltimore
+MD,511,24031,Montgomery,"Washington, Dc-Hagrstwn"
+MD,511,24033,Prince Georges,"Washington, Dc-Hagrstwn"
+MD,512,24035,Queen Annes,Baltimore
+MD,511,24037,Saint Marys,"Washington, Dc-Hagrstwn"
+MD,576,24039,Somerset,Salisbury
+MD,512,24041,Talbot,Baltimore
+MD,511,24043,Washington,"Washington, Dc-Hagrstwn"
+MD,576,24045,Wicomico,Salisbury
+MD,576,24047,Worcester,Salisbury
+MD,512,24510,Baltimore City,Baltimore
+MA,506,25001,Barnstable,Boston
+MA,532,25003,Berkshire,Albany-Schenectady-Troy
+MA,521,25005,Bristol,Providence-New Bedford
+MA,506,25007,Dukes,Boston
+MA,506,25009,Essex,Boston
+MA,543,25011,Franklin,Springfield-Holyoke
+MA,543,25013,Hampden,Springfield-Holyoke
+MA,543,25015,Hampshire,Springfield-Holyoke
+MA,506,25017,Middlesex,Boston
+MA,506,25019,Nantucket,Boston
+MA,506,25021,Norfolk,Boston
+MA,506,25023,Plymouth,Boston
+MA,506,25025,Suffolk,Boston
+MA,506,25027,Worcester,Boston
+MI,583,26001,Alcona,Alpena
+MI,553,26003,Alger,Marquette
+MI,563,26005,Allegan,Grand Rapids-Kalamazoo-Battle Creek
+MI,583,26007,Alpena,Alpena
+MI,540,26009,Antrim,Traverse City-Cadillac
+MI,513,26011,Arenac,Flint-Saginaw-Bay City
+MI,553,26013,Baraga,Marquette
+MI,563,26015,Barry,Grand Rapids-Kalamazoo-Battle Creek
+MI,513,26017,Bay,Flint-Saginaw-Bay City
+MI,540,26019,Benzie,Traverse City-Cadillac
+MI,588,26021,Berrien,South Bend-Elkhart
+MI,563,26023,Branch,Grand Rapids-Kalamazoo-Battle Creek
+MI,563,26025,Calhoun,Grand Rapids-Kalamazoo-Battle Creek
+MI,588,26027,Cass,South Bend-Elkhart
+MI,540,26029,Charlevoix,Traverse City-Cadillac
+MI,540,26031,Cheboygan,Traverse City-Cadillac
+MI,540,26033,Chippewa,Traverse City-Cadillac
+MI,540,26035,Clare,Traverse City-Cadillac
+MI,551,26037,Clinton,Lansing
+MI,540,26039,Crawford,Traverse City-Cadillac
+MI,553,26041,Delta,Marquette
+MI,553,26043,Dickinson,Marquette
+MI,551,26045,Eaton,Lansing
+MI,540,26047,Emmet,Traverse City-Cadillac
+MI,513,26049,Genesee,Flint-Saginaw-Bay City
+MI,513,26051,Gladwin,Flint-Saginaw-Bay City
+MI,676,26053,Gogebic,Duluth-Superior
+MI,540,26055,Grand Traverse,Traverse City-Cadillac
+MI,513,26057,Gratiot,Flint-Saginaw-Bay City
+MI,551,26059,Hillsdale,Lansing
+MI,553,26061,Houghton,Marquette
+MI,513,26063,Huron,Flint-Saginaw-Bay City
+MI,551,26065,Ingham,Lansing
+MI,563,26067,Ionia,Grand Rapids-Kalamazoo-Battle Creek
+MI,513,26069,Iosco,Flint-Saginaw-Bay City
+MI,553,26071,Iron,Marquette
+MI,513,26073,Isabella,Flint-Saginaw-Bay City
+MI,551,26075,Jackson,Lansing
+MI,563,26077,Kalamazoo,Grand Rapids-Kalamazoo-Battle Creek
+MI,540,26079,Kalkaska,Traverse City-Cadillac
+MI,563,26081,Kent,Grand Rapids-Kalamazoo-Battle Creek
+MI,553,26083,Keweenaw,Marquette
+MI,540,26085,Lake,Traverse City-Cadillac
+MI,505,26087,Lapeer,Detroit
+MI,540,26089,Leelanau,Traverse City-Cadillac
+MI,547,26091,Lenawee,Toledo
+MI,505,26093,Livingston,Detroit
+MI,540,26095,Luce,Traverse City-Cadillac
+MI,540,26097,Mackinac,Traverse City-Cadillac
+MI,505,26099,Macomb,Detroit
+MI,540,26101,Manistee,Traverse City-Cadillac
+MI,553,26103,Marquette,Marquette
+MI,540,26105,Mason,Traverse City-Cadillac
+MI,540,26107,Mecosta,Traverse City-Cadillac
+MI,658,26109,Menominee,Green Bay-Appleton
+MI,513,26111,Midland,Flint-Saginaw-Bay City
+MI,540,26113,Missaukee,Traverse City-Cadillac
+MI,505,26115,Monroe,Detroit
+MI,563,26117,Montcalm,Grand Rapids-Kalamazoo-Battle Creek
+MI,540,26119,Montmorency,Traverse City-Cadillac
+MI,563,26121,Muskegon,Grand Rapids-Kalamazoo-Battle Creek
+MI,563,26123,Newaygo,Grand Rapids-Kalamazoo-Battle Creek
+MI,505,26125,Oakland,Detroit
+MI,563,26127,Oceana,Grand Rapids-Kalamazoo-Battle Creek
+MI,513,26129,Ogemaw,Flint-Saginaw-Bay City
+MI,553,26131,Ontonagon,Marquette
+MI,540,26133,Osceola,Traverse City-Cadillac
+MI,540,26135,Oscoda,Traverse City-Cadillac
+MI,540,26137,Otsego,Traverse City-Cadillac
+MI,563,26139,Ottawa,Grand Rapids-Kalamazoo-Battle Creek
+MI,540,26141,Presque Isle,Traverse City-Cadillac
+MI,540,26143,Roscommon,Traverse City-Cadillac
+MI,513,26145,Saginaw,Flint-Saginaw-Bay City
+MI,505,26147,Saint Clair,Detroit
+MI,563,26149,Saint Joseph,Grand Rapids-Kalamazoo-Battle Creek
+MI,505,26151,Sanilac,Detroit
+MI,553,26153,Schoolcraft,Marquette
+MI,513,26155,Shiawassee,Flint-Saginaw-Bay City
+MI,513,26157,Tuscola,Flint-Saginaw-Bay City
+MI,563,26159,Van Buren,Grand Rapids-Kalamazoo-Battle Creek
+MI,505,26161,Washtenaw,Detroit
+MI,505,26163,Wayne,Detroit
+MI,540,26165,Wexford,Traverse City-Cadillac
+MN,613,27001,Aitkin,Minneapolis-Saint Paul
+MN,613,27003,Anoka,Minneapolis-Saint Paul
+MN,724,27005,Becker,Fargo-Valley City
+MN,613,27007,Beltrami,Minneapolis-Saint Paul
+MN,613,27009,Benton,Minneapolis-Saint Paul
+MN,613,27011,Big Stone,Minneapolis-Saint Paul
+MN,737,27013,Blue Earth,Mankato
+MN,737,27015,Brown,Mankato
+MN,676,27017,Carlton,Duluth-Superior
+MN,613,27019,Carver,Minneapolis-Saint Paul
+MN,613,27021,Cass,Minneapolis-Saint Paul
+MN,613,27023,Chippewa,Minneapolis-Saint Paul
+MN,613,27025,Chisago,Minneapolis-Saint Paul
+MN,724,27027,Clay,Fargo-Valley City
+MN,724,27029,Clearwater,Fargo-Valley City
+MN,676,27031,Cook,Duluth-Superior
+MN,613,27033,Cottonwood,Minneapolis-Saint Paul
+MN,613,27035,Crow Wing,Minneapolis-Saint Paul
+MN,613,27037,Dakota,Minneapolis-Saint Paul
+MN,611,27039,Dodge,Rochester-Mason City-Austin
+MN,613,27041,Douglas,Minneapolis-Saint Paul
+MN,613,27043,Faribault,Minneapolis-Saint Paul
+MN,611,27045,Fillmore,Rochester-Mason City-Austin
+MN,611,27047,Freeborn,Rochester-Mason City-Austin
+MN,613,27049,Goodhue,Minneapolis-Saint Paul
+MN,613,27051,Grant,Minneapolis-Saint Paul
+MN,613,27053,Hennepin,Minneapolis-Saint Paul
+MN,702,27055,Houston,La Crosse-Eau Claire
+MN,613,27057,Hubbard,Minneapolis-Saint Paul
+MN,613,27059,Isanti,Minneapolis-Saint Paul
+MN,676,27061,Itasca,Duluth-Superior
+MN,613,27063,Jackson,Minneapolis-Saint Paul
+MN,613,27065,Kanabec,Minneapolis-Saint Paul
+MN,613,27067,Kandiyohi,Minneapolis-Saint Paul
+MN,724,27069,Kittson,Fargo-Valley City
+MN,676,27071,Koochiching,Duluth-Superior
+MN,613,27073,Lac Qui Parle,Minneapolis-Saint Paul
+MN,676,27075,Lake,Duluth-Superior
+MN,724,27077,Lake of the Woods,Fargo-Valley City
+MN,613,27079,Le Sueur,Minneapolis-Saint Paul
+MN,725,27081,Lincoln,Sioux Falls (Mitchell)
+MN,613,27083,Lyon,Minneapolis-Saint Paul
+MN,613,27085,McLeod,Minneapolis-Saint Paul
+MN,724,27087,Mahnomen,Fargo-Valley City
+MN,724,27089,Marshall,Fargo-Valley City
+MN,737,27091,Martin,Mankato
+MN,613,27093,Meeker,Minneapolis-Saint Paul
+MN,613,27095,Mille Lacs,Minneapolis-Saint Paul
+MN,613,27097,Morrison,Minneapolis-Saint Paul
+MN,611,27099,Mower,Rochester-Mason City-Austin
+MN,725,27101,Murray,Sioux Falls (Mitchell)
+MN,737,27103,Nicollet,Mankato
+MN,725,27105,Nobles,Sioux Falls (Mitchell)
+MN,724,27107,Norman,Fargo-Valley City
+MN,611,27109,Olmsted,Rochester-Mason City-Austin
+MN,724,27111,Otter Tail,Fargo-Valley City
+MN,724,27113,Pennington,Fargo-Valley City
+MN,613,27115,Pine,Minneapolis-Saint Paul
+MN,725,27117,Pipestone,Sioux Falls (Mitchell)
+MN,724,27119,Polk,Fargo-Valley City
+MN,613,27121,Pope,Minneapolis-Saint Paul
+MN,613,27123,Ramsey,Minneapolis-Saint Paul
+MN,724,27125,Red Lake,Fargo-Valley City
+MN,613,27127,Redwood,Minneapolis-Saint Paul
+MN,613,27129,Renville,Minneapolis-Saint Paul
+MN,613,27131,Rice,Minneapolis-Saint Paul
+MN,725,27133,Rock,Sioux Falls (Mitchell)
+MN,724,27135,Roseau,Fargo-Valley City
+MN,676,27137,Saint Louis,Duluth-Superior
+MN,613,27139,Scott,Minneapolis-Saint Paul
+MN,613,27141,Sherburne,Minneapolis-Saint Paul
+MN,613,27143,Sibley,Minneapolis-Saint Paul
+MN,613,27145,Stearns,Minneapolis-Saint Paul
+MN,613,27147,Steele,Minneapolis-Saint Paul
+MN,613,27149,Stevens,Minneapolis-Saint Paul
+MN,613,27151,Swift,Minneapolis-Saint Paul
+MN,613,27153,Todd,Minneapolis-Saint Paul
+MN,613,27155,Traverse,Minneapolis-Saint Paul
+MN,613,27157,Wabasha,Minneapolis-Saint Paul
+MN,613,27159,Wadena,Minneapolis-Saint Paul
+MN,613,27161,Waseca,Minneapolis-Saint Paul
+MN,613,27163,Washington,Minneapolis-Saint Paul
+MN,737,27165,Watonwan,Mankato
+MN,724,27167,Wilkin,Fargo-Valley City
+MN,702,27169,Winona,La Crosse-Eau Claire
+MN,613,27171,Wright,Minneapolis-Saint Paul
+MN,613,27173,Yellow Medicine,Minneapolis-Saint Paul
+MS,718,28001,Adams,"Jackson, Ms"
+MS,640,28003,Alcorn,Memphis
+MS,716,28005,Amite,Baton Rouge
+MS,718,28007,Attala,"Jackson, Ms"
+MS,640,28009,Benton,Memphis
+MS,647,28011,Bolivar,Greenwood-Greenville
+MS,673,28013,Calhoun,Columbus-Tupelo-West Point
+MS,647,28015,Carroll,Greenwood-Greenville
+MS,673,28017,Chickasaw,Columbus-Tupelo-West Point
+MS,673,28019,Choctaw,Columbus-Tupelo-West Point
+MS,718,28021,Claiborne,"Jackson, Ms"
+MS,711,28023,Clarke,Meridian
+MS,673,28025,Clay,Columbus-Tupelo-West Point
+MS,640,28027,Coahoma,Memphis
+MS,718,28029,Copiah,"Jackson, Ms"
+MS,710,28031,Covington,Hattiesburg-Laurel
+MS,640,28033,DeSoto,Memphis
+MS,710,28035,Forrest,Hattiesburg-Laurel
+MS,718,28037,Franklin,"Jackson, Ms"
+MS,746,28039,George,Biloxi-Gulfport
+MS,686,28041,Greene,Mobile-Pensacola
+MS,647,28043,Grenada,Greenwood-Greenville
+MS,622,28045,Hancock,New Orleans
+MS,746,28047,Harrison,Biloxi-Gulfport
+MS,718,28049,Hinds,"Jackson, Ms"
+MS,718,28051,Holmes,"Jackson, Ms"
+MS,718,28053,Humphreys,"Jackson, Ms"
+MS,718,28055,Issaquena,"Jackson, Ms"
+MS,673,28057,Itawamba,Columbus-Tupelo-West Point
+MS,746,28059,Jackson,Biloxi-Gulfport
+MS,710,28061,Jasper,Hattiesburg-Laurel
+MS,718,28063,Jefferson,"Jackson, Ms"
+MS,718,28065,Jefferson Davis,"Jackson, Ms"
+MS,710,28067,Jones,Hattiesburg-Laurel
+MS,711,28069,Kemper,Meridian
+MS,640,28071,Lafayette,Memphis
+MS,710,28073,Lamar,Hattiesburg-Laurel
+MS,711,28075,Lauderdale,Meridian
+MS,718,28077,Lawrence,"Jackson, Ms"
+MS,718,28079,Leake,"Jackson, Ms"
+MS,673,28081,Lee,Columbus-Tupelo-West Point
+MS,647,28083,Leflore,Greenwood-Greenville
+MS,718,28085,Lincoln,"Jackson, Ms"
+MS,673,28087,Lowndes,Columbus-Tupelo-West Point
+MS,718,28089,Madison,"Jackson, Ms"
+MS,710,28091,Marion,Hattiesburg-Laurel
+MS,640,28093,Marshall,Memphis
+MS,673,28095,Monroe,Columbus-Tupelo-West Point
+MS,673,28097,Montgomery,Columbus-Tupelo-West Point
+MS,711,28099,Neshoba,Meridian
+MS,711,28101,Newton,Meridian
+MS,673,28103,Noxubee,Columbus-Tupelo-West Point
+MS,673,28105,Oktibbeha,Columbus-Tupelo-West Point
+MS,640,28107,Panola,Memphis
+MS,622,28109,Pearl River,New Orleans
+MS,710,28111,Perry,Hattiesburg-Laurel
+MS,718,28113,Pike,"Jackson, Ms"
+MS,673,28115,Pontotoc,Columbus-Tupelo-West Point
+MS,673,28117,Prentiss,Columbus-Tupelo-West Point
+MS,640,28119,Quitman,Memphis
+MS,718,28121,Rankin,"Jackson, Ms"
+MS,718,28123,Scott,"Jackson, Ms"
+MS,718,28125,Sharkey,"Jackson, Ms"
+MS,718,28127,Simpson,"Jackson, Ms"
+MS,718,28129,Smith,"Jackson, Ms"
+MS,746,28131,Stone,Biloxi-Gulfport
+MS,647,28133,Sunflower,Greenwood-Greenville
+MS,647,28135,Tallahatchie,Greenwood-Greenville
+MS,640,28137,Tate,Memphis
+MS,640,28139,Tippah,Memphis
+MS,673,28141,Tishomingo,Columbus-Tupelo-West Point
+MS,640,28143,Tunica,Memphis
+MS,673,28145,Union,Columbus-Tupelo-West Point
+MS,718,28147,Walthall,"Jackson, Ms"
+MS,718,28149,Warren,"Jackson, Ms"
+MS,647,28151,Washington,Greenwood-Greenville
+MS,710,28153,Wayne,Hattiesburg-Laurel
+MS,673,28155,Webster,Columbus-Tupelo-West Point
+MS,716,28157,Wilkinson,Baton Rouge
+MS,673,28159,Winston,Columbus-Tupelo-West Point
+MS,673,28161,Yalobusha,Columbus-Tupelo-West Point
+MS,718,28163,Yazoo,"Jackson, Ms"
+MO,631,29001,Adair,Ottumwa-Kirksville
+MO,638,29003,Andrew,Saint Joseph
+MO,652,29005,Atchison,Omaha
+MO,604,29007,Audrain,Columbia-Jefferson City
+MO,619,29009,Barry,"Springfield, Mo"
+MO,603,29011,Barton,Joplin-Pittsburg
+MO,616,29013,Bates,Kansas City
+MO,619,29015,Benton,"Springfield, Mo"
+MO,632,29017,Bollinger,Paducah-Cape Girardeau-Harrisburg
+MO,604,29019,Boone,Columbia-Jefferson City
+MO,638,29021,Buchanan,Saint Joseph
+MO,632,29023,Butler,Paducah-Cape Girardeau-Harrisburg
+MO,616,29025,Caldwell,Kansas City
+MO,604,29027,Callaway,Columbia-Jefferson City
+MO,619,29029,Camden,"Springfield, Mo"
+MO,632,29031,Cape Girardeau,Paducah-Cape Girardeau-Harrisburg
+MO,616,29033,Carroll,Kansas City
+MO,632,29035,Carter,Paducah-Cape Girardeau-Harrisburg
+MO,616,29037,Cass,Kansas City
+MO,619,29039,Cedar,"Springfield, Mo"
+MO,604,29041,Chariton,Columbia-Jefferson City
+MO,619,29043,Christian,"Springfield, Mo"
+MO,717,29045,Clark,Quincy-Hannibal-Keokuk
+MO,616,29047,Clay,Kansas City
+MO,616,29049,Clinton,Kansas City
+MO,604,29051,Cole,Columbia-Jefferson City
+MO,604,29053,Cooper,Columbia-Jefferson City
+MO,609,29055,Crawford,Saint Louis
+MO,619,29057,Dade,"Springfield, Mo"
+MO,619,29059,Dallas,"Springfield, Mo"
+MO,616,29061,Daviess,Kansas City
+MO,638,29063,Dekalb,Saint Joseph
+MO,619,29065,Dent,"Springfield, Mo"
+MO,619,29067,Douglas,"Springfield, Mo"
+MO,632,29069,Dunklin,Paducah-Cape Girardeau-Harrisburg
+MO,609,29071,Franklin,Saint Louis
+MO,609,29073,Gasconade,Saint Louis
+MO,616,29075,Gentry,Kansas City
+MO,619,29077,Greene,"Springfield, Mo"
+MO,616,29079,Grundy,Kansas City
+MO,616,29081,Harrison,Kansas City
+MO,616,29083,Henry,Kansas City
+MO,619,29085,Hickory,"Springfield, Mo"
+MO,616,29087,Holt,Kansas City
+MO,604,29089,Howard,Columbia-Jefferson City
+MO,619,29091,Howell,"Springfield, Mo"
+MO,609,29093,Iron,Saint Louis
+MO,616,29095,Jackson,Kansas City
+MO,603,29097,Jasper,Joplin-Pittsburg
+MO,609,29099,Jefferson,Saint Louis
+MO,616,29101,Johnson,Kansas City
+MO,717,29103,Knox,Quincy-Hannibal-Keokuk
+MO,619,29105,Laclede,"Springfield, Mo"
+MO,616,29107,Lafayette,Kansas City
+MO,619,29109,Lawrence,"Springfield, Mo"
+MO,717,29111,Lewis,Quincy-Hannibal-Keokuk
+MO,609,29113,Lincoln,Saint Louis
+MO,616,29115,Linn,Kansas City
+MO,616,29117,Livingston,Kansas City
+MO,603,29119,McDonald,Joplin-Pittsburg
+MO,631,29121,Macon,Ottumwa-Kirksville
+MO,632,29123,Madison,Paducah-Cape Girardeau-Harrisburg
+MO,604,29125,Maries,Columbia-Jefferson City
+MO,717,29127,Marion,Quincy-Hannibal-Keokuk
+MO,616,29129,Mercer,Kansas City
+MO,604,29131,Miller,Columbia-Jefferson City
+MO,632,29133,Mississippi,Paducah-Cape Girardeau-Harrisburg
+MO,604,29135,Moniteau,Columbia-Jefferson City
+MO,717,29137,Monroe,Quincy-Hannibal-Keokuk
+MO,604,29139,Montgomery,Columbia-Jefferson City
+MO,604,29141,Morgan,Columbia-Jefferson City
+MO,632,29143,New Madrid,Paducah-Cape Girardeau-Harrisburg
+MO,603,29145,Newton,Joplin-Pittsburg
+MO,616,29147,Nodaway,Kansas City
+MO,619,29149,Oregon,"Springfield, Mo"
+MO,604,29151,Osage,Columbia-Jefferson City
+MO,619,29153,Ozark,"Springfield, Mo"
+MO,640,29155,Pemiscot,Memphis
+MO,632,29157,Perry,Paducah-Cape Girardeau-Harrisburg
+MO,616,29159,Pettis,Kansas City
+MO,609,29161,Phelps,Saint Louis
+MO,609,29163,Pike,Saint Louis
+MO,616,29165,Platte,Kansas City
+MO,619,29167,Polk,"Springfield, Mo"
+MO,619,29169,Pulaski,"Springfield, Mo"
+MO,631,29171,Putnam,Ottumwa-Kirksville
+MO,717,29173,Ralls,Quincy-Hannibal-Keokuk
+MO,604,29175,Randolph,Columbia-Jefferson City
+MO,616,29177,Ray,Kansas City
+MO,609,29179,Reynolds,Saint Louis
+MO,632,29181,Ripley,Paducah-Cape Girardeau-Harrisburg
+MO,609,29183,Saint Charles,Saint Louis
+MO,619,29185,Saint Clair,"Springfield, Mo"
+MO,609,29186,Sainte Genevieve,Saint Louis
+MO,609,29187,Saint Francois,Saint Louis
+MO,609,29189,Saint Louis,Saint Louis
+MO,616,29195,Saline,Kansas City
+MO,631,29197,Schuyler,Ottumwa-Kirksville
+MO,631,29199,Scotland,Ottumwa-Kirksville
+MO,632,29201,Scott,Paducah-Cape Girardeau-Harrisburg
+MO,619,29203,Shannon,"Springfield, Mo"
+MO,717,29205,Shelby,Quincy-Hannibal-Keokuk
+MO,632,29207,Stoddard,Paducah-Cape Girardeau-Harrisburg
+MO,619,29209,Stone,"Springfield, Mo"
+MO,631,29211,Sullivan,Ottumwa-Kirksville
+MO,619,29213,Taney,"Springfield, Mo"
+MO,619,29215,Texas,"Springfield, Mo"
+MO,603,29217,Vernon,Joplin-Pittsburg
+MO,609,29219,Warren,Saint Louis
+MO,609,29221,Washington,Saint Louis
+MO,632,29223,Wayne,Paducah-Cape Girardeau-Harrisburg
+MO,619,29225,Webster,"Springfield, Mo"
+MO,616,29227,Worth,Kansas City
+MO,619,29229,Wright,"Springfield, Mo"
+MO,609,29510,Saint Louis City,Saint Louis
+MT,754,30001,Beaverhead,Butte-Bozeman
+MT,756,30003,Big Horn,Billings
+MT,755,30005,Blaine,Great Falls
+MT,766,30007,Broadwater,Helena
+MT,756,30009,Carbon,Billings
+MT,764,30011,Carter,Rapid City
+MT,755,30013,Cascade,Great Falls
+MT,755,30015,Chouteau,Great Falls
+MT,756,30017,Custer,Billings
+MT,687,30019,Daniels,Minot-Bismarck-Dickinson
+MT,798,30021,Dawson,Glendive
+MT,754,30023,Deer Lodge,Butte-Bozeman
+MT,687,30025,Fallon,Minot-Bismarck-Dickinson
+MT,755,30027,Fergus,Great Falls
+MT,762,30029,Flathead,Missoula
+MT,754,30031,Gallatin,Butte-Bozeman
+MT,756,30033,Garfield,Billings
+MT,755,30035,Glacier,Great Falls
+MT,756,30037,Golden Valley,Billings
+MT,762,30039,Granite,Missoula
+MT,755,30041,Hill,Great Falls
+MT,754,30043,Jefferson,Butte-Bozeman
+MT,755,30045,Judith Basin,Great Falls
+MT,762,30047,Lake,Missoula
+MT,766,30049,Lewis and Clark,Helena
+MT,755,30051,Liberty,Great Falls
+MT,881,30053,Lincoln,Spokane
+MT,687,30055,McCone,Minot-Bismarck-Dickinson
+MT,754,30057,Madison,Butte-Bozeman
+MT,756,30059,Meagher,Billings
+MT,762,30061,Mineral,Missoula
+MT,762,30063,Missoula,Missoula
+MT,756,30065,Musselshell,Billings
+MT,756,30067,Park,Billings
+MT,756,30069,Petroleum,Billings
+MT,755,30071,Phillips,Great Falls
+MT,755,30073,Pondera,Great Falls
+MT,756,30075,Powder River,Billings
+MT,754,30077,Powell,Butte-Bozeman
+MT,798,30079,Prairie,Glendive
+MT,762,30081,Ravalli,Missoula
+MT,687,30083,Richland,Minot-Bismarck-Dickinson
+MT,687,30085,Roosevelt,Minot-Bismarck-Dickinson
+MT,756,30087,Rosebud,Billings
+MT,762,30089,Sanders,Missoula
+MT,687,30091,Sheridan,Minot-Bismarck-Dickinson
+MT,754,30093,Silver Bow,Butte-Bozeman
+MT,756,30095,Stillwater,Billings
+MT,756,30097,Sweet Grass,Billings
+MT,755,30099,Teton,Great Falls
+MT,755,30101,Toole,Great Falls
+MT,756,30103,Treasure,Billings
+MT,755,30105,Valley,Great Falls
+MT,756,30107,Wheatland,Billings
+MT,687,30109,Wibaux,Minot-Bismarck-Dickinson
+MT,756,30111,Yellowstone,Billings
+NE,722,31001,Adams,Lincoln-Hastings-Kearney Plus
+NE,722,31003,Antelope,Lincoln-Hastings-Kearney Plus
+NE,751,31005,Arthur,Denver
+NE,751,31007,Banner,Denver
+NE,722,31009,Blaine,Lincoln-Hastings-Kearney Plus
+NE,722,31011,Boone,Lincoln-Hastings-Kearney Plus
+NE,751,31013,Box Butte,Denver
+NE,722,31015,Boyd,Lincoln-Hastings-Kearney Plus
+NE,722,31017,Brown,Lincoln-Hastings-Kearney Plus
+NE,722,31019,Buffalo,Lincoln-Hastings-Kearney Plus
+NE,652,31021,Burt,Omaha
+NE,722,31023,Butler,Lincoln-Hastings-Kearney Plus
+NE,652,31025,Cass,Omaha
+NE,624,31027,Cedar,Sioux City
+NE,722,31029,Chase,Lincoln-Hastings-Kearney Plus
+NE,751,31031,Cherry,Denver
+NE,751,31033,Cheyenne,Denver
+NE,722,31035,Clay,Lincoln-Hastings-Kearney Plus
+NE,652,31037,Colfax,Omaha
+NE,652,31039,Cuming,Omaha
+NE,722,31041,Custer,Lincoln-Hastings-Kearney Plus
+NE,624,31043,Dakota,Sioux City
+NE,751,31045,Dawes,Denver
+NE,722,31047,Dawson,Lincoln-Hastings-Kearney Plus
+NE,751,31049,Deuel,Denver
+NE,624,31051,Dixon,Sioux City
+NE,652,31053,Dodge,Omaha
+NE,652,31055,Douglas,Omaha
+NE,678,31057,Dundy,Wichita-Hutchinson Plus
+NE,722,31059,Fillmore,Lincoln-Hastings-Kearney Plus
+NE,722,31061,Franklin,Lincoln-Hastings-Kearney Plus
+NE,722,31063,Frontier,Lincoln-Hastings-Kearney Plus
+NE,722,31065,Furnas,Lincoln-Hastings-Kearney Plus
+NE,722,31067,Gage,Lincoln-Hastings-Kearney Plus
+NE,751,31069,Garden,Denver
+NE,722,31071,Garfield,Lincoln-Hastings-Kearney Plus
+NE,722,31073,Gosper,Lincoln-Hastings-Kearney Plus
+NE,751,31075,Grant,Denver
+NE,722,31077,Greeley,Lincoln-Hastings-Kearney Plus
+NE,722,31079,Hall,Lincoln-Hastings-Kearney Plus
+NE,722,31081,Hamilton,Lincoln-Hastings-Kearney Plus
+NE,722,31083,Harlan,Lincoln-Hastings-Kearney Plus
+NE,722,31085,Hayes,Lincoln-Hastings-Kearney Plus
+NE,722,31087,Hitchcock,Lincoln-Hastings-Kearney Plus
+NE,722,31089,Holt,Lincoln-Hastings-Kearney Plus
+NE,751,31091,Hooker,Denver
+NE,722,31093,Howard,Lincoln-Hastings-Kearney Plus
+NE,722,31095,Jefferson,Lincoln-Hastings-Kearney Plus
+NE,652,31097,Johnson,Omaha
+NE,722,31099,Kearney,Lincoln-Hastings-Kearney Plus
+NE,751,31101,Keith,Denver
+NE,722,31103,Keya Paha,Lincoln-Hastings-Kearney Plus
+NE,751,31105,Kimball,Denver
+NE,624,31107,Knox,Sioux City
+NE,722,31109,Lancaster,Lincoln-Hastings-Kearney Plus
+NE,740,31111,Lincoln,North Platte
+NE,740,31113,Logan,North Platte
+NE,722,31115,Loup,Lincoln-Hastings-Kearney Plus
+NE,740,31117,McPherson,North Platte
+NE,624,31119,Madison,Sioux City
+NE,722,31121,Merrick,Lincoln-Hastings-Kearney Plus
+NE,764,31123,Morrill,Rapid City
+NE,722,31125,Nance,Lincoln-Hastings-Kearney Plus
+NE,652,31127,Nemaha,Omaha
+NE,722,31129,Nuckolls,Lincoln-Hastings-Kearney Plus
+NE,652,31131,Otoe,Omaha
+NE,722,31133,Pawnee,Lincoln-Hastings-Kearney Plus
+NE,722,31135,Perkins,Lincoln-Hastings-Kearney Plus
+NE,722,31137,Phelps,Lincoln-Hastings-Kearney Plus
+NE,624,31139,Pierce,Sioux City
+NE,652,31141,Platte,Omaha
+NE,722,31143,Polk,Lincoln-Hastings-Kearney Plus
+NE,722,31145,Red Willow,Lincoln-Hastings-Kearney Plus
+NE,652,31147,Richardson,Omaha
+NE,722,31149,Rock,Lincoln-Hastings-Kearney Plus
+NE,722,31151,Saline,Lincoln-Hastings-Kearney Plus
+NE,652,31153,Sarpy,Omaha
+NE,652,31155,Saunders,Omaha
+NE,759,31157,Scotts Bluff,Cheyenne-Scottsbluff
+NE,722,31159,Seward,Lincoln-Hastings-Kearney Plus
+NE,751,31161,Sheridan,Denver
+NE,722,31163,Sherman,Lincoln-Hastings-Kearney Plus
+NE,759,31165,Sioux,Cheyenne-Scottsbluff
+NE,624,31167,Stanton,Sioux City
+NE,722,31169,Thayer,Lincoln-Hastings-Kearney Plus
+NE,740,31171,Thomas,North Platte
+NE,624,31173,Thurston,Sioux City
+NE,722,31175,Valley,Lincoln-Hastings-Kearney Plus
+NE,652,31177,Washington,Omaha
+NE,624,31179,Wayne,Sioux City
+NE,722,31181,Webster,Lincoln-Hastings-Kearney Plus
+NE,722,31183,Wheeler,Lincoln-Hastings-Kearney Plus
+NE,722,31185,York,Lincoln-Hastings-Kearney Plus
+NV,811,32001,Churchill,Reno
+NV,839,32003,Clark,Las Vegas
+NV,811,32005,Douglas,Reno
+NV,770,32007,Elko,Salt Lake City
+NV,811,32009,Esmeralda,Reno
+NV,770,32011,Eureka,Salt Lake City
+NV,811,32013,Humboldt,Reno
+NV,811,32015,Lander,Reno
+NV,839,32017,Lincoln,Las Vegas
+NV,811,32019,Lyon,Reno
+NV,811,32021,Mineral,Reno
+NV,839,32023,Nye,Las Vegas
+NV,811,32027,Pershing,Reno
+NV,811,32029,Storey,Reno
+NV,811,32031,Washoe,Reno
+NV,770,32033,White Pine,Salt Lake City
+NV,811,32510,Carson City,Reno
+NH,506,33001,Belknap,Boston
+NH,500,33003,Carroll,Portland-Auburn
+NH,506,33005,Cheshire,Boston
+NH,500,33007,Coos,Portland-Auburn
+NH,523,33009,Grafton,Burlington-Plattsburgh
+NH,506,33011,Hillsborough,Boston
+NH,506,33013,Merrimack,Boston
+NH,506,33015,Rockingham,Boston
+NH,506,33017,Strafford,Boston
+NH,523,33019,Sullivan,Burlington-Plattsburgh
+NJ,504,34001,Atlantic,Philadelphia
+NJ,501,34003,Bergen,New York
+NJ,504,34005,Burlington,Philadelphia
+NJ,504,34007,Camden,Philadelphia
+NJ,504,34009,Cape May,Philadelphia
+NJ,504,34011,Cumberland,Philadelphia
+NJ,501,34013,Essex,New York
+NJ,504,34015,Gloucester,Philadelphia
+NJ,501,34017,Hudson,New York
+NJ,501,34019,Hunterdon,New York
+NJ,504,34021,Mercer,Philadelphia
+NJ,501,34023,Middlesex,New York
+NJ,501,34025,Monmouth,New York
+NJ,501,34027,Morris,New York
+NJ,501,34029,Ocean,New York
+NJ,501,34031,Passaic,New York
+NJ,504,34033,Salem,Philadelphia
+NJ,501,34035,Somerset,New York
+NJ,501,34037,Sussex,New York
+NJ,501,34039,Union,New York
+NJ,501,34041,Warren,New York
+NM,790,35001,Bernalillo,Albuquerque-Santa Fe
+NM,790,35003,Catron,Albuquerque-Santa Fe
+NM,790,35005,Chaves,Albuquerque-Santa Fe
+NM,790,35006,Cibola,Albuquerque-Santa Fe
+NM,790,35007,Colfax,Albuquerque-Santa Fe
+NM,634,35009,Curry,Amarillo
+NM,790,35011,De Baca,Albuquerque-Santa Fe
+NM,765,35013,Dona Ana,El Paso
+NM,790,35015,Eddy,Albuquerque-Santa Fe
+NM,790,35017,Grant,Albuquerque-Santa Fe
+NM,790,35019,Guadalupe,Albuquerque-Santa Fe
+NM,790,35021,Harding,Albuquerque-Santa Fe
+NM,790,35023,Hidalgo,Albuquerque-Santa Fe
+NM,790,35025,Lea,Albuquerque-Santa Fe
+NM,790,35027,Lincoln,Albuquerque-Santa Fe
+NM,790,35028,Los Alamos,Albuquerque-Santa Fe
+NM,790,35029,Luna,Albuquerque-Santa Fe
+NM,790,35031,McKinley,Albuquerque-Santa Fe
+NM,790,35033,Mora,Albuquerque-Santa Fe
+NM,790,35035,Otero,Albuquerque-Santa Fe
+NM,634,35037,Quay,Amarillo
+NM,790,35039,Rio Arriba,Albuquerque-Santa Fe
+NM,634,35041,Roosevelt,Amarillo
+NM,790,35043,Sandoval,Albuquerque-Santa Fe
+NM,790,35045,San Juan,Albuquerque-Santa Fe
+NM,790,35047,San Miguel,Albuquerque-Santa Fe
+NM,790,35049,Santa Fe,Albuquerque-Santa Fe
+NM,790,35051,Sierra,Albuquerque-Santa Fe
+NM,790,35053,Socorro,Albuquerque-Santa Fe
+NM,790,35055,Taos,Albuquerque-Santa Fe
+NM,790,35057,Torrance,Albuquerque-Santa Fe
+NM,634,35059,Union,Amarillo
+NM,790,35061,Valencia,Albuquerque-Santa Fe
+NY,532,36001,Albany,Albany-Schenectady-Troy
+NY,514,36003,Allegany,Buffalo
+NY,501,36005,Bronx,New York
+NY,502,36007,Broome,Binghamton
+NY,514,36009,Cattaraugus,Buffalo
+NY,555,36011,Cayuga,Syracuse
+NY,514,36013,Chautauqua,Buffalo
+NY,565,36015,Chemung,Elmira
+NY,502,36017,Chenango,Binghamton
+NY,523,36019,Clinton,Burlington-Plattsburgh
+NY,532,36021,Columbia,Albany-Schenectady-Troy
+NY,555,36023,Cortland,Syracuse
+NY,502,36025,Delaware,Binghamton
+NY,501,36027,Dutchess,New York
+NY,514,36029,Erie,Buffalo
+NY,523,36031,Essex,Burlington-Plattsburgh
+NY,523,36033,Franklin,Burlington-Plattsburgh
+NY,532,36035,Fulton,Albany-Schenectady-Troy
+NY,514,36037,Genesee,Buffalo
+NY,532,36039,Greene,Albany-Schenectady-Troy
+NY,532,36041,Hamilton,Albany-Schenectady-Troy
+NY,526,36043,Herkimer,Utica
+NY,549,36045,Jefferson,Watertown
+NY,501,36047,Kings,New York
+NY,549,36049,Lewis,Watertown
+NY,538,36051,Livingston,"Rochester, Ny"
+NY,555,36053,Madison,Syracuse
+NY,538,36055,Monroe,"Rochester, Ny"
+NY,532,36057,Montgomery,Albany-Schenectady-Troy
+NY,501,36059,Nassau,New York
+NY,501,36061,New York,New York
+NY,514,36063,Niagara,Buffalo
+NY,526,36065,Oneida,Utica
+NY,555,36067,Onondaga,Syracuse
+NY,538,36069,Ontario,"Rochester, Ny"
+NY,501,36071,Orange,New York
+NY,514,36073,Orleans,Buffalo
+NY,555,36075,Oswego,Syracuse
+NY,526,36077,Otsego,Utica
+NY,501,36079,Putnam,New York
+NY,501,36081,Queens,New York
+NY,532,36083,Rensselaer,Albany-Schenectady-Troy
+NY,501,36085,Richmond,New York
+NY,501,36087,Rockland,New York
+NY,549,36089,Saint Lawrence,Watertown
+NY,532,36091,Saratoga,Albany-Schenectady-Troy
+NY,532,36093,Schenectady,Albany-Schenectady-Troy
+NY,532,36095,Schoharie,Albany-Schenectady-Troy
+NY,565,36097,Schuyler,Elmira
+NY,555,36099,Seneca,Syracuse
+NY,565,36101,Steuben,Elmira
+NY,501,36103,Suffolk,New York
+NY,501,36105,Sullivan,New York
+NY,502,36107,Tioga,Binghamton
+NY,555,36109,Tompkins,Syracuse
+NY,501,36111,Ulster,New York
+NY,532,36113,Warren,Albany-Schenectady-Troy
+NY,532,36115,Washington,Albany-Schenectady-Troy
+NY,538,36117,Wayne,"Rochester, Ny"
+NY,501,36119,Westchester,New York
+NY,514,36121,Wyoming,Buffalo
+NY,538,36123,Yates,"Rochester, Ny"
+NC,518,37001,Alamance,Greensboro-High Point-Winston Salem
+NC,517,37003,Alexander,Charlotte
+NC,518,37005,Alleghany,Greensboro-High Point-Winston Salem
+NC,517,37007,Anson,Charlotte
+NC,517,37009,Ashe,Charlotte
+NC,517,37011,Avery,Charlotte
+NC,545,37013,Beaufort,Greenville-New Bern-Washington
+NC,545,37015,Bertie,Greenville-New Bern-Washington
+NC,550,37017,Bladen,Wilmington
+NC,550,37019,Brunswick,Wilmington
+NC,567,37021,Buncombe,Greenville-Spartanburg-Asheville
+NC,517,37023,Burke,Charlotte
+NC,517,37025,Cabarrus,Charlotte
+NC,517,37027,Caldwell,Charlotte
+NC,544,37029,Camden,Norfolk-Portsmouth-Newport News
+NC,545,37031,Carteret,Greenville-New Bern-Washington
+NC,518,37033,Caswell,Greensboro-High Point-Winston Salem
+NC,517,37035,Catawba,Charlotte
+NC,560,37037,Chatham,Raleigh-Durham
+NC,575,37039,Cherokee,Chattanooga
+NC,544,37041,Chowan,Norfolk-Portsmouth-Newport News
+NC,524,37043,Clay,Atlanta
+NC,517,37045,Cleveland,Charlotte
+NC,550,37047,Columbus,Wilmington
+NC,545,37049,Craven,Greenville-New Bern-Washington
+NC,560,37051,Cumberland,Raleigh-Durham
+NC,544,37053,Currituck,Norfolk-Portsmouth-Newport News
+NC,544,37055,Dare,Norfolk-Portsmouth-Newport News
+NC,518,37057,Davidson,Greensboro-High Point-Winston Salem
+NC,518,37059,Davie,Greensboro-High Point-Winston Salem
+NC,545,37061,Duplin,Greenville-New Bern-Washington
+NC,560,37063,Durham,Raleigh-Durham
+NC,560,37065,Edgecombe,Raleigh-Durham
+NC,518,37067,Forsyth,Greensboro-High Point-Winston Salem
+NC,560,37069,Franklin,Raleigh-Durham
+NC,517,37071,Gaston,Charlotte
+NC,544,37073,Gates,Norfolk-Portsmouth-Newport News
+NC,567,37075,Graham,Greenville-Spartanburg-Asheville
+NC,560,37077,Granville,Raleigh-Durham
+NC,545,37079,Greene,Greenville-New Bern-Washington
+NC,518,37081,Guilford,Greensboro-High Point-Winston Salem
+NC,560,37083,Halifax,Raleigh-Durham
+NC,560,37085,Harnett,Raleigh-Durham
+NC,567,37087,Haywood,Greenville-Spartanburg-Asheville
+NC,567,37089,Henderson,Greenville-Spartanburg-Asheville
+NC,544,37091,Hertford,Norfolk-Portsmouth-Newport News
+NC,560,37093,Hoke,Raleigh-Durham
+NC,545,37095,Hyde,Greenville-New Bern-Washington
+NC,517,37097,Iredell,Charlotte
+NC,567,37099,Jackson,Greenville-Spartanburg-Asheville
+NC,560,37101,Johnston,Raleigh-Durham
+NC,545,37103,Jones,Greenville-New Bern-Washington
+NC,560,37105,Lee,Raleigh-Durham
+NC,545,37107,Lenoir,Greenville-New Bern-Washington
+NC,517,37109,Lincoln,Charlotte
+NC,567,37111,McDowell,Greenville-Spartanburg-Asheville
+NC,567,37113,Macon,Greenville-Spartanburg-Asheville
+NC,567,37115,Madison,Greenville-Spartanburg-Asheville
+NC,545,37117,Martin,Greenville-New Bern-Washington
+NC,517,37119,Mecklenburg,Charlotte
+NC,567,37121,Mitchell,Greenville-Spartanburg-Asheville
+NC,518,37123,Montgomery,Greensboro-High Point-Winston Salem
+NC,560,37125,Moore,Raleigh-Durham
+NC,560,37127,Nash,Raleigh-Durham
+NC,550,37129,New Hanover,Wilmington
+NC,544,37131,Northampton,Norfolk-Portsmouth-Newport News
+NC,545,37133,Onslow,Greenville-New Bern-Washington
+NC,560,37135,Orange,Raleigh-Durham
+NC,545,37137,Pamlico,Greenville-New Bern-Washington
+NC,544,37139,Pasquotank,Norfolk-Portsmouth-Newport News
+NC,550,37141,Pender,Wilmington
+NC,544,37143,Perquimans,Norfolk-Portsmouth-Newport News
+NC,560,37145,Person,Raleigh-Durham
+NC,545,37147,Pitt,Greenville-New Bern-Washington
+NC,567,37149,Polk,Greenville-Spartanburg-Asheville
+NC,518,37151,Randolph,Greensboro-High Point-Winston Salem
+NC,517,37153,Richmond,Charlotte
+NC,570,37155,Robeson,Myrtle Beach-Florence
+NC,518,37157,Rockingham,Greensboro-High Point-Winston Salem
+NC,517,37159,Rowan,Charlotte
+NC,567,37161,Rutherford,Greenville-Spartanburg-Asheville
+NC,560,37163,Sampson,Raleigh-Durham
+NC,570,37165,Scotland,Myrtle Beach-Florence
+NC,517,37167,Stanly,Charlotte
+NC,518,37169,Stokes,Greensboro-High Point-Winston Salem
+NC,518,37171,Surry,Greensboro-High Point-Winston Salem
+NC,567,37173,Swain,Greenville-Spartanburg-Asheville
+NC,567,37175,Transylvania,Greenville-Spartanburg-Asheville
+NC,545,37177,Tyrrell,Greenville-New Bern-Washington
+NC,517,37179,Union,Charlotte
+NC,560,37181,Vance,Raleigh-Durham
+NC,560,37183,Wake,Raleigh-Durham
+NC,560,37185,Warren,Raleigh-Durham
+NC,545,37187,Washington,Greenville-New Bern-Washington
+NC,517,37189,Watauga,Charlotte
+NC,560,37191,Wayne,Raleigh-Durham
+NC,518,37193,Wilkes,Greensboro-High Point-Winston Salem
+NC,560,37195,Wilson,Raleigh-Durham
+NC,518,37197,Yadkin,Greensboro-High Point-Winston Salem
+NC,567,37199,Yancey,Greenville-Spartanburg-Asheville
+ND,687,38001,Adams,Minot-Bismarck-Dickinson
+ND,724,38003,Barnes,Fargo-Valley City
+ND,724,38005,Benson,Fargo-Valley City
+ND,687,38007,Billings,Minot-Bismarck-Dickinson
+ND,687,38009,Bottineau,Minot-Bismarck-Dickinson
+ND,687,38011,Bowman,Minot-Bismarck-Dickinson
+ND,687,38013,Burke,Minot-Bismarck-Dickinson
+ND,687,38015,Burleigh,Minot-Bismarck-Dickinson
+ND,724,38017,Cass,Fargo-Valley City
+ND,724,38019,Cavalier,Fargo-Valley City
+ND,724,38021,Dickey,Fargo-Valley City
+ND,687,38023,Divide,Minot-Bismarck-Dickinson
+ND,687,38025,Dunn,Minot-Bismarck-Dickinson
+ND,724,38027,Eddy,Fargo-Valley City
+ND,687,38029,Emmons,Minot-Bismarck-Dickinson
+ND,724,38031,Foster,Fargo-Valley City
+ND,687,38033,Golden Valley,Minot-Bismarck-Dickinson
+ND,724,38035,Grand Forks,Fargo-Valley City
+ND,687,38037,Grant,Minot-Bismarck-Dickinson
+ND,724,38039,Griggs,Fargo-Valley City
+ND,687,38041,Hettinger,Minot-Bismarck-Dickinson
+ND,687,38043,Kidder,Minot-Bismarck-Dickinson
+ND,724,38045,Lamoure,Fargo-Valley City
+ND,687,38047,Logan,Minot-Bismarck-Dickinson
+ND,687,38049,McHenry,Minot-Bismarck-Dickinson
+ND,687,38051,McIntosh,Minot-Bismarck-Dickinson
+ND,687,38053,McKenzie,Minot-Bismarck-Dickinson
+ND,687,38055,McLean,Minot-Bismarck-Dickinson
+ND,687,38057,Mercer,Minot-Bismarck-Dickinson
+ND,687,38059,Morton,Minot-Bismarck-Dickinson
+ND,687,38061,Mountrail,Minot-Bismarck-Dickinson
+ND,724,38063,Nelson,Fargo-Valley City
+ND,687,38065,Oliver,Minot-Bismarck-Dickinson
+ND,724,38067,Pembina,Fargo-Valley City
+ND,687,38069,Pierce,Minot-Bismarck-Dickinson
+ND,724,38071,Ramsey,Fargo-Valley City
+ND,724,38073,Ransom,Fargo-Valley City
+ND,687,38075,Renville,Minot-Bismarck-Dickinson
+ND,724,38077,Richland,Fargo-Valley City
+ND,687,38079,Rolette,Minot-Bismarck-Dickinson
+ND,724,38081,Sargent,Fargo-Valley City
+ND,687,38083,Sheridan,Minot-Bismarck-Dickinson
+ND,687,38085,Sioux,Minot-Bismarck-Dickinson
+ND,687,38087,Slope,Minot-Bismarck-Dickinson
+ND,687,38089,Stark,Minot-Bismarck-Dickinson
+ND,724,38091,Steele,Fargo-Valley City
+ND,724,38093,Stutsman,Fargo-Valley City
+ND,724,38095,Towner,Fargo-Valley City
+ND,724,38097,Traill,Fargo-Valley City
+ND,724,38099,Walsh,Fargo-Valley City
+ND,687,38101,Ward,Minot-Bismarck-Dickinson
+ND,687,38103,Wells,Minot-Bismarck-Dickinson
+ND,687,38105,Williams,Minot-Bismarck-Dickinson
+OH,515,39001,Adams,Cincinnati
+OH,558,39003,Allen,Lima
+OH,510,39005,Ashland,Cleveland-Akron
+OH,510,39007,Ashtabula,Cleveland-Akron
+OH,535,39009,Athens,"Columbus, Oh"
+OH,558,39011,Auglaize,Lima
+OH,554,39013,Belmont,Wheeling-Steubenville
+OH,515,39015,Brown,Cincinnati
+OH,515,39017,Butler,Cincinnati
+OH,510,39019,Carroll,Cleveland-Akron
+OH,542,39021,Champaign,Dayton
+OH,542,39023,Clark,Dayton
+OH,515,39025,Clermont,Cincinnati
+OH,515,39027,Clinton,Cincinnati
+OH,536,39029,Columbiana,Youngstown
+OH,535,39031,Coshocton,"Columbus, Oh"
+OH,535,39033,Crawford,"Columbus, Oh"
+OH,510,39035,Cuyahoga,Cleveland-Akron
+OH,542,39037,Darke,Dayton
+OH,547,39039,Defiance,Toledo
+OH,535,39041,Delaware,"Columbus, Oh"
+OH,510,39043,Erie,Cleveland-Akron
+OH,535,39045,Fairfield,"Columbus, Oh"
+OH,535,39047,Fayette,"Columbus, Oh"
+OH,535,39049,Franklin,"Columbus, Oh"
+OH,547,39051,Fulton,Toledo
+OH,564,39053,Gallia,Charleston-Huntington
+OH,510,39055,Geauga,Cleveland-Akron
+OH,542,39057,Greene,Dayton
+OH,535,39059,Guernsey,"Columbus, Oh"
+OH,515,39061,Hamilton,Cincinnati
+OH,547,39063,Hancock,Toledo
+OH,535,39065,Hardin,"Columbus, Oh"
+OH,554,39067,Harrison,Wheeling-Steubenville
+OH,547,39069,Henry,Toledo
+OH,515,39071,Highland,Cincinnati
+OH,535,39073,Hocking,"Columbus, Oh"
+OH,510,39075,Holmes,Cleveland-Akron
+OH,510,39077,Huron,Cleveland-Akron
+OH,564,39079,Jackson,Charleston-Huntington
+OH,554,39081,Jefferson,Wheeling-Steubenville
+OH,535,39083,Knox,"Columbus, Oh"
+OH,510,39085,Lake,Cleveland-Akron
+OH,564,39087,Lawrence,Charleston-Huntington
+OH,535,39089,Licking,"Columbus, Oh"
+OH,542,39091,Logan,Dayton
+OH,510,39093,Lorain,Cleveland-Akron
+OH,547,39095,Lucas,Toledo
+OH,535,39097,Madison,"Columbus, Oh"
+OH,536,39099,Mahoning,Youngstown
+OH,535,39101,Marion,"Columbus, Oh"
+OH,510,39103,Medina,Cleveland-Akron
+OH,564,39105,Meigs,Charleston-Huntington
+OH,542,39107,Mercer,Dayton
+OH,542,39109,Miami,Dayton
+OH,554,39111,Monroe,Wheeling-Steubenville
+OH,542,39113,Montgomery,Dayton
+OH,535,39115,Morgan,"Columbus, Oh"
+OH,535,39117,Morrow,"Columbus, Oh"
+OH,596,39119,Muskingum,Zanesville
+OH,535,39121,Noble,"Columbus, Oh"
+OH,547,39123,Ottawa,Toledo
+OH,509,39125,Paulding,Fort Wayne
+OH,535,39127,Perry,"Columbus, Oh"
+OH,535,39129,Pickaway,"Columbus, Oh"
+OH,535,39131,Pike,"Columbus, Oh"
+OH,510,39133,Portage,Cleveland-Akron
+OH,542,39135,Preble,Dayton
+OH,558,39137,Putnam,Lima
+OH,510,39139,Richland,Cleveland-Akron
+OH,535,39141,Ross,"Columbus, Oh"
+OH,547,39143,Sandusky,Toledo
+OH,564,39145,Scioto,Charleston-Huntington
+OH,547,39147,Seneca,Toledo
+OH,542,39149,Shelby,Dayton
+OH,510,39151,Stark,Cleveland-Akron
+OH,510,39153,Summit,Cleveland-Akron
+OH,536,39155,Trumbull,Youngstown
+OH,510,39157,Tuscarawas,Cleveland-Akron
+OH,535,39159,Union,"Columbus, Oh"
+OH,509,39161,Van Wert,Fort Wayne
+OH,564,39163,Vinton,Charleston-Huntington
+OH,515,39165,Warren,Cincinnati
+OH,597,39167,Washington,Parkersburg
+OH,510,39169,Wayne,Cleveland-Akron
+OH,547,39171,Williams,Toledo
+OH,547,39173,Wood,Toledo
+OH,547,39175,Wyandot,Toledo
+OK,671,40001,Adair,Tulsa
+OK,650,40003,Alfalfa,Oklahoma City
+OK,657,40005,Atoka,Sherman-Ada
+OK,634,40007,Beaver,Amarillo
+OK,650,40009,Beckham,Oklahoma City
+OK,650,40011,Blaine,Oklahoma City
+OK,657,40013,Bryan,Sherman-Ada
+OK,650,40015,Caddo,Oklahoma City
+OK,650,40017,Canadian,Oklahoma City
+OK,657,40019,Carter,Sherman-Ada
+OK,671,40021,Cherokee,Tulsa
+OK,657,40023,Choctaw,Sherman-Ada
+OK,634,40025,Cimarron,Amarillo
+OK,650,40027,Cleveland,Oklahoma City
+OK,657,40029,Coal,Sherman-Ada
+OK,627,40031,Comanche,Wichita Falls-Lawton
+OK,627,40033,Cotton,Wichita Falls-Lawton
+OK,671,40035,Craig,Tulsa
+OK,671,40037,Creek,Tulsa
+OK,650,40039,Custer,Oklahoma City
+OK,671,40041,Delaware,Tulsa
+OK,650,40043,Dewey,Oklahoma City
+OK,650,40045,Ellis,Oklahoma City
+OK,650,40047,Garfield,Oklahoma City
+OK,650,40049,Garvin,Oklahoma City
+OK,650,40051,Grady,Oklahoma City
+OK,650,40053,Grant,Oklahoma City
+OK,650,40055,Greer,Oklahoma City
+OK,650,40057,Harmon,Oklahoma City
+OK,650,40059,Harper,Oklahoma City
+OK,671,40061,Haskell,Tulsa
+OK,650,40063,Hughes,Oklahoma City
+OK,627,40065,Jackson,Wichita Falls-Lawton
+OK,627,40067,Jefferson,Wichita Falls-Lawton
+OK,657,40069,Johnston,Sherman-Ada
+OK,650,40071,Kay,Oklahoma City
+OK,650,40073,Kingfisher,Oklahoma City
+OK,650,40075,Kiowa,Oklahoma City
+OK,671,40077,Latimer,Tulsa
+OK,670,40079,LeFlore,Fort Smith-Fay-Sprngdl
+OK,650,40081,Lincoln,Oklahoma City
+OK,650,40083,Logan,Oklahoma City
+OK,657,40085,Love,Sherman-Ada
+OK,650,40087,McClain,Oklahoma City
+OK,612,40089,McCurtain,Shreveport
+OK,671,40091,McIntosh,Tulsa
+OK,650,40093,Major,Oklahoma City
+OK,657,40095,Marshall,Sherman-Ada
+OK,671,40097,Mayes,Tulsa
+OK,650,40099,Murray,Oklahoma City
+OK,671,40101,Muskogee,Tulsa
+OK,650,40103,Noble,Oklahoma City
+OK,671,40105,Nowata,Tulsa
+OK,671,40107,Okfuskee,Tulsa
+OK,650,40109,Oklahoma,Oklahoma City
+OK,671,40111,Okmulgee,Tulsa
+OK,671,40113,Osage,Tulsa
+OK,603,40115,Ottawa,Joplin-Pittsburg
+OK,671,40117,Pawnee,Tulsa
+OK,650,40119,Payne,Oklahoma City
+OK,671,40121,Pittsburg,Tulsa
+OK,657,40123,Pontotoc,Sherman-Ada
+OK,650,40125,Pottawatomie,Oklahoma City
+OK,657,40127,Pushmataha,Sherman-Ada
+OK,650,40129,Roger Mills,Oklahoma City
+OK,671,40131,Rogers,Tulsa
+OK,650,40133,Seminole,Oklahoma City
+OK,670,40135,Sequoyah,Fort Smith-Fay-Sprngdl
+OK,627,40137,Stephens,Wichita Falls-Lawton
+OK,634,40139,Texas,Amarillo
+OK,627,40141,Tillman,Wichita Falls-Lawton
+OK,671,40143,Tulsa,Tulsa
+OK,671,40145,Wagoner,Tulsa
+OK,671,40147,Washington,Tulsa
+OK,650,40149,Washita,Oklahoma City
+OK,650,40151,Woods,Oklahoma City
+OK,650,40153,Woodward,Oklahoma City
+OR,820,41001,Baker,"Portland, Or"
+OR,801,41003,Benton,Eugene
+OR,820,41005,Clackamas,"Portland, Or"
+OR,820,41007,Clatsop,"Portland, Or"
+OR,820,41009,Columbia,"Portland, Or"
+OR,801,41011,Coos,Eugene
+OR,820,41013,Crook,"Portland, Or"
+OR,813,41015,Curry,Medford-Klamath Falls
+OR,821,41017,Deschutes,"Bend, Or"
+OR,801,41019,Douglas,Eugene
+OR,820,41021,Gilliam,"Portland, Or"
+OR,820,41023,Grant,"Portland, Or"
+OR,820,41025,Harney,"Portland, Or"
+OR,820,41027,Hood River,"Portland, Or"
+OR,813,41029,Jackson,Medford-Klamath Falls
+OR,820,41031,Jefferson,"Portland, Or"
+OR,813,41033,Josephine,Medford-Klamath Falls
+OR,813,41035,Klamath,Medford-Klamath Falls
+OR,813,41037,Lake,Medford-Klamath Falls
+OR,801,41039,Lane,Eugene
+OR,820,41041,Lincoln,"Portland, Or"
+OR,820,41043,Linn,"Portland, Or"
+OR,757,41045,Malheur,Boise
+OR,820,41047,Marion,"Portland, Or"
+OR,820,41049,Morrow,"Portland, Or"
+OR,820,41051,Multnomah,"Portland, Or"
+OR,820,41053,Polk,"Portland, Or"
+OR,820,41055,Sherman,"Portland, Or"
+OR,820,41057,Tillamook,"Portland, Or"
+OR,810,41059,Umatilla,Yakima-Pasco-Rchlnd-Knnwck
+OR,820,41061,Union,"Portland, Or"
+OR,881,41063,Wallowa,Spokane
+OR,820,41065,Wasco,"Portland, Or"
+OR,820,41067,Washington,"Portland, Or"
+OR,820,41069,Wheeler,"Portland, Or"
+OR,820,41071,Yamhill,"Portland, Or"
+PA,566,42001,Adams,Harrisburg-Lancaster-Lebanon-York
+PA,508,42003,Allegheny,Pittsburgh
+PA,508,42005,Armstrong,Pittsburgh
+PA,508,42007,Beaver,Pittsburgh
+PA,574,42009,Bedford,Johnstown-Altoona
+PA,504,42011,Berks,Philadelphia
+PA,574,42013,Blair,Johnstown-Altoona
+PA,577,42015,Bradford,Wilkes Barre-Scranton
+PA,504,42017,Bucks,Philadelphia
+PA,508,42019,Butler,Pittsburgh
+PA,574,42021,Cambria,Johnstown-Altoona
+PA,574,42023,Cameron,Johnstown-Altoona
+PA,577,42025,Carbon,Wilkes Barre-Scranton
+PA,574,42027,Centre,Johnstown-Altoona
+PA,504,42029,Chester,Philadelphia
+PA,508,42031,Clarion,Pittsburgh
+PA,574,42033,Clearfield,Johnstown-Altoona
+PA,577,42035,Clinton,Wilkes Barre-Scranton
+PA,577,42037,Columbia,Wilkes Barre-Scranton
+PA,516,42039,Crawford,Erie
+PA,566,42041,Cumberland,Harrisburg-Lancaster-Lebanon-York
+PA,566,42043,Dauphin,Harrisburg-Lancaster-Lebanon-York
+PA,504,42045,Delaware,Philadelphia
+PA,574,42047,Elk,Johnstown-Altoona
+PA,516,42049,Erie,Erie
+PA,508,42051,Fayette,Pittsburgh
+PA,508,42053,Forest,Pittsburgh
+PA,566,42055,Franklin,Harrisburg-Lancaster-Lebanon-York
+PA,511,42057,Fulton,"Washington, Dc-Hagrstwn"
+PA,508,42059,Greene,Pittsburgh
+PA,574,42061,Huntingdon,Johnstown-Altoona
+PA,508,42063,Indiana,Pittsburgh
+PA,574,42065,Jefferson,Johnstown-Altoona
+PA,566,42067,Juniata,Harrisburg-Lancaster-Lebanon-York
+PA,577,42069,Lackawanna,Wilkes Barre-Scranton
+PA,566,42071,Lancaster,Harrisburg-Lancaster-Lebanon-York
+PA,508,42073,Lawrence,Pittsburgh
+PA,566,42075,Lebanon,Harrisburg-Lancaster-Lebanon-York
+PA,504,42077,Lehigh,Philadelphia
+PA,577,42079,Luzerne,Wilkes Barre-Scranton
+PA,577,42081,Lycoming,Wilkes Barre-Scranton
+PA,514,42083,McKean,Buffalo
+PA,536,42085,Mercer,Youngstown
+PA,566,42087,Mifflin,Harrisburg-Lancaster-Lebanon-York
+PA,577,42089,Monroe,Wilkes Barre-Scranton
+PA,504,42091,Montgomery,Philadelphia
+PA,577,42093,Montour,Wilkes Barre-Scranton
+PA,504,42095,Northampton,Philadelphia
+PA,577,42097,Northumberland,Wilkes Barre-Scranton
+PA,566,42099,Perry,Harrisburg-Lancaster-Lebanon-York
+PA,504,42101,Philadelphia,Philadelphia
+PA,501,42103,Pike,New York
+PA,514,42105,Potter,Buffalo
+PA,577,42107,Schuylkill,Wilkes Barre-Scranton
+PA,577,42109,Snyder,Wilkes Barre-Scranton
+PA,574,42111,Somerset,Johnstown-Altoona
+PA,577,42113,Sullivan,Wilkes Barre-Scranton
+PA,577,42115,Susquehanna,Wilkes Barre-Scranton
+PA,565,42117,Tioga,Elmira
+PA,577,42119,Union,Wilkes Barre-Scranton
+PA,508,42121,Venango,Pittsburgh
+PA,516,42123,Warren,Erie
+PA,508,42125,Washington,Pittsburgh
+PA,577,42127,Wayne,Wilkes Barre-Scranton
+PA,508,42129,Westmoreland,Pittsburgh
+PA,577,42131,Wyoming,Wilkes Barre-Scranton
+PA,566,42133,York,Harrisburg-Lancaster-Lebanon-York
+RI,521,44001,Bristol,Providence-New Bedford
+RI,521,44003,Kent,Providence-New Bedford
+RI,521,44005,Newport,Providence-New Bedford
+RI,521,44007,Providence,Providence-New Bedford
+RI,521,44009,Washington,Providence-New Bedford
+SC,567,45001,Abbeville,Greenville-Spartanburg-Asheville
+SC,520,45003,Aiken,Augusta
+SC,520,45005,Allendale,Augusta
+SC,567,45007,Anderson,Greenville-Spartanburg-Asheville
+SC,520,45009,Bamberg,Augusta
+SC,520,45011,Barnwell,Augusta
+SC,507,45013,Beaufort,Savannah
+SC,519,45015,Berkeley,"Charleston, Sc"
+SC,546,45017,Calhoun,"Columbia, Sc"
+SC,519,45019,Charleston,"Charleston, Sc"
+SC,567,45021,Cherokee,Greenville-Spartanburg-Asheville
+SC,517,45023,Chester,Charlotte
+SC,517,45025,Chesterfield,Charlotte
+SC,546,45027,Clarendon,"Columbia, Sc"
+SC,519,45029,Colleton,"Charleston, Sc"
+SC,570,45031,Darlington,Myrtle Beach-Florence
+SC,570,45033,Dillon,Myrtle Beach-Florence
+SC,519,45035,Dorchester,"Charleston, Sc"
+SC,520,45037,Edgefield,Augusta
+SC,546,45039,Fairfield,"Columbia, Sc"
+SC,570,45041,Florence,Myrtle Beach-Florence
+SC,519,45043,Georgetown,"Charleston, Sc"
+SC,567,45045,Greenville,Greenville-Spartanburg-Asheville
+SC,567,45047,Greenwood,Greenville-Spartanburg-Asheville
+SC,507,45049,Hampton,Savannah
+SC,570,45051,Horry,Myrtle Beach-Florence
+SC,507,45053,Jasper,Savannah
+SC,546,45055,Kershaw,"Columbia, Sc"
+SC,517,45057,Lancaster,Charlotte
+SC,567,45059,Laurens,Greenville-Spartanburg-Asheville
+SC,546,45061,Lee,"Columbia, Sc"
+SC,546,45063,Lexington,"Columbia, Sc"
+SC,520,45065,McCormick,Augusta
+SC,570,45067,Marion,Myrtle Beach-Florence
+SC,570,45069,Marlboro,Myrtle Beach-Florence
+SC,546,45071,Newberry,"Columbia, Sc"
+SC,567,45073,Oconee,Greenville-Spartanburg-Asheville
+SC,546,45075,Orangeburg,"Columbia, Sc"
+SC,567,45077,Pickens,Greenville-Spartanburg-Asheville
+SC,546,45079,Richland,"Columbia, Sc"
+SC,546,45081,Saluda,"Columbia, Sc"
+SC,567,45083,Spartanburg,Greenville-Spartanburg-Asheville
+SC,546,45085,Sumter,"Columbia, Sc"
+SC,567,45087,Union,Greenville-Spartanburg-Asheville
+SC,519,45089,Williamsburg,"Charleston, Sc"
+SC,517,45091,York,Charlotte
+SD,725,46003,Aurora,Sioux Falls (Mitchell)
+SD,725,46005,Beadle,Sioux Falls (Mitchell)
+SD,764,46007,Bennett,Rapid City
+SD,725,46009,Bon Homme,Sioux Falls (Mitchell)
+SD,725,46011,Brookings,Sioux Falls (Mitchell)
+SD,725,46013,Brown,Sioux Falls (Mitchell)
+SD,725,46015,Brule,Sioux Falls (Mitchell)
+SD,725,46017,Buffalo,Sioux Falls (Mitchell)
+SD,764,46019,Butte,Rapid City
+SD,725,46021,Campbell,Sioux Falls (Mitchell)
+SD,725,46023,Charles Mix,Sioux Falls (Mitchell)
+SD,725,46025,Clark,Sioux Falls (Mitchell)
+SD,725,46027,Clay,Sioux Falls (Mitchell)
+SD,725,46029,Codington,Sioux Falls (Mitchell)
+SD,687,46031,Corson,Minot-Bismarck-Dickinson
+SD,764,46033,Custer,Rapid City
+SD,725,46035,Davison,Sioux Falls (Mitchell)
+SD,725,46037,Day,Sioux Falls (Mitchell)
+SD,725,46039,Deuel,Sioux Falls (Mitchell)
+SD,725,46041,Dewey,Sioux Falls (Mitchell)
+SD,725,46043,Douglas,Sioux Falls (Mitchell)
+SD,725,46045,Edmunds,Sioux Falls (Mitchell)
+SD,764,46047,Fall River,Rapid City
+SD,725,46049,Faulk,Sioux Falls (Mitchell)
+SD,725,46051,Grant,Sioux Falls (Mitchell)
+SD,725,46053,Gregory,Sioux Falls (Mitchell)
+SD,764,46055,Haakon,Rapid City
+SD,725,46057,Hamlin,Sioux Falls (Mitchell)
+SD,725,46059,Hand,Sioux Falls (Mitchell)
+SD,725,46061,Hanson,Sioux Falls (Mitchell)
+SD,764,46063,Harding,Rapid City
+SD,725,46065,Hughes,Sioux Falls (Mitchell)
+SD,725,46067,Hutchinson,Sioux Falls (Mitchell)
+SD,725,46069,Hyde,Sioux Falls (Mitchell)
+SD,764,46071,Jackson,Rapid City
+SD,725,46073,Jerauld,Sioux Falls (Mitchell)
+SD,764,46075,Jones,Rapid City
+SD,725,46077,Kingsbury,Sioux Falls (Mitchell)
+SD,725,46079,Lake,Sioux Falls (Mitchell)
+SD,764,46081,Lawrence,Rapid City
+SD,725,46083,Lincoln,Sioux Falls (Mitchell)
+SD,725,46085,Lyman,Sioux Falls (Mitchell)
+SD,725,46087,McCook,Sioux Falls (Mitchell)
+SD,725,46089,McPherson,Sioux Falls (Mitchell)
+SD,725,46091,Marshall,Sioux Falls (Mitchell)
+SD,764,46093,Meade,Rapid City
+SD,725,46095,Mellette,Sioux Falls (Mitchell)
+SD,725,46097,Miner,Sioux Falls (Mitchell)
+SD,725,46099,Minnehaha,Sioux Falls (Mitchell)
+SD,725,46101,Moody,Sioux Falls (Mitchell)
+SD,764,46103,Pennington,Rapid City
+SD,764,46105,Perkins,Rapid City
+SD,725,46107,Potter,Sioux Falls (Mitchell)
+SD,725,46109,Roberts,Sioux Falls (Mitchell)
+SD,725,46111,Sanborn,Sioux Falls (Mitchell)
+SD,764,46113,Shannon,Rapid City
+SD,725,46115,Spink,Sioux Falls (Mitchell)
+SD,725,46117,Stanley,Sioux Falls (Mitchell)
+SD,725,46119,Sully,Sioux Falls (Mitchell)
+SD,725,46121,Todd,Sioux Falls (Mitchell)
+SD,725,46123,Tripp,Sioux Falls (Mitchell)
+SD,725,46125,Turner,Sioux Falls (Mitchell)
+SD,624,46127,Union,Sioux City
+SD,725,46129,Walworth,Sioux Falls (Mitchell)
+SD,725,46135,Yankton,Sioux Falls (Mitchell)
+SD,764,46137,Ziebach,Rapid City
+TN,557,47001,Anderson,Knoxville
+TN,659,47003,Bedford,Nashville
+TN,659,47005,Benton,Nashville
+TN,575,47007,Bledsoe,Chattanooga
+TN,557,47009,Blount,Knoxville
+TN,575,47011,Bradley,Chattanooga
+TN,557,47013,Campbell,Knoxville
+TN,659,47015,Cannon,Nashville
+TN,639,47017,Carroll,"Jackson, Tn"
+TN,531,47019,Carter,"Tri-Cities, Tn-Va"
+TN,659,47021,Cheatham,Nashville
+TN,639,47023,Chester,"Jackson, Tn"
+TN,557,47025,Claiborne,Knoxville
+TN,659,47027,Clay,Nashville
+TN,557,47029,Cocke,Knoxville
+TN,659,47031,Coffee,Nashville
+TN,640,47033,Crockett,Memphis
+TN,557,47035,Cumberland,Knoxville
+TN,659,47037,Davidson,Nashville
+TN,659,47039,Decatur,Nashville
+TN,659,47041,Dekalb,Nashville
+TN,659,47043,Dickson,Nashville
+TN,640,47045,Dyer,Memphis
+TN,640,47047,Fayette,Memphis
+TN,557,47049,Fentress,Knoxville
+TN,659,47051,Franklin,Nashville
+TN,639,47053,Gibson,"Jackson, Tn"
+TN,659,47055,Giles,Nashville
+TN,557,47057,Grainger,Knoxville
+TN,531,47059,Greene,"Tri-Cities, Tn-Va"
+TN,575,47061,Grundy,Chattanooga
+TN,557,47063,Hamblen,Knoxville
+TN,575,47065,Hamilton,Chattanooga
+TN,557,47067,Hancock,Knoxville
+TN,640,47069,Hardeman,Memphis
+TN,639,47071,Hardin,"Jackson, Tn"
+TN,531,47073,Hawkins,"Tri-Cities, Tn-Va"
+TN,640,47075,Haywood,Memphis
+TN,639,47077,Henderson,"Jackson, Tn"
+TN,659,47079,Henry,Nashville
+TN,659,47081,Hickman,Nashville
+TN,659,47083,Houston,Nashville
+TN,659,47085,Humphreys,Nashville
+TN,659,47087,Jackson,Nashville
+TN,557,47089,Jefferson,Knoxville
+TN,531,47091,Johnson,"Tri-Cities, Tn-Va"
+TN,557,47093,Knox,Knoxville
+TN,632,47095,Lake,Paducah-Cape Girardeau-Harrisburg
+TN,640,47097,Lauderdale,Memphis
+TN,659,47099,Lawrence,Nashville
+TN,659,47101,Lewis,Nashville
+TN,691,47103,Lincoln,Huntsville-Decatur-Florence
+TN,557,47105,Loudon,Knoxville
+TN,575,47107,McMinn,Chattanooga
+TN,640,47109,McNairy,Memphis
+TN,659,47111,Macon,Nashville
+TN,639,47113,Madison,"Jackson, Tn"
+TN,575,47115,Marion,Chattanooga
+TN,659,47117,Marshall,Nashville
+TN,659,47119,Maury,Nashville
+TN,575,47121,Meigs,Chattanooga
+TN,557,47123,Monroe,Knoxville
+TN,659,47125,Montgomery,Nashville
+TN,659,47127,Moore,Nashville
+TN,557,47129,Morgan,Knoxville
+TN,632,47131,Obion,Paducah-Cape Girardeau-Harrisburg
+TN,659,47133,Overton,Nashville
+TN,659,47135,Perry,Nashville
+TN,659,47137,Pickett,Nashville
+TN,575,47139,Polk,Chattanooga
+TN,659,47141,Putnam,Nashville
+TN,575,47143,Rhea,Chattanooga
+TN,557,47145,Roane,Knoxville
+TN,659,47147,Robertson,Nashville
+TN,659,47149,Rutherford,Nashville
+TN,557,47151,Scott,Knoxville
+TN,575,47153,Sequatchie,Chattanooga
+TN,557,47155,Sevier,Knoxville
+TN,640,47157,Shelby,Memphis
+TN,659,47159,Smith,Nashville
+TN,659,47161,Stewart,Nashville
+TN,531,47163,Sullivan,"Tri-Cities, Tn-Va"
+TN,659,47165,Sumner,Nashville
+TN,640,47167,Tipton,Memphis
+TN,659,47169,Trousdale,Nashville
+TN,531,47171,Unicoi,"Tri-Cities, Tn-Va"
+TN,557,47173,Union,Knoxville
+TN,659,47175,Van Buren,Nashville
+TN,659,47177,Warren,Nashville
+TN,531,47179,Washington,"Tri-Cities, Tn-Va"
+TN,659,47181,Wayne,Nashville
+TN,632,47183,Weakley,Paducah-Cape Girardeau-Harrisburg
+TN,659,47185,White,Nashville
+TN,659,47187,Williamson,Nashville
+TN,659,47189,Wilson,Nashville
+TX,623,48001,Anderson,Dallas-Fort Worth
+TX,633,48003,Andrews,Odessa-Midland
+TX,709,48005,Angelina,Tyler-Longview (Lfkn&Ncgd)
+TX,600,48007,Aransas,Corpus Christi
+TX,627,48009,Archer,Wichita Falls-Lawton
+TX,634,48011,Armstrong,Amarillo
+TX,641,48013,Atascosa,San Antonio
+TX,618,48015,Austin,Houston
+TX,651,48017,Bailey,Lubbock
+TX,641,48019,Bandera,San Antonio
+TX,635,48021,Bastrop,Austin
+TX,627,48023,Baylor,Wichita Falls-Lawton
+TX,600,48025,Bee,Corpus Christi
+TX,625,48027,Bell,Waco-Temple-Bryan
+TX,641,48029,Bexar,San Antonio
+TX,635,48031,Blanco,Austin
+TX,651,48033,Borden,Lubbock
+TX,623,48035,Bosque,Dallas-Fort Worth
+TX,612,48037,Bowie,Shreveport
+TX,618,48039,Brazoria,Houston
+TX,625,48041,Brazos,Waco-Temple-Bryan
+TX,633,48043,Brewster,Odessa-Midland
+TX,634,48045,Briscoe,Amarillo
+TX,600,48047,Brooks,Corpus Christi
+TX,662,48049,Brown,Abilene-Sweetwater
+TX,625,48051,Burleson,Waco-Temple-Bryan
+TX,635,48053,Burnet,Austin
+TX,635,48055,Caldwell,Austin
+TX,618,48057,Calhoun,Houston
+TX,662,48059,Callahan,Abilene-Sweetwater
+TX,636,48061,Cameron,Harlingen-Weslaco-Brownsville
+TX,709,48063,Camp,Tyler-Longview (Lfkn&Ncgd)
+TX,634,48065,Carson,Amarillo
+TX,612,48067,Cass,Shreveport
+TX,634,48069,Castro,Amarillo
+TX,618,48071,Chambers,Houston
+TX,709,48073,Cherokee,Tyler-Longview (Lfkn&Ncgd)
+TX,634,48075,Childress,Amarillo
+TX,627,48077,Clay,Wichita Falls-Lawton
+TX,651,48079,Cochran,Lubbock
+TX,661,48081,Coke,San Angelo
+TX,662,48083,Coleman,Abilene-Sweetwater
+TX,623,48085,Collin,Dallas-Fort Worth
+TX,634,48087,Collingsworth,Amarillo
+TX,618,48089,Colorado,Houston
+TX,641,48091,Comal,San Antonio
+TX,623,48093,Comanche,Dallas-Fort Worth
+TX,661,48095,Concho,San Angelo
+TX,623,48097,Cooke,Dallas-Fort Worth
+TX,625,48099,Coryell,Waco-Temple-Bryan
+TX,634,48101,Cottle,Amarillo
+TX,633,48103,Crane,Odessa-Midland
+TX,661,48105,Crockett,San Angelo
+TX,651,48107,Crosby,Lubbock
+TX,765,48109,Culberson,El Paso
+TX,634,48111,Dallam,Amarillo
+TX,623,48113,Dallas,Dallas-Fort Worth
+TX,651,48115,Dawson,Lubbock
+TX,634,48117,Deaf Smith,Amarillo
+TX,623,48119,Delta,Dallas-Fort Worth
+TX,623,48121,Denton,Dallas-Fort Worth
+TX,641,48123,De Witt,San Antonio
+TX,651,48125,Dickens,Lubbock
+TX,641,48127,Dimmit,San Antonio
+TX,634,48129,Donley,Amarillo
+TX,600,48131,Duval,Corpus Christi
+TX,662,48133,Eastland,Abilene-Sweetwater
+TX,633,48135,Ector,Odessa-Midland
+TX,641,48137,Edwards,San Antonio
+TX,623,48139,Ellis,Dallas-Fort Worth
+TX,765,48141,El Paso,El Paso
+TX,623,48143,Erath,Dallas-Fort Worth
+TX,625,48145,Falls,Waco-Temple-Bryan
+TX,623,48147,Fannin,Dallas-Fort Worth
+TX,635,48149,Fayette,Austin
+TX,662,48151,Fisher,Abilene-Sweetwater
+TX,651,48153,Floyd,Lubbock
+TX,627,48155,Foard,Wichita Falls-Lawton
+TX,618,48157,Fort Bend,Houston
+TX,709,48159,Franklin,Tyler-Longview (Lfkn&Ncgd)
+TX,623,48161,Freestone,Dallas-Fort Worth
+TX,641,48163,Frio,San Antonio
+TX,651,48165,Gaines,Lubbock
+TX,618,48167,Galveston,Houston
+TX,651,48169,Garza,Lubbock
+TX,635,48171,Gillespie,Austin
+TX,633,48173,Glasscock,Odessa-Midland
+TX,641,48175,Goliad,San Antonio
+TX,641,48177,Gonzales,San Antonio
+TX,634,48179,Gray,Amarillo
+TX,657,48181,Grayson,Sherman-Ada
+TX,709,48183,Gregg,Tyler-Longview (Lfkn&Ncgd)
+TX,618,48185,Grimes,Houston
+TX,641,48187,Guadalupe,San Antonio
+TX,651,48189,Hale,Lubbock
+TX,634,48191,Hall,Amarillo
+TX,623,48193,Hamilton,Dallas-Fort Worth
+TX,634,48195,Hansford,Amarillo
+TX,627,48197,Hardeman,Wichita Falls-Lawton
+TX,692,48199,Hardin,Beaumont-Port Arthur
+TX,618,48201,Harris,Houston
+TX,612,48203,Harrison,Shreveport
+TX,634,48205,Hartley,Amarillo
+TX,662,48207,Haskell,Abilene-Sweetwater
+TX,635,48209,Hays,Austin
+TX,634,48211,Hemphill,Amarillo
+TX,623,48213,Henderson,Dallas-Fort Worth
+TX,636,48215,Hidalgo,Harlingen-Weslaco-Brownsville
+TX,623,48217,Hill,Dallas-Fort Worth
+TX,651,48219,Hockley,Lubbock
+TX,623,48221,Hood,Dallas-Fort Worth
+TX,623,48223,Hopkins,Dallas-Fort Worth
+TX,709,48225,Houston,Tyler-Longview (Lfkn&Ncgd)
+TX,633,48227,Howard,Odessa-Midland
+TX,765,48229,Hudspeth,El Paso
+TX,623,48231,Hunt,Dallas-Fort Worth
+TX,634,48233,Hutchinson,Amarillo
+TX,661,48235,Irion,San Angelo
+TX,623,48237,Jack,Dallas-Fort Worth
+TX,618,48239,Jackson,Houston
+TX,692,48241,Jasper,Beaumont-Port Arthur
+TX,633,48243,Jeff Davis,Odessa-Midland
+TX,692,48245,Jefferson,Beaumont-Port Arthur
+TX,600,48247,Jim Hogg,Corpus Christi
+TX,600,48249,Jim Wells,Corpus Christi
+TX,623,48251,Johnson,Dallas-Fort Worth
+TX,662,48253,Jones,Abilene-Sweetwater
+TX,641,48255,Karnes,San Antonio
+TX,623,48257,Kaufman,Dallas-Fort Worth
+TX,641,48259,Kendall,San Antonio
+TX,600,48261,Kenedy,Corpus Christi
+TX,651,48263,Kent,Lubbock
+TX,641,48265,Kerr,San Antonio
+TX,661,48267,Kimble,San Angelo
+TX,627,48269,King,Wichita Falls-Lawton
+TX,641,48271,Kinney,San Antonio
+TX,600,48273,Kleberg,Corpus Christi
+TX,662,48275,Knox,Abilene-Sweetwater
+TX,623,48277,Lamar,Dallas-Fort Worth
+TX,651,48279,Lamb,Lubbock
+TX,625,48281,Lampasas,Waco-Temple-Bryan
+TX,641,48283,La Salle,San Antonio
+TX,641,48285,Lavaca,San Antonio
+TX,635,48287,Lee,Austin
+TX,625,48289,Leon,Waco-Temple-Bryan
+TX,618,48291,Liberty,Houston
+TX,625,48293,Limestone,Waco-Temple-Bryan
+TX,634,48295,Lipscomb,Amarillo
+TX,600,48297,Live Oak,Corpus Christi
+TX,635,48299,Llano,Austin
+TX,633,48301,Loving,Odessa-Midland
+TX,651,48303,Lubbock,Lubbock
+TX,651,48305,Lynn,Lubbock
+TX,661,48307,McCulloch,San Angelo
+TX,625,48309,McLennan,Waco-Temple-Bryan
+TX,641,48311,McMullen,San Antonio
+TX,625,48313,Madison,Waco-Temple-Bryan
+TX,612,48315,Marion,Shreveport
+TX,633,48317,Martin,Odessa-Midland
+TX,635,48319,Mason,Austin
+TX,618,48321,Matagorda,Houston
+TX,641,48323,Maverick,San Antonio
+TX,641,48325,Medina,San Antonio
+TX,661,48327,Menard,San Angelo
+TX,633,48329,Midland,Odessa-Midland
+TX,625,48331,Milam,Waco-Temple-Bryan
+TX,625,48333,Mills,Waco-Temple-Bryan
+TX,662,48335,Mitchell,Abilene-Sweetwater
+TX,627,48337,Montague,Wichita Falls-Lawton
+TX,618,48339,Montgomery,Houston
+TX,634,48341,Moore,Amarillo
+TX,612,48343,Morris,Shreveport
+TX,651,48345,Motley,Lubbock
+TX,709,48347,Nacogdoches,Tyler-Longview (Lfkn&Ncgd)
+TX,623,48349,Navarro,Dallas-Fort Worth
+TX,692,48351,Newton,Beaumont-Port Arthur
+TX,662,48353,Nolan,Abilene-Sweetwater
+TX,600,48355,Nueces,Corpus Christi
+TX,634,48357,Ochiltree,Amarillo
+TX,634,48359,Oldham,Amarillo
+TX,692,48361,Orange,Beaumont-Port Arthur
+TX,623,48363,Palo Pinto,Dallas-Fort Worth
+TX,612,48365,Panola,Shreveport
+TX,623,48367,Parker,Dallas-Fort Worth
+TX,634,48369,Parmer,Amarillo
+TX,633,48371,Pecos,Odessa-Midland
+TX,618,48373,Polk,Houston
+TX,634,48375,Potter,Amarillo
+TX,633,48377,Presidio,Odessa-Midland
+TX,623,48379,Rains,Dallas-Fort Worth
+TX,634,48381,Randall,Amarillo
+TX,633,48383,Reagan,Odessa-Midland
+TX,641,48385,Real,San Antonio
+TX,623,48387,Red River,Dallas-Fort Worth
+TX,633,48389,Reeves,Odessa-Midland
+TX,600,48391,Refugio,Corpus Christi
+TX,634,48393,Roberts,Amarillo
+TX,625,48395,Robertson,Waco-Temple-Bryan
+TX,623,48397,Rockwall,Dallas-Fort Worth
+TX,662,48399,Runnels,Abilene-Sweetwater
+TX,709,48401,Rusk,Tyler-Longview (Lfkn&Ncgd)
+TX,709,48403,Sabine,Tyler-Longview (Lfkn&Ncgd)
+TX,709,48405,San Augustine,Tyler-Longview (Lfkn&Ncgd)
+TX,618,48407,San Jacinto,Houston
+TX,600,48409,San Patricio,Corpus Christi
+TX,625,48411,San Saba,Waco-Temple-Bryan
+TX,661,48413,Schleicher,San Angelo
+TX,662,48415,Scurry,Abilene-Sweetwater
+TX,662,48417,Shackelford,Abilene-Sweetwater
+TX,612,48419,Shelby,Shreveport
+TX,634,48421,Sherman,Amarillo
+TX,709,48423,Smith,Tyler-Longview (Lfkn&Ncgd)
+TX,623,48425,Somervell,Dallas-Fort Worth
+TX,636,48427,Starr,Harlingen-Weslaco-Brownsville
+TX,662,48429,Stephens,Abilene-Sweetwater
+TX,661,48431,Sterling,San Angelo
+TX,662,48433,Stonewall,Abilene-Sweetwater
+TX,661,48435,Sutton,San Angelo
+TX,634,48437,Swisher,Amarillo
+TX,623,48439,Tarrant,Dallas-Fort Worth
+TX,662,48441,Taylor,Abilene-Sweetwater
+TX,633,48443,Terrell,Odessa-Midland
+TX,651,48445,Terry,Lubbock
+TX,662,48447,Throckmorton,Abilene-Sweetwater
+TX,612,48449,Titus,Shreveport
+TX,661,48451,Tom Green,San Angelo
+TX,635,48453,Travis,Austin
+TX,618,48455,Trinity,Houston
+TX,692,48457,Tyler,Beaumont-Port Arthur
+TX,709,48459,Upshur,Tyler-Longview (Lfkn&Ncgd)
+TX,633,48461,Upton,Odessa-Midland
+TX,641,48463,Uvalde,San Antonio
+TX,641,48465,Val Verde,San Antonio
+TX,623,48467,Van Zandt,Dallas-Fort Worth
+TX,626,48469,Victoria,Victoria
+TX,618,48471,Walker,Houston
+TX,618,48473,Waller,Houston
+TX,633,48475,Ward,Odessa-Midland
+TX,618,48477,Washington,Houston
+TX,749,48479,Webb,Laredo
+TX,618,48481,Wharton,Houston
+TX,634,48483,Wheeler,Amarillo
+TX,627,48485,Wichita,Wichita Falls-Lawton
+TX,627,48487,Wilbarger,Wichita Falls-Lawton
+TX,636,48489,Willacy,Harlingen-Weslaco-Brownsville
+TX,635,48491,Williamson,Austin
+TX,641,48493,Wilson,San Antonio
+TX,633,48495,Winkler,Odessa-Midland
+TX,623,48497,Wise,Dallas-Fort Worth
+TX,709,48499,Wood,Tyler-Longview (Lfkn&Ncgd)
+TX,651,48501,Yoakum,Lubbock
+TX,627,48503,Young,Wichita Falls-Lawton
+TX,749,48505,Zapata,Laredo
+TX,641,48507,Zavala,San Antonio
+UT,770,49001,Beaver,Salt Lake City
+UT,770,49003,Box Elder,Salt Lake City
+UT,770,49005,Cache,Salt Lake City
+UT,770,49007,Carbon,Salt Lake City
+UT,770,49009,Daggett,Salt Lake City
+UT,770,49011,Davis,Salt Lake City
+UT,770,49013,Duchesne,Salt Lake City
+UT,770,49015,Emery,Salt Lake City
+UT,770,49017,Garfield,Salt Lake City
+UT,770,49019,Grand,Salt Lake City
+UT,770,49021,Iron,Salt Lake City
+UT,770,49023,Juab,Salt Lake City
+UT,770,49025,Kane,Salt Lake City
+UT,770,49027,Millard,Salt Lake City
+UT,770,49029,Morgan,Salt Lake City
+UT,770,49031,Piute,Salt Lake City
+UT,770,49033,Rich,Salt Lake City
+UT,770,49035,Salt Lake,Salt Lake City
+UT,770,49037,San Juan,Salt Lake City
+UT,770,49039,Sanpete,Salt Lake City
+UT,770,49041,Sevier,Salt Lake City
+UT,770,49043,Summit,Salt Lake City
+UT,770,49045,Tooele,Salt Lake City
+UT,770,49047,Uintah,Salt Lake City
+UT,770,49049,Utah,Salt Lake City
+UT,770,49051,Wasatch,Salt Lake City
+UT,770,49053,Washington,Salt Lake City
+UT,770,49055,Wayne,Salt Lake City
+UT,770,49057,Weber,Salt Lake City
+VT,523,50001,Addison,Burlington-Plattsburgh
+VT,532,50003,Bennington,Albany-Schenectady-Troy
+VT,523,50005,Caledonia,Burlington-Plattsburgh
+VT,523,50007,Chittenden,Burlington-Plattsburgh
+VT,523,50009,Essex,Burlington-Plattsburgh
+VT,523,50011,Franklin,Burlington-Plattsburgh
+VT,523,50013,Grand Isle,Burlington-Plattsburgh
+VT,523,50015,Lamoille,Burlington-Plattsburgh
+VT,523,50017,Orange,Burlington-Plattsburgh
+VT,523,50019,Orleans,Burlington-Plattsburgh
+VT,523,50021,Rutland,Burlington-Plattsburgh
+VT,523,50023,Washington,Burlington-Plattsburgh
+VT,506,50025,Windham,Boston
+VT,523,50027,Windsor,Burlington-Plattsburgh
+VA,544,51001,Accomack,Norfolk-Portsmouth-Newport News
+VA,584,51003,Albemarle,Charlottesville
+VA,573,51005,Alleghany,Roanoke-Lynchburg
+VA,556,51007,Amelia,Richmond-Petersburg
+VA,573,51009,Amherst,Roanoke-Lynchburg
+VA,573,51011,Appomattox,Roanoke-Lynchburg
+VA,511,51013,Arlington,"Washington, Dc-Hagrstwn"
+VA,569,51015,Augusta,Harrisonburg
+VA,573,51017,Bath,Roanoke-Lynchburg
+VA,573,51019,Bedford,Roanoke-Lynchburg
+VA,573,51021,Bland,Roanoke-Lynchburg
+VA,573,51023,Botetourt,Roanoke-Lynchburg
+VA,556,51025,Brunswick,Richmond-Petersburg
+VA,531,51027,Buchanan,"Tri-Cities, Tn-Va"
+VA,556,51029,Buckingham,Richmond-Petersburg
+VA,573,51031,Campbell,Roanoke-Lynchburg
+VA,556,51033,Caroline,Richmond-Petersburg
+VA,573,51035,Carroll,Roanoke-Lynchburg
+VA,556,51036,Charles City,Richmond-Petersburg
+VA,573,51037,Charlotte,Roanoke-Lynchburg
+VA,556,51041,Chesterfield,Richmond-Petersburg
+VA,511,51043,Clarke,"Washington, Dc-Hagrstwn"
+VA,573,51045,Craig,Roanoke-Lynchburg
+VA,511,51047,Culpeper,"Washington, Dc-Hagrstwn"
+VA,556,51049,Cumberland,Richmond-Petersburg
+VA,531,51051,Dickenson,"Tri-Cities, Tn-Va"
+VA,556,51053,Dinwiddie,Richmond-Petersburg
+VA,556,51057,Essex,Richmond-Petersburg
+VA,511,51059,Fairfax,"Washington, Dc-Hagrstwn"
+VA,511,51061,Fauquier,"Washington, Dc-Hagrstwn"
+VA,573,51063,Floyd,Roanoke-Lynchburg
+VA,584,51065,Fluvanna,Charlottesville
+VA,573,51067,Franklin,Roanoke-Lynchburg
+VA,511,51069,Frederick,"Washington, Dc-Hagrstwn"
+VA,573,51071,Giles,Roanoke-Lynchburg
+VA,544,51073,Gloucester,Norfolk-Portsmouth-Newport News
+VA,556,51075,Goochland,Richmond-Petersburg
+VA,573,51077,Grayson,Roanoke-Lynchburg
+VA,584,51079,Greene,Charlottesville
+VA,556,51081,Greensville,Richmond-Petersburg
+VA,573,51083,Halifax,Roanoke-Lynchburg
+VA,556,51085,Hanover,Richmond-Petersburg
+VA,556,51087,Henrico,Richmond-Petersburg
+VA,573,51089,Henry,Roanoke-Lynchburg
+VA,573,51091,Highland,Roanoke-Lynchburg
+VA,544,51093,Isle of Wight,Norfolk-Portsmouth-Newport News
+VA,544,51095,James City,Norfolk-Portsmouth-Newport News
+VA,556,51097,King and Queen,Richmond-Petersburg
+VA,511,51099,King George,"Washington, Dc-Hagrstwn"
+VA,556,51101,King William,Richmond-Petersburg
+VA,556,51103,Lancaster,Richmond-Petersburg
+VA,531,51105,Lee,"Tri-Cities, Tn-Va"
+VA,511,51107,Loudoun,"Washington, Dc-Hagrstwn"
+VA,556,51109,Louisa,Richmond-Petersburg
+VA,556,51111,Lunenburg,Richmond-Petersburg
+VA,584,51113,Madison,Charlottesville
+VA,544,51115,Mathews,Norfolk-Portsmouth-Newport News
+VA,560,51117,Mecklenburg,Raleigh-Durham
+VA,556,51119,Middlesex,Richmond-Petersburg
+VA,573,51121,Montgomery,Roanoke-Lynchburg
+VA,573,51125,Nelson,Roanoke-Lynchburg
+VA,556,51127,New Kent,Richmond-Petersburg
+VA,544,51131,Northampton,Norfolk-Portsmouth-Newport News
+VA,556,51133,Northumberland,Richmond-Petersburg
+VA,556,51135,Nottoway,Richmond-Petersburg
+VA,584,51137,Orange,Charlottesville
+VA,511,51139,Page,"Washington, Dc-Hagrstwn"
+VA,518,51141,Patrick,Greensboro-High Point-Winston Salem
+VA,573,51143,Pittsylvania,Roanoke-Lynchburg
+VA,556,51145,Powhatan,Richmond-Petersburg
+VA,556,51147,Prince Edward,Richmond-Petersburg
+VA,556,51149,Prince George,Richmond-Petersburg
+VA,511,51153,Prince William,"Washington, Dc-Hagrstwn"
+VA,573,51155,Pulaski,Roanoke-Lynchburg
+VA,511,51157,Rappahannock,"Washington, Dc-Hagrstwn"
+VA,556,51159,Richmond,Richmond-Petersburg
+VA,573,51161,Roanoke,Roanoke-Lynchburg
+VA,573,51163,Rockbridge,Roanoke-Lynchburg
+VA,569,51165,Rockingham,Harrisonburg
+VA,531,51167,Russell,"Tri-Cities, Tn-Va"
+VA,531,51169,Scott,"Tri-Cities, Tn-Va"
+VA,511,51171,Shenandoah,"Washington, Dc-Hagrstwn"
+VA,531,51173,Smyth,"Tri-Cities, Tn-Va"
+VA,544,51175,Southampton,Norfolk-Portsmouth-Newport News
+VA,511,51177,Spotsylvania,"Washington, Dc-Hagrstwn"
+VA,511,51179,Stafford,"Washington, Dc-Hagrstwn"
+VA,544,51181,Surry,Norfolk-Portsmouth-Newport News
+VA,556,51183,Sussex,Richmond-Petersburg
+VA,559,51185,Tazewell,Bluefield-Beckley-Oak Hill
+VA,511,51187,Warren,"Washington, Dc-Hagrstwn"
+VA,531,51191,Washington,"Tri-Cities, Tn-Va"
+VA,511,51193,Westmoreland,"Washington, Dc-Hagrstwn"
+VA,531,51195,Wise,"Tri-Cities, Tn-Va"
+VA,573,51197,Wythe,Roanoke-Lynchburg
+VA,544,51199,York,Norfolk-Portsmouth-Newport News
+VA,511,51510,Alexandria City,"Washington, Dc-Hagrstwn"
+VA,573,51515,Bedford City,Roanoke-Lynchburg
+VA,531,51520,Bristol,"Tri-Cities, Tn-Va"
+VA,573,51530,Buena Vista City,Roanoke-Lynchburg
+VA,584,51540,Charlottesville City,Charlottesville
+VA,544,51550,Chesapeake City,Norfolk-Portsmouth-Newport News
+VA,556,51570,Colonial Heights City,Richmond-Petersburg
+VA,573,51580,Covington City,Roanoke-Lynchburg
+VA,573,51590,Danville City,Roanoke-Lynchburg
+VA,556,51595,Emporia City,Richmond-Petersburg
+VA,511,51600,Fairfax City,"Washington, Dc-Hagrstwn"
+VA,511,51610,Falls Church City,"Washington, Dc-Hagrstwn"
+VA,544,51620,Franklin City,Norfolk-Portsmouth-Newport News
+VA,511,51630,Fredericksburg City,"Washington, Dc-Hagrstwn"
+VA,573,51640,Galax City,Roanoke-Lynchburg
+VA,544,51650,Hampton City,Norfolk-Portsmouth-Newport News
+VA,569,51660,Harrisonburg City,Harrisonburg
+VA,556,51670,Hopewell City,Richmond-Petersburg
+VA,573,51678,Lexington City,Roanoke-Lynchburg
+VA,573,51680,Lynchburg City,Roanoke-Lynchburg
+VA,511,51683,Manassas City,"Washington, Dc-Hagrstwn"
+VA,511,51685,Manassas Park City,"Washington, Dc-Hagrstwn"
+VA,573,51690,Martinsville City,Roanoke-Lynchburg
+VA,544,51700,Newport News City,Norfolk-Portsmouth-Newport News
+VA,544,51710,Norfolk City,Norfolk-Portsmouth-Newport News
+VA,531,51720,Norton City,"Tri-Cities, Tn-Va"
+VA,556,51730,Petersburg City,Richmond-Petersburg
+VA,544,51735,Poquoson City,Norfolk-Portsmouth-Newport News
+VA,544,51740,Portsmouth City,Norfolk-Portsmouth-Newport News
+VA,573,51750,Radford City,Roanoke-Lynchburg
+VA,556,51760,Richmond City,Richmond-Petersburg
+VA,573,51770,Roanoke City,Roanoke-Lynchburg
+VA,573,51775,Salem,Roanoke-Lynchburg
+VA,569,51790,Staunton City,Harrisonburg
+VA,544,51800,Suffolk City,Norfolk-Portsmouth-Newport News
+VA,544,51810,Virginia Beach City,Norfolk-Portsmouth-Newport News
+VA,569,51820,Waynesboro City,Harrisonburg
+VA,544,51830,Williamsburg City,Norfolk-Portsmouth-Newport News
+VA,511,51840,Winchester City,"Washington, Dc-Hagrstwn"
+WA,881,53001,Adams,Spokane
+WA,881,53003,Asotin,Spokane
+WA,810,53005,Benton,Yakima-Pasco-Rchlnd-Knnwck
+WA,819,53007,Chelan,Seattle-Tacoma
+WA,819,53009,Clallam,Seattle-Tacoma
+WA,820,53011,Clark,"Portland, Or"
+WA,881,53013,Columbia,Spokane
+WA,820,53015,Cowlitz,"Portland, Or"
+WA,819,53017,Douglas,Seattle-Tacoma
+WA,881,53019,Ferry,Spokane
+WA,810,53021,Franklin,Yakima-Pasco-Rchlnd-Knnwck
+WA,881,53023,Garfield,Spokane
+WA,881,53025,Grant,Spokane
+WA,819,53027,Grays Harbor,Seattle-Tacoma
+WA,819,53029,Island,Seattle-Tacoma
+WA,819,53031,Jefferson,Seattle-Tacoma
+WA,819,53033,King,Seattle-Tacoma
+WA,819,53035,Kitsap,Seattle-Tacoma
+WA,810,53037,Kittitas,Yakima-Pasco-Rchlnd-Knnwck
+WA,820,53039,Klickitat,"Portland, Or"
+WA,819,53041,Lewis,Seattle-Tacoma
+WA,881,53043,Lincoln,Spokane
+WA,819,53045,Mason,Seattle-Tacoma
+WA,881,53047,Okanogan,Spokane
+WA,819,53049,Pacific,Seattle-Tacoma
+WA,881,53051,Pend Oreille,Spokane
+WA,819,53053,Pierce,Seattle-Tacoma
+WA,819,53055,San Juan,Seattle-Tacoma
+WA,819,53057,Skagit,Seattle-Tacoma
+WA,820,53059,Skamania,"Portland, Or"
+WA,819,53061,Snohomish,Seattle-Tacoma
+WA,881,53063,Spokane,Spokane
+WA,881,53065,Stevens,Spokane
+WA,819,53067,Thurston,Seattle-Tacoma
+WA,820,53069,Wahkiakum,"Portland, Or"
+WA,810,53071,Walla Walla,Yakima-Pasco-Rchlnd-Knnwck
+WA,819,53073,Whatcom,Seattle-Tacoma
+WA,881,53075,Whitman,Spokane
+WA,810,53077,Yakima,Yakima-Pasco-Rchlnd-Knnwck
+WV,598,54001,Barbour,Clarksburg-Weston
+WV,511,54003,Berkeley,"Washington, Dc-Hagrstwn"
+WV,564,54005,Boone,Charleston-Huntington
+WV,564,54007,Braxton,Charleston-Huntington
+WV,554,54009,Brooke,Wheeling-Steubenville
+WV,564,54011,Cabell,Charleston-Huntington
+WV,564,54013,Calhoun,Charleston-Huntington
+WV,564,54015,Clay,Charleston-Huntington
+WV,598,54017,Doddridge,Clarksburg-Weston
+WV,559,54019,Fayette,Bluefield-Beckley-Oak Hill
+WV,598,54021,Gilmer,Clarksburg-Weston
+WV,511,54023,Grant,"Washington, Dc-Hagrstwn"
+WV,559,54025,Greenbrier,Bluefield-Beckley-Oak Hill
+WV,511,54027,Hampshire,"Washington, Dc-Hagrstwn"
+WV,554,54029,Hancock,Wheeling-Steubenville
+WV,511,54031,Hardy,"Washington, Dc-Hagrstwn"
+WV,598,54033,Harrison,Clarksburg-Weston
+WV,564,54035,Jackson,Charleston-Huntington
+WV,511,54037,Jefferson,"Washington, Dc-Hagrstwn"
+WV,564,54039,Kanawha,Charleston-Huntington
+WV,598,54041,Lewis,Clarksburg-Weston
+WV,564,54043,Lincoln,Charleston-Huntington
+WV,564,54045,Logan,Charleston-Huntington
+WV,559,54047,McDowell,Bluefield-Beckley-Oak Hill
+WV,598,54049,Marion,Clarksburg-Weston
+WV,554,54051,Marshall,Wheeling-Steubenville
+WV,564,54053,Mason,Charleston-Huntington
+WV,559,54055,Mercer,Bluefield-Beckley-Oak Hill
+WV,511,54057,Mineral,"Washington, Dc-Hagrstwn"
+WV,564,54059,Mingo,Charleston-Huntington
+WV,508,54061,Monongalia,Pittsburgh
+WV,559,54063,Monroe,Bluefield-Beckley-Oak Hill
+WV,511,54065,Morgan,"Washington, Dc-Hagrstwn"
+WV,564,54067,Nicholas,Charleston-Huntington
+WV,554,54069,Ohio,Wheeling-Steubenville
+WV,569,54071,Pendleton,Harrisonburg
+WV,597,54073,Pleasants,Parkersburg
+WV,573,54075,Pocahontas,Roanoke-Lynchburg
+WV,508,54077,Preston,Pittsburgh
+WV,564,54079,Putnam,Charleston-Huntington
+WV,559,54081,Raleigh,Bluefield-Beckley-Oak Hill
+WV,598,54083,Randolph,Clarksburg-Weston
+WV,598,54085,Ritchie,Clarksburg-Weston
+WV,564,54087,Roane,Charleston-Huntington
+WV,559,54089,Summers,Bluefield-Beckley-Oak Hill
+WV,598,54091,Taylor,Clarksburg-Weston
+WV,598,54093,Tucker,Clarksburg-Weston
+WV,554,54095,Tyler,Wheeling-Steubenville
+WV,598,54097,Upshur,Clarksburg-Weston
+WV,564,54099,Wayne,Charleston-Huntington
+WV,598,54101,Webster,Clarksburg-Weston
+WV,554,54103,Wetzel,Wheeling-Steubenville
+WV,564,54105,Wirt,Charleston-Huntington
+WV,597,54107,Wood,Parkersburg
+WV,559,54109,Wyoming,Bluefield-Beckley-Oak Hill
+WI,705,55001,Adams,Wausau-Rhinelander
+WI,676,55003,Ashland,Duluth-Superior
+WI,613,55005,Barron,Minneapolis-Saint Paul
+WI,676,55007,Bayfield,Duluth-Superior
+WI,658,55009,Brown,Green Bay-Appleton
+WI,702,55011,Buffalo,La Crosse-Eau Claire
+WI,613,55013,Burnett,Minneapolis-Saint Paul
+WI,658,55015,Calumet,Green Bay-Appleton
+WI,702,55017,Chippewa,La Crosse-Eau Claire
+WI,702,55019,Clark,La Crosse-Eau Claire
+WI,669,55021,Columbia,Madison
+WI,702,55023,Crawford,La Crosse-Eau Claire
+WI,669,55025,Dane,Madison
+WI,617,55027,Dodge,Milwaukee
+WI,658,55029,Door,Green Bay-Appleton
+WI,676,55031,Douglas,Duluth-Superior
+WI,613,55033,Dunn,Minneapolis-Saint Paul
+WI,702,55035,Eau Claire,La Crosse-Eau Claire
+WI,553,55037,Florence,Marquette
+WI,658,55039,Fond du Lac,Green Bay-Appleton
+WI,705,55041,Forest,Wausau-Rhinelander
+WI,669,55043,Grant,Madison
+WI,669,55045,Green,Madison
+WI,658,55047,Green Lake,Green Bay-Appleton
+WI,669,55049,Iowa,Madison
+WI,676,55051,Iron,Duluth-Superior
+WI,702,55053,Jackson,La Crosse-Eau Claire
+WI,617,55055,Jefferson,Milwaukee
+WI,669,55057,Juneau,Madison
+WI,617,55059,Kenosha,Milwaukee
+WI,658,55061,Kewaunee,Green Bay-Appleton
+WI,702,55063,La Crosse,La Crosse-Eau Claire
+WI,669,55065,Lafayette,Madison
+WI,705,55067,Langlade,Wausau-Rhinelander
+WI,705,55069,Lincoln,Wausau-Rhinelander
+WI,658,55071,Manitowoc,Green Bay-Appleton
+WI,705,55073,Marathon,Wausau-Rhinelander
+WI,658,55075,Marinette,Green Bay-Appleton
+WI,669,55077,Marquette,Madison
+WI,658,55078,Menominee,Green Bay-Appleton
+WI,617,55079,Milwaukee,Milwaukee
+WI,702,55081,Monroe,La Crosse-Eau Claire
+WI,658,55083,Oconto,Green Bay-Appleton
+WI,705,55085,Oneida,Wausau-Rhinelander
+WI,658,55087,Outagamie,Green Bay-Appleton
+WI,617,55089,Ozaukee,Milwaukee
+WI,702,55091,Pepin,La Crosse-Eau Claire
+WI,613,55093,Pierce,Minneapolis-Saint Paul
+WI,613,55095,Polk,Minneapolis-Saint Paul
+WI,705,55097,Portage,Wausau-Rhinelander
+WI,705,55099,Price,Wausau-Rhinelander
+WI,617,55101,Racine,Milwaukee
+WI,669,55103,Richland,Madison
+WI,669,55105,Rock,Madison
+WI,702,55107,Rusk,La Crosse-Eau Claire
+WI,613,55109,Saint Croix,Minneapolis-Saint Paul
+WI,669,55111,Sauk,Madison
+WI,676,55113,Sawyer,Duluth-Superior
+WI,658,55115,Shawano,Green Bay-Appleton
+WI,617,55117,Sheboygan,Milwaukee
+WI,705,55119,Taylor,Wausau-Rhinelander
+WI,702,55121,Trempealeau,La Crosse-Eau Claire
+WI,702,55123,Vernon,La Crosse-Eau Claire
+WI,705,55125,Vilas,Wausau-Rhinelander
+WI,617,55127,Walworth,Milwaukee
+WI,613,55129,Washburn,Minneapolis-Saint Paul
+WI,617,55131,Washington,Milwaukee
+WI,617,55133,Waukesha,Milwaukee
+WI,658,55135,Waupaca,Green Bay-Appleton
+WI,658,55137,Waushara,Green Bay-Appleton
+WI,658,55139,Winnebago,Green Bay-Appleton
+WI,705,55141,Wood,Wausau-Rhinelander
+WY,751,56001,Albany,Denver
+WY,756,56003,Big Horn,Billings
+WY,751,56005,Campbell,Denver
+WY,751,56007,Carbon,Denver
+WY,767,56009,Converse,Casper-Riverton
+WY,764,56011,Crook,Rapid City
+WY,767,56013,Fremont,Casper-Riverton
+WY,759,56015,Goshen,Cheyenne-Scottsbluff
+WY,767,56017,Hot Springs,Casper-Riverton
+WY,751,56019,Johnson,Denver
+WY,759,56021,Laramie,Cheyenne-Scottsbluff
+WY,770,56023,Lincoln,Salt Lake City
+WY,767,56025,Natrona,Casper-Riverton
+WY,751,56027,Niobrara,Denver
+WY,756,56029,Park,Billings
+WY,751,56031,Platte,Denver
+WY,764,56033,Sheridan,Rapid City
+WY,770,56035,Sublette,Salt Lake City
+WY,770,56037,Sweetwater,Salt Lake City
+WY,758,56039,Teton,Idaho Falls-Pocatello
+WY,770,56041,Uinta,Salt Lake City
+WY,767,56043,Washakie,Casper-Riverton
+WY,764,56045,Weston,Rapid City

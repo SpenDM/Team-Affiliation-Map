@@ -1,0 +1,14 @@
+# IDE
+.idea/
+*.pyc
+__pycache__/
+
+# Downloaded boundary files (re-downloadable by build_map.py)
+data/cb_2022_us_county_5m.zip
+data/lcd_000b21a_e.zip
+
+# Raw pytrends cache (large, re-fetchable by fetch_trends.py)
+data/raw/
+
+# Generated map (too large for git; regenerate from scores_unbalanced.csv)
+output/map.geojson

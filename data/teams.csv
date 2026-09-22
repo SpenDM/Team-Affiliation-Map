@@ -1,0 +1,230 @@
+team_id,team_name,league,market,search_query,country,google_entity_id
+T001,Arizona Cardinals,NFL,Phoenix,Arizona Cardinals NFL,US,/m/0ws7
+T002,Atlanta Falcons,NFL,Atlanta,Atlanta Falcons NFL,US,/m/0wsr
+T003,Baltimore Ravens,NFL,Baltimore,Baltimore Ravens NFL,US,/m/01ct6
+T004,Buffalo Bills,NFL,Buffalo,Buffalo Bills NFL,US,/m/01c_d
+T005,Carolina Panthers,NFL,Charlotte,Carolina Panthers NFL,US,/m/01y3c
+T006,Chicago Bears,NFL,Chicago,Chicago Bears NFL,US,/m/01y3v
+T007,Cincinnati Bengals,NFL,Cincinnati,Cincinnati Bengals NFL,US,/m/01y49
+T008,Cleveland Browns,NFL,Cleveland,Cleveland Browns NFL,US,/m/01xvb
+T009,Dallas Cowboys,NFL,Dallas,Dallas Cowboys NFL,US,/g/11c5svdtyh
+T010,Denver Broncos,NFL,Denver,Denver Broncos NFL,US,/m/0289q
+T011,Detroit Lions,NFL,Detroit,Detroit Lions NFL,US,/m/02c_4
+T012,Green Bay Packers,NFL,Green Bay,Green Bay Packers NFL,US,/m/03b3j
+T013,Houston Texans,NFL,Houston,Houston Texans NFL,US,/m/03lsq
+T014,Indianapolis Colts,NFL,Indianapolis,Indianapolis Colts NFL,US,/m/03wnh
+T015,Jacksonville Jaguars,NFL,Jacksonville,Jacksonville Jaguars NFL,US,/m/043vc
+T016,Kansas City Chiefs,NFL,Kansas City,Kansas City Chiefs NFL,US,/m/0487_
+T017,Las Vegas Raiders,NFL,Las Vegas,Las Vegas Raiders NFL,US,/m/05l71
+T018,Los Angeles Chargers,NFL,Los Angeles,Los Angeles Chargers NFL,US,/m/06rpd
+T019,Los Angeles Rams,NFL,Los Angeles,Los Angeles Rams NFL,US,/m/06x76
+T020,Miami Dolphins,NFL,Miami,Miami Dolphins NFL,US,/m/04vn5
+T021,Minnesota Vikings,NFL,Minneapolis,Minnesota Vikings NFL,US,/m/051q5
+T022,New England Patriots,NFL,Boston,New England Patriots NFL,US,/m/05g3b
+T023,New Orleans Saints,NFL,New Orleans,New Orleans Saints NFL,US,/m/05g3v
+T024,New York Giants,NFL,New York,New York Giants NFL,US,/m/05gg4
+T025,New York Jets,NFL,New York,New York Jets NFL,US,/m/05g49
+T026,Philadelphia Eagles,NFL,Philadelphia,Philadelphia Eagles NFL,US,/m/05tg3
+T027,Pittsburgh Steelers,NFL,Pittsburgh,Pittsburgh Steelers NFL,US,/m/05tfm
+T028,San Francisco 49ers,NFL,San Francisco,San Francisco 49ers NFL,US,/m/06rny
+T029,Seattle Seahawks,NFL,Seattle,Seattle Seahawks NFL,US,/m/070xg
+T030,Tampa Bay Buccaneers,NFL,Tampa,Tampa Bay Buccaneers NFL,US,/m/07l24
+T031,Tennessee Titans,NFL,Nashville,Tennessee Titans NFL,US,/m/07l2m
+T032,Washington Commanders,NFL,Washington DC,Washington Commanders NFL,US,/m/084l5
+T033,Atlanta Hawks,NBA,Atlanta,Atlanta Hawks NBA,US,/m/0jm64
+T034,Boston Celtics,NBA,Boston,Boston Celtics NBA,US,/m/0bwjj
+T035,Brooklyn Nets,NBA,New York,Brooklyn Nets NBA,US,/m/0jm3b
+T036,Charlotte Hornets,NBA,Charlotte,Charlotte Hornets NBA,US,/m/01k8vh
+T037,Chicago Bulls,NBA,Chicago,Chicago Bulls NBA,US,/m/0jm74
+T038,Cleveland Cavaliers,NBA,Cleveland,Cleveland Cavaliers NBA,US,/m/0jm7n
+T039,Dallas Mavericks,NBA,Dallas,Dallas Mavericks NBA,US,/m/0jmcv
+T040,Denver Nuggets,NBA,Denver,Denver Nuggets NBA,US,/m/0jmdb
+T041,Detroit Pistons,NBA,Detroit,Detroit Pistons NBA,US,/m/0jm8l
+T042,Golden State Warriors,NBA,San Francisco,Golden State Warriors NBA,US,/m/0jmj7
+T043,Houston Rockets,NBA,Houston,Houston Rockets NBA,US,/m/0jmfb
+T044,Indiana Pacers,NBA,Indianapolis,Indiana Pacers NBA,US,/m/0jm9w
+T045,Los Angeles Clippers,NBA,Los Angeles,Los Angeles Clippers NBA,US,/m/0jmk7
+T046,Los Angeles Lakers,NBA,Los Angeles,Los Angeles Lakers NBA,US,/m/0jmk7
+T047,Memphis Grizzlies,NBA,Memphis,Memphis Grizzlies NBA,US,/m/0jmfv
+T048,Miami Heat,NBA,Miami,Miami Heat NBA,US,/m/0jm2v
+T049,Milwaukee Bucks,NBA,Milwaukee,Milwaukee Bucks NBA,US,/m/0jmbv
+T050,Minnesota Timberwolves,NBA,Minneapolis,Minnesota Timberwolves NBA,US,/m/0jmgb
+T051,New Orleans Pelicans,NBA,New Orleans,New Orleans Pelicans NBA,US,/m/0jm6n
+T052,New York Knicks,NBA,New York,New York Knicks NBA,US,/m/0jm3v
+T053,Oklahoma City Thunder,NBA,Oklahoma City,Oklahoma City Thunder NBA,US,/m/04cxw5b
+T054,Orlando Magic,NBA,Orlando,Orlando Magic NBA,US,/m/0jm4b
+T055,Philadelphia 76ers,NBA,Philadelphia,Philadelphia 76ers NBA,US,/m/0jm4v
+T056,Phoenix Suns,NBA,Phoenix,Phoenix Suns NBA,US,/m/0jml5
+T057,Portland Trail Blazers,NBA,Portland,Portland Trail Blazers NBA,US,/m/0jmm4
+T058,Sacramento Kings,NBA,Sacramento,Sacramento Kings NBA,US,/m/0jmmn
+T059,San Antonio Spurs,NBA,San Antonio,San Antonio Spurs NBA,US,/m/0jmh7
+T060,Toronto Raptors,NBA,Toronto,Toronto Raptors NBA,Canada,/m/0jmcb
+T061,Utah Jazz,NBA,Salt Lake City,Utah Jazz NBA,US,/m/0jmhr
+T062,Washington Wizards,NBA,Washington DC,Washington Wizards NBA,US,/m/0jm5b
+T063,Anaheim Ducks,NHL,Anaheim,Anaheim Ducks NHL,US,/m/0jnpc
+T064,Boston Bruins,NHL,Boston,Boston Bruins NHL,US,/m/0j2zj
+T065,Buffalo Sabres,NHL,Buffalo,Buffalo Sabres NHL,US,/m/0j5m6
+T066,Calgary Flames,NHL,Calgary,Calgary Flames NHL,Canada,/m/0jnm_
+T067,Carolina Hurricanes,NHL,Raleigh,Carolina Hurricanes NHL,US,/m/0j8cb
+T068,Chicago Blackhawks,NHL,Chicago,Chicago Blackhawks NHL,US,/m/0jnlm
+T069,Colorado Avalanche,NHL,Denver,Colorado Avalanche NHL,US,/m/0jbqf
+T070,Columbus Blue Jackets,NHL,Columbus,Columbus Blue Jackets NHL,US,/m/0jnm2
+T071,Dallas Stars,NHL,Dallas,Dallas Stars NHL,US,/m/0jnpv
+T072,Detroit Red Wings,NHL,Detroit,Detroit Red Wings NHL,US,/m/02fp3
+T073,Edmonton Oilers,NHL,Edmonton,Edmonton Oilers NHL,Canada,/m/0jnmj
+T074,Florida Panthers,NHL,Miami,Florida Panthers NHL,US,/m/0j8js
+T075,Los Angeles Kings,NHL,Los Angeles,Los Angeles Kings NHL,US,/m/0jmk7
+T076,Minnesota Wild,NHL,Minneapolis,Minnesota Wild NHL,US,/m/0jnng
+T077,Montreal Canadiens,NHL,Montreal,Montreal Canadiens NHL,Canada,/m/0bszz
+T078,Nashville Predators,NHL,Nashville,Nashville Predators NHL,US,/m/0jnr_
+T079,New Jersey Devils,NHL,New York,New Jersey Devils NHL,US,/m/0hm2b
+T080,New York Islanders,NHL,New York,New York Islanders NHL,US,/m/0hmt3
+T081,New York Rangers,NHL,New York,New York Rangers NHL,US,/m/0jm3v
+T082,Ottawa Senators,NHL,Ottawa,Ottawa Senators NHL,Canada,/m/05pcr
+T083,Philadelphia Flyers,NHL,Philadelphia,Philadelphia Flyers NHL,US,/m/0hn2q
+T084,Pittsburgh Penguins,NHL,Pittsburgh,Pittsburgh Penguins NHL,US,/m/0hn6d
+T085,San Jose Sharks,NHL,San Jose,San Jose Sharks NHL,US,/m/0jnrk
+T086,Seattle Kraken,NHL,Seattle,Seattle Kraken NHL,US,/g/11fj0__wk2
+T087,St. Louis Blues,NHL,St. Louis,St. Louis Blues NHL,US,/m/06x6s
+T088,Tampa Bay Lightning,NHL,Tampa,Tampa Bay Lightning NHL,US,/m/0jnkr
+T089,Toronto Maple Leafs,NHL,Toronto,Toronto Maple Leafs NHL,Canada,/m/0j6tr
+T090,Utah Hockey Club,NHL,Salt Lake City,Utah Hockey Club NHL,US,/g/11vz4r_mc1
+T091,Vancouver Canucks,NHL,Vancouver,Vancouver Canucks NHL,Canada,/m/0jnnx
+T092,Vegas Golden Knights,NHL,Las Vegas,Vegas Golden Knights NHL,US,/g/11bzx9wlnp
+T093,Washington Capitals,NHL,Washington DC,Washington Capitals NHL,US,/m/0jnl5
+T094,Winnipeg Jets,NHL,Winnipeg,Winnipeg Jets NHL,Canada,/m/0gvt8sz
+T095,Arizona Diamondbacks,MLB,Phoenix,Arizona Diamondbacks MLB,US,/m/0x0d
+T096,Atlanta Braves,MLB,Atlanta,Atlanta Braves MLB,US,/m/0x2p
+T097,Baltimore Orioles,MLB,Baltimore,Baltimore Orioles MLB,US,/m/01d6g
+T098,Boston Red Sox,MLB,Boston,Boston Red Sox MLB,US,/m/01d5z
+T099,Chicago Cubs,MLB,Chicago,Chicago Cubs MLB,US,/m/01yjl
+T100,Chicago White Sox,MLB,Chicago,Chicago White Sox MLB,US,/m/01slc
+T101,Cincinnati Reds,MLB,Cincinnati,Cincinnati Reds MLB,US,/m/01ypc
+T102,Cleveland Guardians,MLB,Cleveland,Cleveland Guardians MLB,US,/m/01yhm
+T103,Colorado Rockies,MLB,Denver,Colorado Rockies MLB,US,/m/01ync
+T104,Detroit Tigers,MLB,Detroit,Detroit Tigers MLB,US,/m/02d02
+T105,Houston Astros,MLB,Houston,Houston Astros MLB,US,/m/03m1n
+T106,Kansas City Royals,MLB,Kansas City,Kansas City Royals MLB,US,/m/049n7
+T107,Los Angeles Angels,MLB,Los Angeles,Los Angeles Angels MLB,US,/m/04wmvz
+T108,Los Angeles Dodgers,MLB,Los Angeles,Los Angeles Dodgers MLB,US,/m/04mjl
+T109,Miami Marlins,MLB,Miami,Miami Marlins MLB,US,/m/02__x
+T110,Milwaukee Brewers,MLB,Milwaukee,Milwaukee Brewers MLB,US,/m/051vz
+T111,Minnesota Twins,MLB,Minneapolis,Minnesota Twins MLB,US,/m/0512p
+T112,New York Mets,MLB,New York,New York Mets MLB,US,/m/05g76
+T113,New York Yankees,MLB,New York,New York Yankees MLB,US,/m/05g76
+T114,Athletics,MLB,Sacramento,Athletics MLB,US,/m/05m_8
+T115,Philadelphia Phillies,MLB,Philadelphia,Philadelphia Phillies MLB,US,/m/05xvj
+T116,Pittsburgh Pirates,MLB,Pittsburgh,Pittsburgh Pirates MLB,US,/m/061xq
+T117,San Diego Padres,MLB,San Diego,San Diego Padres MLB,US,/m/07147
+T118,San Francisco Giants,MLB,San Francisco,San Francisco Giants MLB,US,/m/0713r
+T119,Seattle Mariners,MLB,Seattle,Seattle Mariners MLB,US,/m/06wpc
+T120,St. Louis Cardinals,MLB,St. Louis,St. Louis Cardinals MLB,US,/m/06x68
+T121,Tampa Bay Rays,MLB,Tampa,Tampa Bay Rays MLB,US,/m/07l8f
+T122,Texas Rangers,MLB,Dallas,Texas Rangers MLB,US,/g/11f89hsgzr
+T123,Toronto Blue Jays,MLB,Toronto,Toronto Blue Jays MLB,Canada,/m/07l4z
+T124,Washington Nationals,MLB,Washington DC,Washington Nationals MLB,US,/m/03lpp_
+T125,Alabama Football,College Football,Tuscaloosa,Alabama football,US,/m/026bt_h
+T126,Arkansas Football,College Football,Fayetteville AR,Arkansas football,US,/m/03hfx6c
+T127,Auburn Football,College Football,Auburn AL,Auburn football,US,/m/086hg9
+T128,Florida Football,College Football,Gainesville,Florida football,US,/m/025v26c
+T129,Georgia Football,College Football,Athens GA,Georgia football,US,/m/07kbp5
+T130,Kentucky Football,College Football,Lexington KY,Kentucky football,US,/m/03m3s5f
+T131,Kentucky Basketball,College Basketball,Lexington KY,Kentucky basketball,US,/m/03by7wc
+T132,LSU Football,College Football,Baton Rouge,LSU football,US,/m/0fht9f
+T133,Mississippi State Football,College Football,Starkville,Mississippi State football,US,/m/03gqd77
+T134,Missouri Football,College Football,Columbia MO,Missouri football,US,/m/04czgbh
+T135,Oklahoma Football,College Football,Norman OK,Oklahoma football,US,/m/0g0z58
+T136,Ole Miss Football,College Football,Oxford MS,Ole Miss football,US,/m/03gqb0k
+T137,South Carolina Football,College Football,Columbia SC,South Carolina football,US,/m/03by3qq
+T138,Tennessee Football,College Football,Knoxville,Tennessee football,US,/m/025_64l
+T139,Texas Football,College Football,Austin,Texas football,US,/m/026lg68
+T140,Texas A&M Football,College Football,College Station,Texas A&M football,US,/m/026lg68
+T141,Vanderbilt Football,College Football,Nashville,Vanderbilt football,US,/m/026v18h
+T142,Illinois Football,College Football,Champaign,Illinois football,US,/m/0fwfjd
+T143,Indiana Football,College Football,Bloomington IN,Indiana football,US,/m/0fs0h5
+T144,Indiana Basketball,College Basketball,Bloomington IN,Indiana basketball,US,/m/02pzy52
+T145,Iowa Football,College Football,Iowa City,Iowa football,US,/m/03ttn0
+T146,Iowa Basketball,College Basketball,Iowa City,Iowa basketball,US,/m/02qn723
+T147,Maryland Football,College Football,College Park,Maryland football,US,/m/025v1sx
+T148,Michigan Football,College Football,Ann Arbor,Michigan football,US,/m/0fsb_6
+T149,Michigan State Football,College Football,East Lansing,Michigan State football,US,/m/0ft5vs
+T150,Michigan State Basketball,College Basketball,East Lansing,Michigan State basketball,US,/m/02q1_xm
+T151,Minnesota Football,College Football,Minneapolis,Minnesota football,US,/m/0fq7ww
+T152,Nebraska Football,College Football,Lincoln NE,Nebraska football,US,/m/0bjkk9
+T153,Northwestern Football,College Football,Evanston,Northwestern football,US,/m/0c_fdy
+T154,Ohio State Football,College Football,Columbus OH,Ohio State Buckeyes Football,US,/m/0fjzsy
+T155,Oregon Football,College Football,Eugene,Oregon football,US,/m/0fbq2n
+T156,Penn State Football,College Football,State College,Penn State football,US,/m/0frm7n
+T157,Purdue Football,College Football,West Lafayette,Purdue football,US,/m/0ftccy
+T158,Purdue Basketball,College Basketball,West Lafayette,Purdue basketball,US,/m/026w398
+T159,Rutgers Football,College Football,New Brunswick NJ,Rutgers football,US,/m/02pdm0g
+T160,UCLA Football,College Football,Los Angeles,UCLA football,US,/m/0fbtm7
+T161,UCLA Basketball,College Basketball,Los Angeles,UCLA basketball,US,/m/02pqcfz
+T162,USC Football,College Football,Los Angeles,USC football,US,/m/07k53y
+T163,Washington Football,College Football,Seattle,Washington football,US,/m/0fgg8c
+T164,Wisconsin Football,College Football,Madison WI,Wisconsin football,US,/m/0fw9n7
+T165,Wisconsin Basketball,College Basketball,Madison WI,Wisconsin basketball,US,/m/02qkqcv
+T166,Boston College Football,College Football,Boston,Boston College football,US,/m/02wvfxl
+T167,California Football,College Football,Berkeley,California football,US,/m/07k53y
+T168,Clemson Football,College Football,Clemson SC,Clemson football,US,/m/03hfxkn
+T169,Duke Football,College Football,Durham,Duke football,US,/m/03gq8gh
+T170,Duke Basketball,College Basketball,Durham,Duke basketball,US,/m/026wlnm
+T171,Florida State Football,College Football,Tallahassee,Florida State football,US,/m/025v26c
+T172,Georgia Tech Football,College Football,Atlanta,Georgia Tech football,US,/m/02wvfxz
+T173,Louisville Football,College Football,Louisville,Louisville football,US,/m/0fbftr
+T174,Louisville Basketball,College Basketball,Louisville,Louisville basketball,US,/m/02plv57
+T175,Miami (FL) Football,College Football,Miami,Miami (FL) football,US,/m/07kcvl
+T176,North Carolina Football,College Football,Chapel Hill,North Carolina football,US,/m/026lg0s
+T177,North Carolina Basketball,College Basketball,Chapel Hill,North Carolina basketball,US,/m/026xxv_
+T178,NC State Football,College Football,Raleigh,NC State football,US,/m/03bxpt0
+T179,Pittsburgh Football,College Football,Pittsburgh,Pittsburgh football,US,/m/02vklm3
+T180,SMU Football,College Football,Dallas,SMU football,US,/m/04_1my0
+T181,Stanford Football,College Football,Palo Alto,Stanford football,US,/m/02pd1tf
+T182,Syracuse Football,College Football,Syracuse NY,Syracuse football,US,/m/057xlyq
+T183,Syracuse Basketball,College Basketball,Syracuse NY,Syracuse basketball,US,/m/02q4ntp
+T184,Virginia Football,College Football,Charlottesville,Virginia football,US,/m/0fwwkj
+T185,Virginia Tech Football,College Football,Blacksburg,Virginia Tech football,US,/m/0fwwkj
+T186,Wake Forest Football,College Football,Winston-Salem,Wake Forest football,US,/m/026yr0p
+T187,Arizona Football,College Football,Tucson,Arizona football,US,/m/03hfx6r
+T188,Arizona Basketball,College Basketball,Tucson,Arizona basketball,US,/m/02qk2d5
+T189,Arizona State Football,College Football,Tempe,Arizona State football,US,/m/026ldz7
+T190,Baylor Football,College Football,Waco,Baylor football,US,/m/047vqp_
+T191,BYU Football,College Football,Provo,BYU football,US,/m/026l1lq
+T192,Cincinnati Football,College Football,Cincinnati,Cincinnati football,US,/m/057xkj_
+T193,Colorado Football,College Football,Boulder,Colorado football,US,/m/0f24cc
+T194,Houston Football,College Football,Houston,Houston football,US,/m/02pkdly
+T195,Iowa State Football,College Football,Ames,Iowa State football,US,/m/02pbsh4
+T196,Kansas Football,College Football,Lawrence KS,Kansas football,US,/m/03whz_8
+T197,Kansas Basketball,College Basketball,Lawrence KS,Kansas basketball,US,/m/091tgz
+T198,Kansas State Football,College Football,Manhattan KS,Kansas State football,US,/m/03whz_8
+T199,Kansas State Basketball,College Basketball,Manhattan KS,Kansas State basketball,US,/m/03w9h6g
+T200,Oklahoma State Football,College Football,Stillwater,Oklahoma State football,US,/m/043tz8m
+T201,TCU Football,College Football,Fort Worth,TCU football,US,/m/02px_23
+T202,Texas Tech Football,College Football,Lubbock,Texas Tech football,US,/m/03gq8gw
+T203,UCF Football,College Football,Orlando,UCF football,US,/m/08pxkj
+T204,Utah Football,College Football,Salt Lake City,Utah football,US,/m/04n7ps6
+T205,West Virginia Football,College Football,Morgantown,West Virginia football,US,/m/02wvf2s
+T206,West Virginia Basketball,College Basketball,Morgantown,West Virginia basketball,US,/m/03mb1nb
+T207,Notre Dame Football,College Football,South Bend,Notre Dame football,US,/m/04ls81
+T208,Boise State Football,College Football,Boise,Boise State football,US,/m/0gpmf1
+T209,Memphis Football,College Football,Memphis,Memphis football,US,/m/076_0b2
+T210,UNLV Football,College Football,Las Vegas,UNLV football,US,/m/0gsg46
+T211,Appalachian State Football,College Football,Boone NC,Appalachian State football,US,/m/03hfz15
+T212,Liberty Football,College Football,Lynchburg VA,Liberty football,US,/m/09rxlgj
+T213,Tulane Football,College Football,New Orleans,Tulane football,US,/m/04f7dc1
+T214,South Florida Football,College Football,Tampa,South Florida football,US,/m/0gps08
+T215,Army Football,College Football,West Point NY,Army football,US,/m/026642h
+T216,Navy Football,College Football,Annapolis,Navy football,US,/m/025yr0y
+T217,Air Force Football,College Football,Colorado Springs,Air Force football,US,/m/0d2m7m
+T218,James Madison Football,College Football,Harrisonburg VA,James Madison football,US,/m/03nwvdw
+T219,Coastal Carolina Football,College Football,Conway SC,Coastal Carolina football,US,/m/0crhwpv
+T220,Fresno State Football,College Football,Fresno,Fresno State football,US,/m/02pd_lj
+T221,San Diego State Football,College Football,San Diego,San Diego State football,US,/m/05c5xx9
+T222,Troy Football,College Football,Troy AL,Troy football,US,/m/05t10dv
+T223,Marshall Football,College Football,Huntington WV,Marshall football,US,/m/0661q7m
+T224,Villanova Basketball,College Basketball,Philadelphia,Villanova basketball,US,/m/02pjzvh
+T225,UConn Basketball,College Basketball,Hartford,UConn basketball,US,/m/04088s0
+T226,Creighton Basketball,College Basketball,Omaha,Creighton basketball,US,/m/02qsymk
+T227,Gonzaga Basketball,College Basketball,Spokane,Gonzaga basketball,US,/m/03c_p38
+T228,Saint Mary's Basketball,College Basketball,Moraga CA,Saint Mary's basketball,US,/m/0dlk29f
+T229,Dayton Basketball,College Basketball,Dayton,Dayton basketball,US,/m/02qcz16

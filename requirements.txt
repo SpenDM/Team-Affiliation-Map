@@ -1,0 +1,6 @@
+pytrends>=4.9.2
+pandas>=2.0.0
+geopandas>=0.14.0
+requests>=2.31.0
+openpyxl>=3.1.0
+urllib3<2          # pytrends 4.9.2 uses method_whitelist, removed in urllib3 2.x
